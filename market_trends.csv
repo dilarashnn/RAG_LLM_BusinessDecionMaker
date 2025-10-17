@@ -1,0 +1,5001 @@
+Date,Sector,GrowthRate (%),AvgPrice
+2025-01-03,Toys,4.65,79
+2025-06-16,Home Appliances,2.81,156
+2025-12-09,Electronics,2.47,195
+2025-04-17,Furniture,1.05,119
+2025-12-12,Furniture,0.52,191
+2025-05-02,Electronics,3.57,77
+2025-01-23,Toys,4.96,105
+2025-12-19,Toys,4.11,89
+2025-12-05,Electronics,3.89,67
+2025-04-12,Electronics,0.77,104
+2025-06-25,Electronics,1.72,93
+2025-09-20,Home Appliances,3.77,174
+2025-01-27,Furniture,4.05,98
+2025-04-01,Electronics,1.8,61
+2025-08-22,Toys,4.33,145
+2025-03-26,Electronics,1.06,188
+2025-11-14,Toys,4.8,62
+2025-08-30,Home Appliances,3.45,82
+2025-01-04,Home Appliances,0.83,149
+2025-04-23,Toys,2.21,108
+2025-04-03,Toys,4.56,126
+2025-12-07,Electronics,0.89,77
+2025-10-17,Furniture,1.71,75
+2025-07-08,Electronics,0.67,147
+2025-06-06,Electronics,2.55,186
+2025-11-24,Toys,3.91,195
+2025-04-09,Furniture,2.12,169
+2025-04-21,Home Appliances,2.94,125
+2025-01-16,Furniture,1.97,77
+2025-04-26,Furniture,4.21,170
+2025-12-13,Home Appliances,1.02,174
+2025-01-05,Furniture,2.12,123
+2025-04-25,Furniture,4.05,162
+2025-03-18,Electronics,3.82,108
+2025-04-02,Home Appliances,4.92,123
+2025-10-12,Furniture,4.31,149
+2025-12-15,Furniture,0.98,72
+2025-05-11,Electronics,0.78,126
+2025-11-20,Home Appliances,4.01,125
+2025-02-09,Furniture,0.82,166
+2025-06-10,Electronics,2.02,104
+2025-02-28,Toys,1.65,86
+2025-08-21,Home Appliances,0.65,65
+2025-08-05,Toys,3.95,106
+2025-07-12,Furniture,3.76,85
+2025-02-09,Electronics,1.16,93
+2025-02-08,Furniture,2.36,199
+2025-02-20,Home Appliances,3.8,116
+2025-07-12,Home Appliances,2.01,97
+2025-07-01,Electronics,1.38,167
+2025-08-04,Toys,0.62,131
+2025-07-28,Furniture,4.37,66
+2025-09-24,Furniture,1.09,65
+2025-06-17,Toys,1.58,117
+2025-04-12,Toys,0.76,162
+2025-02-06,Furniture,2.76,55
+2025-08-17,Home Appliances,2.51,55
+2025-10-03,Furniture,3.75,114
+2025-09-14,Furniture,4.17,192
+2025-01-24,Electronics,3.85,112
+2025-08-24,Home Appliances,0.72,122
+2025-11-29,Furniture,3.37,108
+2025-09-17,Toys,3.15,132
+2025-03-10,Electronics,2.27,118
+2025-02-16,Furniture,2.53,171
+2025-12-05,Furniture,2.57,85
+2025-06-19,Electronics,1.21,71
+2025-02-22,Furniture,4.45,195
+2025-05-07,Home Appliances,3.5,133
+2025-05-12,Home Appliances,0.78,182
+2025-05-29,Furniture,4.04,99
+2025-07-10,Electronics,4.4,52
+2025-11-11,Electronics,4.89,134
+2025-09-19,Home Appliances,4.63,157
+2025-06-23,Furniture,4.06,71
+2025-11-17,Furniture,3.31,190
+2025-05-21,Toys,0.84,166
+2025-05-17,Toys,4.34,92
+2025-04-18,Furniture,0.72,191
+2025-02-24,Electronics,3.86,136
+2025-05-26,Furniture,0.9,163
+2025-10-05,Home Appliances,1.93,169
+2025-09-22,Toys,3.17,168
+2025-06-30,Home Appliances,4.94,78
+2025-09-02,Furniture,2.96,191
+2025-11-19,Electronics,2.01,120
+2025-07-25,Home Appliances,4.6,107
+2025-04-25,Furniture,1.06,72
+2025-12-26,Furniture,1.06,79
+2025-08-21,Toys,0.94,170
+2025-01-20,Electronics,1.9,90
+2025-03-07,Toys,0.92,178
+2025-12-16,Electronics,1.63,181
+2025-06-28,Toys,1.63,59
+2025-01-27,Furniture,1.53,187
+2025-02-07,Toys,4.17,91
+2025-11-15,Electronics,2.42,174
+2025-07-13,Furniture,1.55,146
+2025-09-28,Furniture,4.77,138
+2025-07-14,Furniture,3.06,97
+2025-07-07,Furniture,0.67,89
+2025-11-17,Furniture,0.76,113
+2025-04-20,Furniture,2.52,152
+2025-11-06,Toys,2.88,181
+2025-03-01,Furniture,0.72,106
+2025-12-28,Toys,3.49,165
+2025-06-04,Electronics,3.03,120
+2025-03-03,Toys,0.6,121
+2025-08-23,Electronics,2.26,97
+2025-05-22,Toys,1.0,142
+2025-05-10,Electronics,3.45,57
+2025-10-24,Furniture,1.6,71
+2025-01-09,Electronics,3.36,123
+2025-08-06,Furniture,2.56,146
+2025-12-26,Furniture,2.96,194
+2025-02-28,Toys,3.34,187
+2025-07-21,Home Appliances,3.58,160
+2025-06-18,Electronics,1.16,192
+2025-04-05,Furniture,3.75,140
+2025-08-04,Electronics,2.03,93
+2025-10-11,Electronics,1.53,200
+2025-05-12,Electronics,1.47,60
+2025-10-01,Electronics,4.82,93
+2025-01-15,Electronics,2.6,197
+2025-06-20,Toys,3.5,196
+2025-05-11,Toys,3.31,165
+2025-10-29,Electronics,1.86,106
+2025-08-17,Toys,4.43,55
+2025-02-02,Toys,2.39,141
+2025-09-20,Home Appliances,2.57,193
+2025-12-19,Furniture,1.5,96
+2025-10-14,Furniture,2.97,185
+2025-03-04,Furniture,2.93,137
+2025-08-23,Furniture,3.06,137
+2025-06-22,Electronics,4.88,173
+2025-12-06,Home Appliances,1.6,123
+2025-01-26,Electronics,4.31,174
+2025-12-28,Electronics,3.42,185
+2025-03-24,Toys,3.33,158
+2025-01-11,Home Appliances,2.6,96
+2025-04-23,Furniture,3.72,172
+2025-06-26,Furniture,3.84,117
+2025-08-10,Toys,4.25,192
+2025-07-27,Electronics,3.77,123
+2025-12-18,Home Appliances,3.97,190
+2025-08-26,Home Appliances,4.04,153
+2025-12-18,Electronics,0.55,163
+2025-08-01,Furniture,2.22,82
+2025-02-11,Home Appliances,2.05,104
+2025-10-28,Electronics,2.99,77
+2025-04-17,Home Appliances,2.38,137
+2025-08-03,Home Appliances,4.52,145
+2025-08-10,Home Appliances,4.57,132
+2025-01-04,Electronics,4.9,121
+2025-08-07,Toys,3.03,157
+2025-01-20,Toys,3.2,198
+2025-02-14,Furniture,4.33,115
+2025-07-06,Electronics,3.09,99
+2025-03-23,Furniture,3.26,178
+2025-06-26,Toys,4.94,178
+2025-05-03,Home Appliances,4.67,67
+2025-12-31,Toys,0.54,51
+2025-09-20,Furniture,2.21,148
+2025-12-18,Home Appliances,0.61,65
+2025-09-27,Electronics,2.98,190
+2025-05-08,Home Appliances,1.74,145
+2025-12-07,Toys,3.08,65
+2025-07-24,Home Appliances,3.84,142
+2025-06-16,Electronics,2.29,117
+2025-03-31,Furniture,0.99,63
+2025-09-28,Home Appliances,3.73,157
+2025-01-14,Home Appliances,4.91,97
+2025-06-24,Home Appliances,4.73,97
+2025-01-17,Toys,1.01,135
+2025-06-16,Electronics,2.97,192
+2025-01-10,Home Appliances,2.28,130
+2025-07-26,Home Appliances,1.26,106
+2025-11-24,Toys,1.79,65
+2025-09-19,Toys,1.0,134
+2025-04-27,Toys,2.4,177
+2025-08-01,Toys,4.85,85
+2025-09-01,Toys,3.91,189
+2025-12-13,Toys,0.76,180
+2025-01-28,Furniture,3.84,60
+2025-05-24,Home Appliances,3.1,149
+2025-07-21,Home Appliances,2.46,57
+2025-12-23,Electronics,2.16,65
+2025-04-25,Electronics,1.77,63
+2025-10-07,Electronics,0.93,188
+2025-09-13,Home Appliances,4.48,157
+2025-06-13,Home Appliances,4.76,119
+2025-09-21,Home Appliances,4.96,138
+2025-04-23,Electronics,4.73,68
+2025-02-05,Furniture,3.58,133
+2025-03-14,Home Appliances,3.12,134
+2025-12-15,Home Appliances,2.53,86
+2025-06-17,Furniture,4.11,116
+2025-05-04,Home Appliances,3.71,172
+2025-07-08,Home Appliances,1.64,163
+2025-12-23,Furniture,2.37,176
+2025-09-09,Toys,0.5,82
+2025-02-27,Home Appliances,1.36,67
+2025-10-21,Electronics,3.0,197
+2025-12-06,Electronics,3.05,95
+2025-02-15,Home Appliances,3.42,60
+2025-06-03,Home Appliances,2.95,162
+2025-08-24,Toys,2.86,108
+2025-01-15,Home Appliances,2.03,55
+2025-09-17,Home Appliances,2.57,93
+2025-07-09,Electronics,3.01,164
+2025-12-27,Furniture,4.04,148
+2025-08-12,Toys,4.51,141
+2025-10-19,Furniture,4.32,153
+2025-04-03,Home Appliances,2.1,72
+2025-09-28,Home Appliances,2.54,129
+2025-10-16,Home Appliances,2.95,160
+2025-02-22,Electronics,0.54,113
+2025-03-12,Furniture,0.56,155
+2025-06-28,Home Appliances,1.03,120
+2025-02-01,Furniture,4.62,156
+2025-04-11,Furniture,3.61,139
+2025-06-08,Toys,4.24,147
+2025-06-30,Furniture,0.79,65
+2025-08-30,Toys,3.38,183
+2025-06-08,Toys,2.13,189
+2025-07-03,Electronics,3.03,57
+2025-07-27,Home Appliances,2.25,143
+2025-09-12,Toys,2.68,68
+2025-01-03,Furniture,1.74,65
+2025-07-09,Home Appliances,1.29,169
+2025-08-09,Home Appliances,1.82,53
+2025-01-29,Electronics,2.81,196
+2025-10-13,Electronics,3.3,134
+2025-02-14,Electronics,1.08,157
+2025-07-18,Electronics,2.5,179
+2025-06-24,Toys,3.55,126
+2025-02-11,Electronics,2.51,73
+2025-02-26,Toys,2.84,105
+2025-07-16,Home Appliances,3.99,156
+2025-04-10,Home Appliances,3.36,105
+2025-11-14,Toys,2.48,52
+2025-06-09,Home Appliances,4.94,89
+2025-12-20,Electronics,3.3,182
+2025-07-15,Home Appliances,4.6,142
+2025-12-18,Toys,2.18,174
+2025-02-12,Toys,1.81,196
+2025-02-16,Electronics,1.36,56
+2025-03-08,Toys,4.86,57
+2025-07-02,Home Appliances,4.72,117
+2025-08-24,Toys,2.4,86
+2025-11-12,Home Appliances,4.59,90
+2025-05-12,Home Appliances,1.17,81
+2025-01-04,Toys,1.4,60
+2025-10-05,Furniture,4.26,61
+2025-09-13,Electronics,3.66,154
+2025-11-08,Toys,2.39,155
+2025-05-23,Electronics,3.13,173
+2025-12-03,Furniture,2.85,144
+2025-04-12,Furniture,3.45,154
+2025-08-26,Electronics,3.4,194
+2025-06-23,Home Appliances,2.76,93
+2025-08-16,Electronics,2.13,132
+2025-03-22,Home Appliances,3.2,194
+2025-10-02,Home Appliances,2.28,173
+2025-12-14,Electronics,1.37,139
+2025-04-06,Furniture,3.71,161
+2025-01-02,Electronics,2.78,136
+2025-09-30,Toys,1.51,91
+2025-08-05,Toys,3.36,122
+2025-09-07,Electronics,4.71,178
+2025-07-03,Toys,3.13,132
+2025-12-17,Furniture,0.71,139
+2025-12-20,Home Appliances,3.79,66
+2025-07-12,Home Appliances,0.61,95
+2025-04-30,Electronics,2.18,72
+2025-01-28,Furniture,2.3,88
+2025-12-07,Toys,1.95,154
+2025-12-15,Home Appliances,3.49,188
+2025-09-05,Toys,4.72,178
+2025-03-26,Toys,3.51,165
+2025-06-02,Toys,2.61,82
+2025-11-16,Home Appliances,2.74,169
+2025-02-08,Toys,4.09,71
+2025-02-28,Electronics,4.41,160
+2025-02-10,Electronics,4.32,148
+2025-04-04,Electronics,3.6,88
+2025-08-26,Home Appliances,4.29,58
+2025-01-17,Furniture,2.78,63
+2025-03-22,Furniture,2.68,95
+2025-05-16,Electronics,2.53,124
+2025-10-06,Toys,2.28,81
+2025-04-02,Toys,3.44,54
+2025-05-07,Electronics,3.1,129
+2025-07-19,Home Appliances,4.3,121
+2025-04-03,Toys,4.71,194
+2025-02-15,Toys,4.23,71
+2025-10-13,Electronics,4.74,200
+2025-04-17,Electronics,0.61,170
+2025-08-24,Toys,3.44,113
+2025-05-05,Home Appliances,2.26,200
+2025-02-03,Toys,0.81,142
+2025-09-14,Toys,0.65,174
+2025-05-29,Furniture,0.68,156
+2025-07-09,Furniture,1.71,96
+2025-08-27,Furniture,0.98,146
+2025-12-16,Electronics,1.62,86
+2025-04-12,Electronics,4.22,88
+2025-10-26,Furniture,3.97,164
+2025-07-14,Electronics,4.0,104
+2025-08-24,Toys,3.17,78
+2025-07-27,Electronics,4.38,139
+2025-12-01,Home Appliances,2.56,137
+2025-12-06,Electronics,3.01,65
+2025-08-06,Electronics,4.83,129
+2025-06-30,Home Appliances,2.24,182
+2025-04-22,Home Appliances,0.66,183
+2025-12-09,Home Appliances,3.45,138
+2025-09-06,Home Appliances,4.16,115
+2025-04-17,Home Appliances,0.83,116
+2025-03-22,Furniture,2.3,116
+2025-09-08,Home Appliances,2.27,171
+2025-03-09,Electronics,1.71,156
+2025-04-22,Toys,4.95,101
+2025-05-29,Electronics,0.66,98
+2025-07-05,Home Appliances,4.77,170
+2025-11-13,Home Appliances,2.79,145
+2025-01-25,Furniture,1.4,102
+2025-07-28,Furniture,4.0,176
+2025-03-10,Electronics,4.41,165
+2025-11-11,Furniture,4.33,148
+2025-11-24,Electronics,4.13,150
+2025-07-18,Home Appliances,0.6,178
+2025-12-15,Electronics,1.32,107
+2025-12-10,Furniture,0.98,143
+2025-06-25,Toys,1.62,131
+2025-07-03,Electronics,4.68,200
+2025-04-08,Electronics,4.82,184
+2025-10-18,Home Appliances,3.42,87
+2025-11-09,Furniture,3.82,164
+2025-11-16,Toys,3.25,173
+2025-08-16,Home Appliances,2.86,162
+2025-04-27,Furniture,4.15,129
+2025-12-30,Toys,4.48,121
+2025-06-20,Home Appliances,1.18,169
+2025-10-15,Home Appliances,0.78,96
+2025-09-25,Electronics,0.81,175
+2025-08-25,Home Appliances,4.17,53
+2025-07-05,Home Appliances,4.77,113
+2025-08-15,Furniture,1.03,127
+2025-09-05,Furniture,2.52,161
+2025-12-20,Electronics,4.3,72
+2025-09-12,Toys,3.44,104
+2025-10-11,Toys,1.96,84
+2025-09-19,Toys,0.78,120
+2025-09-29,Furniture,4.32,109
+2025-03-31,Furniture,4.81,163
+2025-11-22,Furniture,0.99,120
+2025-09-17,Furniture,4.41,78
+2025-02-08,Toys,2.81,104
+2025-12-19,Home Appliances,4.44,161
+2025-06-14,Toys,4.65,144
+2025-07-10,Furniture,4.24,64
+2025-05-28,Home Appliances,4.89,152
+2025-10-13,Electronics,2.73,118
+2025-11-25,Toys,4.85,197
+2025-02-10,Electronics,4.63,105
+2025-06-02,Home Appliances,2.53,196
+2025-09-23,Toys,3.91,188
+2025-10-18,Electronics,3.46,85
+2025-01-11,Furniture,2.5,138
+2025-05-02,Toys,3.3,91
+2025-05-11,Electronics,0.88,50
+2025-10-07,Home Appliances,0.94,99
+2025-01-04,Furniture,1.0,84
+2025-11-28,Furniture,3.32,111
+2025-04-29,Electronics,3.06,146
+2025-06-29,Home Appliances,4.91,69
+2025-01-24,Furniture,3.32,160
+2025-05-27,Furniture,1.01,85
+2025-07-05,Toys,2.41,198
+2025-08-08,Furniture,0.78,149
+2025-01-31,Electronics,1.4,184
+2025-03-26,Toys,4.97,65
+2025-12-27,Furniture,2.78,113
+2025-05-14,Home Appliances,4.2,126
+2025-06-19,Electronics,0.81,161
+2025-12-05,Electronics,1.42,132
+2025-12-27,Home Appliances,1.11,104
+2025-01-02,Home Appliances,0.91,197
+2025-07-15,Toys,3.9,111
+2025-07-14,Furniture,3.94,140
+2025-09-01,Home Appliances,1.04,172
+2025-01-02,Electronics,3.69,104
+2025-09-11,Home Appliances,4.01,113
+2025-08-03,Home Appliances,4.98,145
+2025-12-29,Furniture,1.55,66
+2025-09-24,Toys,0.54,171
+2025-05-04,Furniture,0.71,155
+2025-09-16,Toys,3.19,181
+2025-08-26,Electronics,0.58,185
+2025-03-04,Furniture,3.19,105
+2025-12-15,Electronics,0.87,189
+2025-01-11,Home Appliances,4.19,183
+2025-02-11,Home Appliances,4.54,180
+2025-02-17,Toys,3.69,97
+2025-05-19,Furniture,2.12,200
+2025-02-03,Toys,1.07,56
+2025-01-18,Home Appliances,1.37,151
+2025-08-22,Electronics,2.44,65
+2025-03-25,Furniture,1.89,140
+2025-06-02,Home Appliances,3.27,98
+2025-10-09,Electronics,0.82,175
+2025-07-17,Home Appliances,3.34,169
+2025-08-08,Furniture,0.53,86
+2025-12-24,Home Appliances,3.5,72
+2025-11-24,Home Appliances,3.87,126
+2025-02-12,Furniture,3.64,140
+2025-11-24,Toys,1.58,146
+2025-06-23,Furniture,2.55,156
+2025-06-04,Toys,1.59,64
+2025-08-10,Furniture,4.46,65
+2025-06-22,Home Appliances,3.35,54
+2025-09-08,Home Appliances,3.96,53
+2025-03-31,Toys,1.48,172
+2025-01-17,Toys,2.69,94
+2025-12-22,Furniture,2.44,157
+2025-02-25,Toys,2.6,115
+2025-11-06,Electronics,1.12,96
+2025-05-13,Electronics,1.0,188
+2025-06-01,Toys,3.16,178
+2025-08-23,Toys,2.94,140
+2025-02-25,Furniture,3.79,74
+2025-06-27,Toys,0.75,181
+2025-12-13,Furniture,3.04,133
+2025-09-30,Furniture,4.17,72
+2025-02-19,Toys,0.9,149
+2025-09-15,Electronics,4.04,177
+2025-11-18,Electronics,1.11,119
+2025-11-19,Toys,1.98,60
+2025-12-03,Toys,4.17,114
+2025-08-03,Furniture,1.03,156
+2025-12-31,Electronics,2.53,120
+2025-03-11,Toys,2.22,144
+2025-06-26,Toys,4.51,131
+2025-10-12,Furniture,1.73,56
+2025-05-05,Home Appliances,3.45,66
+2025-10-20,Electronics,4.15,66
+2025-03-16,Toys,2.04,100
+2025-10-10,Furniture,3.58,94
+2025-11-26,Home Appliances,3.34,53
+2025-01-03,Furniture,4.08,142
+2025-07-27,Toys,1.52,103
+2025-08-13,Furniture,1.22,77
+2025-03-17,Home Appliances,3.17,124
+2025-07-04,Home Appliances,1.02,150
+2025-10-04,Home Appliances,2.95,122
+2025-08-23,Furniture,1.06,117
+2025-04-21,Furniture,1.13,200
+2025-07-23,Toys,1.28,157
+2025-10-26,Furniture,2.65,176
+2025-06-24,Electronics,1.75,100
+2025-11-14,Electronics,3.52,196
+2025-07-10,Furniture,3.79,167
+2025-09-20,Electronics,2.08,80
+2025-07-11,Home Appliances,3.59,187
+2025-01-20,Toys,4.93,90
+2025-02-10,Furniture,3.06,104
+2025-02-21,Furniture,3.81,62
+2025-04-07,Electronics,1.86,73
+2025-10-09,Electronics,1.37,154
+2025-06-08,Furniture,1.18,137
+2025-12-20,Furniture,3.35,82
+2025-11-21,Home Appliances,1.55,182
+2025-04-25,Furniture,1.18,56
+2025-11-11,Home Appliances,0.76,139
+2025-04-20,Electronics,2.65,104
+2025-05-03,Electronics,0.7,166
+2025-03-24,Home Appliances,1.17,194
+2025-12-30,Furniture,3.08,134
+2025-04-08,Toys,2.03,117
+2025-07-24,Electronics,4.77,100
+2025-01-03,Electronics,4.87,92
+2025-03-16,Electronics,4.02,198
+2025-02-22,Toys,2.5,155
+2025-01-05,Furniture,3.86,144
+2025-01-03,Toys,2.04,71
+2025-01-07,Home Appliances,4.75,117
+2025-12-05,Toys,1.44,188
+2025-03-25,Home Appliances,0.94,114
+2025-11-11,Furniture,2.34,190
+2025-11-21,Electronics,2.0,113
+2025-06-07,Toys,1.31,83
+2025-05-07,Home Appliances,3.35,71
+2025-09-24,Electronics,3.85,58
+2025-12-16,Furniture,4.92,145
+2025-07-01,Electronics,2.91,88
+2025-02-26,Home Appliances,4.36,83
+2025-07-15,Furniture,2.31,117
+2025-03-28,Furniture,0.71,127
+2025-05-29,Home Appliances,3.81,87
+2025-03-06,Furniture,3.94,61
+2025-07-30,Furniture,2.65,119
+2025-08-09,Home Appliances,3.75,54
+2025-11-01,Toys,1.71,83
+2025-08-24,Toys,0.52,148
+2025-04-30,Furniture,3.32,174
+2025-08-30,Home Appliances,4.22,163
+2025-07-20,Furniture,3.95,154
+2025-08-04,Furniture,3.58,131
+2025-04-25,Toys,2.24,174
+2025-08-06,Electronics,4.65,110
+2025-09-07,Electronics,0.82,65
+2025-08-10,Toys,2.17,145
+2025-07-29,Electronics,4.08,138
+2025-01-20,Furniture,2.21,192
+2025-05-31,Toys,2.14,100
+2025-04-09,Furniture,0.74,159
+2025-09-06,Home Appliances,2.78,188
+2025-12-13,Home Appliances,2.39,105
+2025-02-15,Electronics,3.95,118
+2025-02-20,Electronics,1.77,136
+2025-11-04,Home Appliances,2.43,158
+2025-05-27,Home Appliances,4.99,120
+2025-11-06,Furniture,1.11,153
+2025-06-07,Home Appliances,1.75,74
+2025-12-20,Electronics,4.02,119
+2025-02-08,Toys,3.27,157
+2025-01-06,Toys,4.02,87
+2025-04-16,Electronics,2.32,183
+2025-11-14,Furniture,3.05,163
+2025-04-07,Furniture,1.45,72
+2025-04-27,Electronics,2.99,69
+2025-08-26,Toys,2.95,147
+2025-03-24,Toys,2.8,145
+2025-11-25,Home Appliances,2.11,96
+2025-10-19,Home Appliances,1.62,165
+2025-01-06,Furniture,2.34,66
+2025-12-23,Toys,1.48,61
+2025-03-17,Toys,2.96,158
+2025-01-06,Toys,4.49,63
+2025-02-15,Electronics,2.9,67
+2025-10-27,Furniture,1.13,87
+2025-08-23,Electronics,0.54,170
+2025-07-22,Furniture,1.78,63
+2025-04-22,Furniture,4.76,115
+2025-03-18,Home Appliances,3.52,105
+2025-09-13,Electronics,0.96,126
+2025-04-21,Furniture,3.24,189
+2025-12-05,Toys,2.23,196
+2025-01-26,Toys,3.67,83
+2025-06-10,Furniture,4.41,65
+2025-03-19,Home Appliances,4.5,158
+2025-09-06,Electronics,0.98,198
+2025-06-26,Furniture,4.17,67
+2025-10-28,Furniture,1.22,154
+2025-08-29,Electronics,4.81,121
+2025-09-21,Home Appliances,1.81,54
+2025-06-28,Home Appliances,1.76,132
+2025-11-29,Home Appliances,2.72,76
+2025-10-20,Home Appliances,0.68,78
+2025-11-22,Toys,4.24,106
+2025-10-05,Home Appliances,2.06,122
+2025-12-11,Furniture,1.56,175
+2025-11-08,Toys,0.79,96
+2025-05-27,Toys,3.38,182
+2025-08-31,Toys,3.05,133
+2025-07-01,Home Appliances,2.29,198
+2025-04-27,Electronics,2.15,161
+2025-10-15,Electronics,1.48,74
+2025-08-31,Home Appliances,0.64,164
+2025-09-20,Toys,2.54,165
+2025-12-13,Home Appliances,2.31,96
+2025-01-09,Toys,3.71,187
+2025-04-19,Home Appliances,3.3,179
+2025-08-23,Furniture,3.93,88
+2025-09-24,Home Appliances,4.39,182
+2025-07-26,Home Appliances,2.59,170
+2025-01-20,Furniture,4.22,170
+2025-09-29,Toys,3.35,74
+2025-04-06,Electronics,2.64,188
+2025-10-14,Furniture,2.97,128
+2025-03-23,Furniture,3.05,197
+2025-04-15,Electronics,2.11,79
+2025-07-19,Furniture,3.27,95
+2025-11-15,Home Appliances,3.21,199
+2025-02-15,Toys,4.33,52
+2025-04-05,Home Appliances,4.46,64
+2025-01-10,Toys,2.2,161
+2025-04-13,Furniture,4.47,92
+2025-04-15,Furniture,1.11,155
+2025-05-19,Furniture,2.61,154
+2025-09-25,Electronics,3.32,118
+2025-05-21,Toys,1.3,131
+2025-11-09,Furniture,4.42,121
+2025-10-10,Furniture,0.64,145
+2025-05-30,Furniture,1.78,77
+2025-07-19,Electronics,1.69,164
+2025-01-06,Toys,1.84,78
+2025-09-19,Home Appliances,0.54,61
+2025-03-18,Home Appliances,1.14,199
+2025-09-24,Electronics,2.81,65
+2025-06-15,Furniture,3.38,130
+2025-05-02,Home Appliances,4.96,129
+2025-02-09,Furniture,4.57,83
+2025-03-30,Home Appliances,3.11,148
+2025-04-20,Electronics,4.65,160
+2025-09-16,Furniture,0.65,64
+2025-10-16,Home Appliances,4.28,135
+2025-07-14,Toys,3.38,199
+2025-08-25,Toys,0.52,119
+2025-12-29,Electronics,2.58,78
+2025-11-22,Furniture,4.5,73
+2025-04-28,Electronics,3.5,151
+2025-10-08,Electronics,1.32,107
+2025-10-18,Electronics,3.72,135
+2025-08-15,Electronics,0.99,148
+2025-05-13,Furniture,4.02,123
+2025-12-19,Electronics,5.0,56
+2025-04-06,Furniture,3.5,164
+2025-10-17,Home Appliances,2.43,88
+2025-03-26,Electronics,1.75,66
+2025-04-01,Home Appliances,0.85,138
+2025-12-12,Electronics,3.57,125
+2025-06-30,Toys,3.13,81
+2025-08-31,Furniture,0.61,84
+2025-12-07,Furniture,0.57,142
+2025-01-03,Toys,0.61,85
+2025-08-16,Furniture,4.88,110
+2025-04-30,Toys,0.86,141
+2025-02-19,Home Appliances,2.75,98
+2025-09-22,Toys,0.51,69
+2025-08-21,Electronics,2.0,162
+2025-05-07,Home Appliances,1.08,78
+2025-01-12,Electronics,1.19,176
+2025-09-01,Furniture,2.4,108
+2025-09-28,Home Appliances,1.23,69
+2025-12-11,Electronics,4.89,59
+2025-05-13,Toys,1.73,100
+2025-10-24,Electronics,3.16,180
+2025-01-20,Home Appliances,1.18,139
+2025-09-23,Furniture,0.58,162
+2025-08-02,Furniture,4.24,147
+2025-01-23,Furniture,0.71,121
+2025-03-03,Toys,1.94,199
+2025-02-26,Toys,4.94,152
+2025-11-21,Furniture,2.58,79
+2025-11-03,Electronics,4.2,159
+2025-12-23,Furniture,4.84,104
+2025-02-23,Home Appliances,2.45,156
+2025-12-28,Toys,2.5,96
+2025-07-11,Toys,0.65,122
+2025-08-19,Home Appliances,2.09,127
+2025-11-20,Home Appliances,3.29,178
+2025-10-24,Toys,2.04,187
+2025-04-27,Electronics,3.95,144
+2025-02-20,Toys,2.63,170
+2025-10-10,Electronics,0.51,82
+2025-12-04,Toys,0.79,53
+2025-07-17,Furniture,4.66,152
+2025-02-26,Furniture,2.66,141
+2025-02-05,Home Appliances,0.87,157
+2025-07-31,Electronics,1.6,93
+2025-03-10,Furniture,0.89,92
+2025-03-10,Electronics,0.68,117
+2025-07-09,Toys,4.86,126
+2025-01-02,Furniture,1.82,105
+2025-11-11,Home Appliances,4.24,154
+2025-03-24,Furniture,3.17,158
+2025-07-26,Electronics,2.25,187
+2025-01-23,Home Appliances,2.28,154
+2025-11-09,Home Appliances,3.75,189
+2025-08-28,Furniture,1.71,112
+2025-05-30,Home Appliances,1.18,120
+2025-08-30,Electronics,3.94,103
+2025-12-07,Electronics,1.28,113
+2025-10-01,Toys,3.03,135
+2025-03-06,Electronics,3.6,77
+2025-01-28,Toys,3.7,61
+2025-08-13,Furniture,4.16,106
+2025-10-28,Toys,3.23,140
+2025-04-25,Electronics,0.81,122
+2025-10-31,Home Appliances,1.01,190
+2025-02-15,Furniture,1.26,115
+2025-07-08,Furniture,3.51,123
+2025-11-23,Toys,3.12,118
+2025-09-23,Home Appliances,4.72,68
+2025-09-08,Home Appliances,3.94,50
+2025-08-27,Electronics,3.47,183
+2025-08-15,Toys,0.77,141
+2025-07-05,Toys,2.02,71
+2025-01-18,Electronics,0.64,132
+2025-08-24,Furniture,4.29,141
+2025-10-11,Home Appliances,2.2,185
+2025-01-19,Toys,4.56,123
+2025-11-01,Electronics,4.66,197
+2025-03-13,Home Appliances,1.44,92
+2025-06-17,Furniture,2.18,184
+2025-07-02,Electronics,4.64,181
+2025-12-31,Furniture,4.35,164
+2025-12-27,Furniture,1.95,185
+2025-01-14,Toys,2.27,144
+2025-03-01,Home Appliances,4.17,147
+2025-11-05,Toys,2.83,175
+2025-11-29,Home Appliances,1.13,152
+2025-10-16,Electronics,0.5,127
+2025-05-10,Electronics,3.88,185
+2025-07-15,Electronics,4.01,65
+2025-06-11,Furniture,1.82,90
+2025-08-09,Furniture,2.2,127
+2025-09-01,Toys,4.04,146
+2025-06-08,Electronics,3.8,125
+2025-04-08,Toys,3.78,149
+2025-12-18,Electronics,2.61,60
+2025-06-25,Toys,0.81,62
+2025-05-27,Electronics,2.27,109
+2025-02-25,Furniture,2.51,103
+2025-02-13,Electronics,0.98,193
+2025-05-15,Furniture,4.79,168
+2025-08-21,Toys,2.87,138
+2025-06-08,Furniture,0.98,97
+2025-10-06,Home Appliances,0.54,74
+2025-01-28,Home Appliances,1.92,98
+2025-04-09,Toys,1.0,98
+2025-09-24,Home Appliances,1.56,153
+2025-03-14,Electronics,0.54,146
+2025-12-20,Toys,4.43,117
+2025-12-15,Toys,2.11,161
+2025-06-04,Home Appliances,4.49,82
+2025-02-19,Furniture,0.63,128
+2025-12-18,Furniture,3.61,54
+2025-02-01,Toys,3.41,169
+2025-02-09,Home Appliances,2.18,80
+2025-05-22,Toys,2.51,116
+2025-08-30,Electronics,3.28,102
+2025-09-18,Furniture,1.8,135
+2025-02-20,Toys,3.56,137
+2025-05-06,Toys,3.34,121
+2025-09-21,Furniture,2.11,145
+2025-04-28,Home Appliances,3.04,137
+2025-03-30,Toys,1.03,113
+2025-05-26,Toys,1.87,192
+2025-12-22,Toys,2.32,155
+2025-10-03,Electronics,1.32,146
+2025-02-08,Furniture,0.51,177
+2025-07-01,Electronics,2.9,104
+2025-01-02,Toys,1.96,182
+2025-05-31,Toys,2.0,179
+2025-05-26,Home Appliances,3.09,94
+2025-09-26,Toys,3.06,66
+2025-11-17,Toys,2.75,125
+2025-05-18,Electronics,1.22,100
+2025-08-09,Furniture,2.46,177
+2025-03-29,Home Appliances,3.35,79
+2025-03-21,Electronics,1.82,90
+2025-10-16,Toys,2.98,94
+2025-10-04,Furniture,1.34,187
+2025-08-23,Home Appliances,4.72,152
+2025-06-25,Furniture,3.81,126
+2025-07-05,Electronics,2.23,74
+2025-09-29,Home Appliances,1.14,53
+2025-05-08,Toys,4.66,161
+2025-03-24,Home Appliances,3.8,137
+2025-04-27,Furniture,4.84,189
+2025-08-24,Electronics,1.79,67
+2025-08-30,Furniture,1.32,61
+2025-10-27,Home Appliances,1.15,159
+2025-10-30,Toys,3.01,60
+2025-10-18,Furniture,4.64,168
+2025-02-26,Toys,4.73,165
+2025-10-30,Home Appliances,0.77,133
+2025-01-31,Home Appliances,4.23,151
+2025-11-10,Home Appliances,4.54,89
+2025-10-19,Toys,1.03,65
+2025-04-08,Furniture,2.99,99
+2025-01-26,Toys,2.88,64
+2025-02-24,Toys,1.38,50
+2025-08-13,Furniture,0.71,165
+2025-10-21,Home Appliances,2.12,68
+2025-10-08,Furniture,1.88,151
+2025-06-09,Toys,4.84,173
+2025-03-22,Furniture,2.29,97
+2025-04-10,Home Appliances,2.99,123
+2025-03-16,Electronics,4.87,59
+2025-04-15,Toys,3.85,84
+2025-12-20,Toys,2.81,162
+2025-07-19,Furniture,4.33,126
+2025-05-24,Home Appliances,2.94,190
+2025-10-23,Home Appliances,3.99,177
+2025-02-10,Electronics,4.04,139
+2025-01-15,Toys,4.61,177
+2025-04-18,Electronics,2.65,118
+2025-11-17,Home Appliances,1.79,195
+2025-07-13,Electronics,1.37,64
+2025-09-21,Electronics,4.64,95
+2025-12-17,Home Appliances,4.64,170
+2025-09-28,Home Appliances,3.59,73
+2025-02-20,Electronics,3.75,106
+2025-04-21,Furniture,4.5,128
+2025-08-13,Furniture,1.26,165
+2025-11-28,Electronics,2.4,81
+2025-10-23,Electronics,2.09,147
+2025-08-29,Furniture,1.21,64
+2025-10-15,Electronics,3.05,107
+2025-11-27,Electronics,1.93,144
+2025-10-10,Home Appliances,4.81,79
+2025-03-17,Home Appliances,4.48,95
+2025-09-13,Furniture,4.45,99
+2025-03-18,Electronics,1.99,130
+2025-12-27,Furniture,1.09,200
+2025-05-06,Toys,3.35,190
+2025-04-01,Toys,2.36,176
+2025-02-12,Furniture,4.03,155
+2025-01-09,Electronics,0.73,68
+2025-04-14,Toys,3.58,161
+2025-10-28,Home Appliances,3.05,79
+2025-04-29,Furniture,3.63,89
+2025-01-18,Home Appliances,0.68,94
+2025-03-24,Furniture,2.57,58
+2025-04-10,Toys,1.65,119
+2025-12-25,Home Appliances,2.92,198
+2025-08-07,Electronics,0.71,60
+2025-12-03,Toys,0.71,120
+2025-05-12,Electronics,2.56,198
+2025-01-19,Furniture,3.09,116
+2025-03-31,Electronics,3.53,168
+2025-03-13,Toys,3.52,183
+2025-12-01,Electronics,3.2,132
+2025-08-25,Electronics,1.54,75
+2025-11-19,Toys,2.36,171
+2025-03-07,Furniture,1.3,164
+2025-01-11,Furniture,1.31,90
+2025-07-03,Electronics,3.8,81
+2025-08-07,Electronics,0.9,74
+2025-08-31,Toys,1.97,84
+2025-10-31,Toys,1.3,169
+2025-06-15,Toys,1.4,139
+2025-09-06,Furniture,4.8,145
+2025-04-03,Furniture,3.26,125
+2025-11-19,Furniture,2.29,172
+2025-09-15,Furniture,2.59,111
+2025-02-05,Furniture,1.92,128
+2025-11-22,Toys,2.73,150
+2025-04-13,Toys,2.5,93
+2025-04-19,Electronics,3.59,51
+2025-02-22,Home Appliances,3.04,148
+2025-01-02,Toys,4.7,119
+2025-01-14,Home Appliances,0.85,153
+2025-01-01,Home Appliances,2.92,102
+2025-12-02,Furniture,3.33,192
+2025-10-05,Home Appliances,1.68,56
+2025-08-05,Furniture,0.84,71
+2025-12-01,Toys,3.66,137
+2025-10-25,Furniture,0.64,183
+2025-08-28,Toys,1.08,137
+2025-01-19,Home Appliances,2.75,166
+2025-10-10,Toys,2.21,107
+2025-02-02,Toys,1.36,111
+2025-09-12,Toys,1.06,132
+2025-03-13,Electronics,4.23,149
+2025-08-04,Electronics,2.76,142
+2025-04-24,Toys,3.86,129
+2025-07-31,Toys,4.5,95
+2025-01-22,Toys,3.92,160
+2025-07-13,Electronics,2.85,92
+2025-02-12,Home Appliances,0.84,91
+2025-08-24,Home Appliances,2.08,65
+2025-06-08,Home Appliances,0.52,178
+2025-12-23,Furniture,4.23,54
+2025-11-14,Home Appliances,3.79,99
+2025-11-07,Furniture,3.95,155
+2025-09-26,Toys,1.85,190
+2025-07-21,Home Appliances,3.62,129
+2025-08-21,Home Appliances,4.79,103
+2025-03-30,Toys,3.03,119
+2025-11-21,Toys,1.59,58
+2025-10-13,Home Appliances,3.56,158
+2025-05-05,Electronics,0.86,139
+2025-12-22,Electronics,2.68,106
+2025-05-17,Furniture,3.38,128
+2025-03-12,Home Appliances,3.26,52
+2025-04-21,Furniture,4.05,158
+2025-02-08,Electronics,4.6,77
+2025-08-13,Home Appliances,0.62,82
+2025-11-27,Electronics,4.32,76
+2025-07-05,Furniture,2.66,109
+2025-01-14,Toys,1.84,118
+2025-12-10,Furniture,0.66,78
+2025-01-06,Home Appliances,2.41,91
+2025-06-24,Toys,3.94,109
+2025-01-17,Toys,1.58,178
+2025-03-07,Toys,0.6,121
+2025-02-09,Furniture,1.09,176
+2025-08-08,Toys,1.48,129
+2025-11-09,Home Appliances,3.37,112
+2025-05-20,Home Appliances,2.43,94
+2025-08-19,Furniture,4.48,155
+2025-06-12,Electronics,3.42,91
+2025-05-28,Home Appliances,1.42,179
+2025-06-11,Furniture,3.98,50
+2025-01-04,Toys,4.32,119
+2025-07-17,Toys,1.65,136
+2025-12-14,Home Appliances,3.71,126
+2025-03-12,Electronics,2.85,86
+2025-08-24,Home Appliances,2.58,58
+2025-10-29,Toys,4.76,142
+2025-05-09,Toys,1.79,108
+2025-07-06,Home Appliances,3.54,134
+2025-12-01,Furniture,4.75,112
+2025-03-04,Home Appliances,1.58,86
+2025-04-09,Electronics,1.3,112
+2025-07-22,Furniture,4.21,153
+2025-10-09,Toys,4.16,135
+2025-08-04,Electronics,0.55,139
+2025-06-04,Electronics,2.96,85
+2025-07-20,Electronics,1.54,128
+2025-11-28,Electronics,2.83,89
+2025-06-09,Home Appliances,2.68,198
+2025-12-10,Furniture,2.06,167
+2025-05-08,Furniture,2.16,67
+2025-12-29,Toys,1.45,102
+2025-05-15,Electronics,4.39,96
+2025-01-19,Electronics,3.52,200
+2025-01-28,Toys,4.03,120
+2025-05-31,Home Appliances,1.58,142
+2025-01-16,Electronics,4.32,123
+2025-07-30,Toys,3.95,193
+2025-03-09,Toys,4.1,71
+2025-07-26,Home Appliances,4.6,92
+2025-12-05,Toys,1.85,185
+2025-09-28,Electronics,2.83,183
+2025-05-05,Home Appliances,2.16,124
+2025-01-04,Electronics,1.26,65
+2025-03-27,Home Appliances,2.67,53
+2025-04-04,Furniture,0.94,133
+2025-08-06,Toys,1.38,101
+2025-05-09,Electronics,2.09,177
+2025-11-17,Furniture,4.27,73
+2025-02-25,Electronics,2.79,177
+2025-02-26,Toys,1.69,86
+2025-05-03,Toys,1.02,167
+2025-10-03,Electronics,3.45,170
+2025-08-04,Home Appliances,0.74,126
+2025-06-06,Electronics,3.31,166
+2025-11-18,Furniture,1.01,120
+2025-02-02,Home Appliances,2.55,61
+2025-10-23,Electronics,3.54,150
+2025-09-01,Furniture,4.16,122
+2025-07-17,Furniture,4.01,76
+2025-07-29,Furniture,2.36,97
+2025-07-13,Toys,4.74,192
+2025-08-12,Home Appliances,2.42,146
+2025-12-25,Toys,1.39,188
+2025-11-09,Electronics,1.85,72
+2025-11-24,Toys,3.13,136
+2025-11-29,Electronics,1.51,171
+2025-01-01,Electronics,3.31,73
+2025-01-05,Furniture,3.03,168
+2025-03-25,Toys,1.91,154
+2025-09-06,Home Appliances,1.75,68
+2025-01-09,Toys,3.13,134
+2025-06-20,Home Appliances,3.96,185
+2025-07-19,Home Appliances,0.97,141
+2025-08-09,Home Appliances,4.85,185
+2025-05-03,Electronics,2.12,134
+2025-06-08,Electronics,4.46,177
+2025-04-11,Furniture,4.06,169
+2025-10-03,Home Appliances,1.2,100
+2025-10-13,Home Appliances,2.82,107
+2025-07-30,Electronics,4.77,83
+2025-09-07,Toys,2.02,72
+2025-04-24,Electronics,3.0,149
+2025-01-24,Furniture,2.38,165
+2025-07-05,Electronics,1.92,75
+2025-03-01,Home Appliances,2.12,55
+2025-07-08,Electronics,0.66,112
+2025-02-24,Electronics,1.83,187
+2025-06-10,Electronics,3.18,84
+2025-04-09,Toys,2.48,111
+2025-01-21,Toys,2.9,52
+2025-10-15,Electronics,2.17,150
+2025-03-28,Home Appliances,4.89,180
+2025-02-11,Home Appliances,2.58,186
+2025-03-14,Toys,1.32,78
+2025-06-14,Furniture,0.52,156
+2025-09-13,Electronics,3.98,65
+2025-12-23,Home Appliances,2.89,192
+2025-02-22,Furniture,4.01,173
+2025-06-04,Electronics,3.8,91
+2025-01-02,Toys,2.85,127
+2025-03-06,Furniture,2.66,127
+2025-02-23,Toys,1.32,87
+2025-08-22,Home Appliances,0.76,134
+2025-10-12,Home Appliances,4.28,158
+2025-02-05,Furniture,4.85,56
+2025-04-11,Home Appliances,4.82,162
+2025-05-14,Electronics,2.9,90
+2025-07-14,Toys,2.3,91
+2025-09-23,Furniture,2.56,177
+2025-05-29,Furniture,1.97,102
+2025-08-29,Home Appliances,3.07,132
+2025-05-28,Furniture,3.34,138
+2025-07-21,Toys,4.02,92
+2025-12-12,Furniture,0.56,173
+2025-01-13,Electronics,2.34,136
+2025-06-24,Electronics,4.99,183
+2025-06-03,Electronics,2.02,101
+2025-04-17,Toys,4.18,84
+2025-06-30,Home Appliances,4.24,60
+2025-09-15,Toys,4.34,168
+2025-04-18,Home Appliances,2.36,140
+2025-04-01,Electronics,4.58,190
+2025-10-07,Toys,1.87,179
+2025-05-22,Electronics,4.6,78
+2025-01-14,Electronics,3.34,114
+2025-12-01,Home Appliances,3.68,197
+2025-03-29,Electronics,4.07,177
+2025-12-19,Furniture,1.98,105
+2025-09-23,Furniture,3.05,136
+2025-12-21,Toys,4.42,179
+2025-12-09,Home Appliances,2.47,179
+2025-12-05,Furniture,4.59,113
+2025-07-11,Home Appliances,1.77,157
+2025-03-26,Electronics,3.82,91
+2025-07-14,Furniture,4.99,112
+2025-09-17,Toys,0.74,161
+2025-11-02,Toys,3.32,84
+2025-04-29,Toys,4.83,171
+2025-02-10,Home Appliances,0.95,102
+2025-08-09,Toys,4.84,85
+2025-08-18,Electronics,1.57,123
+2025-03-31,Electronics,4.78,84
+2025-05-02,Home Appliances,1.59,192
+2025-03-05,Electronics,3.92,165
+2025-03-20,Toys,2.3,140
+2025-03-30,Electronics,1.47,133
+2025-11-02,Electronics,1.33,162
+2025-09-27,Electronics,1.62,94
+2025-11-17,Toys,1.1,197
+2025-09-05,Home Appliances,1.32,56
+2025-06-25,Home Appliances,0.53,148
+2025-08-06,Toys,4.75,149
+2025-02-19,Home Appliances,3.12,70
+2025-07-28,Furniture,3.06,122
+2025-03-11,Toys,4.43,52
+2025-06-04,Home Appliances,2.44,64
+2025-11-11,Electronics,2.94,168
+2025-02-19,Electronics,3.75,125
+2025-09-03,Electronics,4.46,113
+2025-11-27,Home Appliances,2.19,108
+2025-09-15,Electronics,3.18,104
+2025-12-29,Electronics,1.81,149
+2025-06-10,Toys,2.84,127
+2025-02-07,Toys,4.09,149
+2025-05-26,Electronics,3.7,189
+2025-07-21,Furniture,1.68,139
+2025-08-03,Furniture,3.13,195
+2025-10-21,Electronics,0.56,190
+2025-03-17,Home Appliances,0.82,50
+2025-03-03,Home Appliances,0.61,171
+2025-05-30,Home Appliances,4.97,155
+2025-02-26,Furniture,4.98,170
+2025-10-17,Home Appliances,2.16,155
+2025-10-27,Furniture,1.26,167
+2025-03-13,Electronics,1.34,76
+2025-04-15,Home Appliances,0.52,97
+2025-03-07,Home Appliances,4.2,50
+2025-10-02,Furniture,2.73,178
+2025-11-07,Furniture,1.28,58
+2025-02-12,Home Appliances,4.3,53
+2025-04-12,Toys,4.46,197
+2025-03-04,Home Appliances,1.42,136
+2025-07-26,Toys,3.31,118
+2025-03-28,Electronics,1.24,133
+2025-06-12,Toys,4.3,172
+2025-09-14,Electronics,2.32,115
+2025-09-30,Toys,4.6,75
+2025-06-09,Electronics,1.55,146
+2025-02-20,Furniture,3.67,53
+2025-09-11,Toys,4.71,59
+2025-07-26,Toys,3.0,134
+2025-01-14,Toys,3.75,197
+2025-02-23,Electronics,1.88,81
+2025-12-03,Home Appliances,2.47,146
+2025-03-22,Furniture,4.88,71
+2025-05-27,Home Appliances,1.96,179
+2025-03-26,Furniture,3.36,63
+2025-12-17,Furniture,2.77,116
+2025-03-17,Electronics,3.09,185
+2025-12-15,Electronics,0.93,191
+2025-12-25,Home Appliances,1.16,147
+2025-04-21,Home Appliances,2.18,165
+2025-07-22,Home Appliances,4.84,68
+2025-10-10,Home Appliances,0.98,63
+2025-05-18,Toys,3.28,61
+2025-05-04,Home Appliances,2.9,184
+2025-04-06,Electronics,4.78,174
+2025-08-07,Furniture,0.51,72
+2025-03-07,Furniture,1.29,118
+2025-06-25,Home Appliances,4.4,117
+2025-08-14,Toys,0.58,127
+2025-04-17,Toys,2.67,90
+2025-07-25,Furniture,2.59,108
+2025-03-19,Home Appliances,3.09,151
+2025-05-23,Toys,2.48,104
+2025-09-24,Furniture,1.08,98
+2025-01-13,Electronics,3.13,86
+2025-09-30,Furniture,1.39,83
+2025-10-12,Furniture,2.77,80
+2025-12-20,Home Appliances,1.93,120
+2025-09-09,Toys,4.55,58
+2025-06-09,Electronics,3.0,50
+2025-01-03,Electronics,0.89,100
+2025-07-15,Furniture,2.29,187
+2025-12-21,Home Appliances,0.91,137
+2025-02-01,Electronics,3.12,124
+2025-04-16,Furniture,4.94,121
+2025-11-15,Home Appliances,1.76,168
+2025-09-01,Electronics,1.16,156
+2025-08-21,Furniture,2.35,154
+2025-10-09,Toys,3.37,102
+2025-01-16,Furniture,4.7,130
+2025-12-08,Furniture,1.4,122
+2025-04-09,Furniture,2.63,136
+2025-10-25,Furniture,4.21,74
+2025-06-22,Toys,4.89,90
+2025-11-05,Electronics,4.46,123
+2025-04-25,Toys,3.64,188
+2025-12-18,Furniture,3.5,191
+2025-04-02,Toys,1.52,130
+2025-04-17,Electronics,2.81,117
+2025-12-07,Furniture,2.83,122
+2025-10-20,Furniture,2.11,155
+2025-01-26,Furniture,2.49,165
+2025-03-25,Furniture,1.87,105
+2025-09-28,Furniture,1.95,198
+2025-10-04,Furniture,4.75,176
+2025-08-16,Electronics,0.76,199
+2025-11-07,Furniture,1.24,132
+2025-03-11,Home Appliances,1.69,59
+2025-03-23,Toys,3.59,108
+2025-09-30,Furniture,0.76,98
+2025-08-01,Home Appliances,2.32,103
+2025-03-23,Furniture,3.11,66
+2025-07-24,Electronics,4.82,144
+2025-10-29,Electronics,4.62,172
+2025-07-06,Furniture,2.18,143
+2025-04-20,Furniture,4.64,68
+2025-06-07,Toys,2.66,58
+2025-10-26,Toys,3.6,197
+2025-04-04,Toys,2.63,111
+2025-03-13,Furniture,4.43,179
+2025-02-10,Electronics,1.38,64
+2025-09-20,Furniture,2.0,108
+2025-11-26,Electronics,2.06,67
+2025-12-02,Electronics,4.58,175
+2025-11-28,Home Appliances,0.69,79
+2025-01-02,Toys,4.98,88
+2025-06-12,Home Appliances,1.97,58
+2025-06-27,Home Appliances,0.92,161
+2025-01-10,Home Appliances,3.67,161
+2025-05-08,Electronics,3.36,140
+2025-03-01,Toys,4.76,177
+2025-11-11,Electronics,4.2,76
+2025-06-28,Toys,3.02,125
+2025-12-17,Home Appliances,4.17,134
+2025-10-16,Toys,4.44,148
+2025-05-10,Home Appliances,1.79,120
+2025-12-29,Electronics,0.57,183
+2025-01-30,Toys,1.67,174
+2025-11-29,Furniture,0.91,184
+2025-04-12,Toys,1.0,86
+2025-08-14,Toys,4.94,90
+2025-03-29,Toys,4.96,122
+2025-12-17,Electronics,4.03,86
+2025-03-06,Home Appliances,4.63,102
+2025-01-22,Electronics,4.95,129
+2025-09-06,Furniture,4.01,160
+2025-01-27,Toys,2.62,182
+2025-11-23,Electronics,2.61,100
+2025-11-11,Home Appliances,3.45,64
+2025-07-02,Home Appliances,2.0,196
+2025-09-28,Home Appliances,4.46,96
+2025-11-06,Toys,4.39,135
+2025-02-14,Furniture,4.99,111
+2025-05-21,Electronics,1.38,72
+2025-07-02,Furniture,4.35,130
+2025-06-22,Electronics,2.67,174
+2025-08-15,Toys,3.38,87
+2025-11-01,Furniture,3.22,117
+2025-12-12,Electronics,4.68,177
+2025-05-11,Home Appliances,3.64,90
+2025-10-01,Toys,1.45,58
+2025-09-10,Home Appliances,3.58,141
+2025-09-08,Toys,1.42,146
+2025-12-01,Toys,3.58,166
+2025-11-04,Electronics,3.67,98
+2025-05-29,Toys,3.09,57
+2025-04-08,Electronics,3.18,200
+2025-01-11,Furniture,3.28,114
+2025-03-24,Home Appliances,1.5,110
+2025-02-10,Home Appliances,3.94,74
+2025-11-17,Furniture,4.93,76
+2025-08-27,Electronics,0.94,113
+2025-09-17,Toys,2.78,146
+2025-02-11,Furniture,0.94,96
+2025-12-24,Home Appliances,0.7,69
+2025-04-23,Electronics,1.48,154
+2025-11-17,Toys,3.85,188
+2025-05-16,Furniture,0.8,108
+2025-12-31,Electronics,1.94,167
+2025-05-17,Electronics,1.93,98
+2025-11-12,Furniture,0.68,63
+2025-01-31,Home Appliances,1.11,92
+2025-06-18,Toys,4.41,129
+2025-04-28,Toys,1.46,59
+2025-09-27,Furniture,4.41,70
+2025-04-09,Electronics,1.83,76
+2025-11-09,Home Appliances,1.41,74
+2025-07-19,Electronics,3.78,199
+2025-01-31,Toys,0.85,162
+2025-08-08,Toys,3.93,195
+2025-04-07,Furniture,2.36,104
+2025-11-12,Home Appliances,3.56,144
+2025-06-01,Toys,1.26,190
+2025-04-13,Furniture,2.02,184
+2025-05-15,Furniture,4.63,144
+2025-01-08,Furniture,4.95,136
+2025-09-06,Home Appliances,4.03,175
+2025-05-17,Toys,2.63,182
+2025-11-17,Home Appliances,4.94,138
+2025-01-22,Furniture,0.94,117
+2025-03-16,Home Appliances,3.32,89
+2025-03-30,Toys,2.08,122
+2025-05-27,Toys,3.81,92
+2025-10-13,Furniture,1.6,181
+2025-02-13,Home Appliances,0.68,119
+2025-08-27,Furniture,3.19,115
+2025-02-25,Furniture,1.99,107
+2025-02-05,Electronics,3.17,64
+2025-07-22,Home Appliances,2.61,134
+2025-05-25,Furniture,1.62,82
+2025-01-01,Furniture,3.61,94
+2025-11-02,Furniture,4.57,120
+2025-07-25,Electronics,1.78,119
+2025-09-25,Electronics,2.41,148
+2025-05-28,Home Appliances,0.65,77
+2025-03-14,Home Appliances,2.79,102
+2025-03-28,Toys,1.49,156
+2025-11-22,Toys,2.36,131
+2025-05-26,Electronics,2.34,134
+2025-01-10,Toys,4.15,69
+2025-02-23,Home Appliances,4.97,196
+2025-02-21,Toys,3.11,114
+2025-02-07,Furniture,3.49,179
+2025-01-15,Toys,3.91,183
+2025-08-01,Toys,3.69,167
+2025-05-10,Home Appliances,3.42,141
+2025-04-22,Toys,0.87,54
+2025-08-11,Toys,1.62,55
+2025-01-27,Home Appliances,2.14,73
+2025-09-04,Furniture,4.44,194
+2025-12-16,Electronics,1.33,177
+2025-11-04,Electronics,2.41,59
+2025-04-15,Electronics,0.94,159
+2025-01-25,Home Appliances,1.45,55
+2025-03-17,Toys,2.59,80
+2025-12-13,Electronics,2.5,163
+2025-07-30,Furniture,2.45,153
+2025-09-30,Toys,1.54,195
+2025-03-11,Furniture,2.07,108
+2025-12-08,Electronics,0.9,67
+2025-01-22,Home Appliances,2.1,188
+2025-05-06,Home Appliances,1.69,87
+2025-06-18,Furniture,2.6,183
+2025-10-05,Toys,4.63,124
+2025-06-25,Home Appliances,1.37,135
+2025-03-10,Home Appliances,1.42,158
+2025-11-21,Electronics,4.87,163
+2025-03-02,Toys,2.46,82
+2025-02-01,Home Appliances,4.9,126
+2025-12-16,Electronics,3.19,121
+2025-06-10,Toys,3.25,181
+2025-03-26,Furniture,1.49,65
+2025-04-14,Home Appliances,4.34,107
+2025-12-30,Electronics,3.71,115
+2025-02-06,Toys,3.68,198
+2025-11-30,Furniture,4.12,116
+2025-10-25,Home Appliances,2.27,181
+2025-12-11,Electronics,2.89,91
+2025-03-30,Toys,1.83,94
+2025-12-02,Toys,2.99,161
+2025-06-06,Home Appliances,3.13,140
+2025-03-29,Home Appliances,3.31,94
+2025-02-12,Home Appliances,2.73,95
+2025-08-27,Toys,1.19,176
+2025-01-08,Toys,4.18,66
+2025-04-13,Furniture,4.86,147
+2025-06-25,Electronics,4.04,72
+2025-06-30,Furniture,2.52,157
+2025-07-05,Home Appliances,2.34,58
+2025-07-25,Furniture,2.32,125
+2025-08-11,Furniture,3.77,99
+2025-01-26,Furniture,1.22,114
+2025-03-28,Furniture,2.44,91
+2025-01-04,Furniture,1.75,182
+2025-06-13,Toys,3.64,129
+2025-02-08,Toys,2.55,86
+2025-09-11,Furniture,1.17,129
+2025-04-25,Home Appliances,4.24,93
+2025-06-09,Electronics,1.31,170
+2025-11-18,Electronics,3.82,97
+2025-08-04,Furniture,1.3,85
+2025-01-21,Toys,2.7,77
+2025-05-19,Home Appliances,2.12,103
+2025-11-25,Toys,3.21,194
+2025-04-16,Toys,2.38,107
+2025-07-19,Toys,3.74,88
+2025-02-19,Electronics,4.85,141
+2025-03-19,Electronics,4.2,105
+2025-01-06,Toys,0.72,144
+2025-11-03,Home Appliances,2.92,182
+2025-11-01,Home Appliances,0.96,52
+2025-10-13,Toys,1.15,98
+2025-09-03,Home Appliances,3.31,65
+2025-07-17,Furniture,3.3,98
+2025-02-23,Home Appliances,4.25,94
+2025-07-07,Electronics,0.54,62
+2025-09-24,Furniture,1.61,116
+2025-08-12,Toys,4.65,70
+2025-10-24,Electronics,1.51,178
+2025-09-28,Furniture,4.93,133
+2025-01-18,Toys,4.0,117
+2025-07-26,Toys,1.64,103
+2025-06-12,Home Appliances,1.45,150
+2025-02-08,Toys,0.76,85
+2025-01-22,Home Appliances,3.43,187
+2025-02-10,Furniture,0.59,101
+2025-02-17,Toys,2.29,199
+2025-10-14,Toys,2.43,61
+2025-10-19,Home Appliances,2.43,55
+2025-07-08,Electronics,3.81,93
+2025-08-16,Furniture,4.3,102
+2025-01-31,Home Appliances,1.37,93
+2025-10-27,Furniture,3.91,57
+2025-08-13,Electronics,4.98,58
+2025-12-25,Electronics,1.34,143
+2025-12-17,Home Appliances,4.75,153
+2025-09-05,Toys,3.78,189
+2025-08-02,Electronics,3.95,177
+2025-04-30,Home Appliances,0.71,141
+2025-02-20,Electronics,2.65,171
+2025-02-04,Toys,0.92,179
+2025-01-27,Home Appliances,1.78,190
+2025-12-17,Home Appliances,2.56,153
+2025-08-10,Toys,2.67,116
+2025-10-17,Home Appliances,3.77,64
+2025-11-18,Toys,2.02,87
+2025-12-27,Toys,4.78,165
+2025-07-06,Furniture,3.92,180
+2025-09-28,Home Appliances,1.74,95
+2025-07-10,Electronics,3.09,116
+2025-11-01,Electronics,3.13,145
+2025-05-05,Toys,3.72,153
+2025-07-29,Toys,4.67,144
+2025-04-29,Toys,0.81,187
+2025-12-02,Toys,2.95,195
+2025-11-11,Toys,1.62,92
+2025-03-05,Home Appliances,1.29,172
+2025-11-16,Home Appliances,3.23,124
+2025-10-11,Furniture,2.79,64
+2025-12-24,Furniture,4.71,198
+2025-10-10,Home Appliances,0.56,77
+2025-09-17,Toys,3.18,111
+2025-07-25,Furniture,4.64,79
+2025-08-14,Furniture,0.93,141
+2025-12-01,Electronics,2.17,113
+2025-08-24,Home Appliances,1.69,55
+2025-08-08,Furniture,2.61,145
+2025-10-19,Toys,3.77,95
+2025-05-19,Electronics,2.79,196
+2025-10-25,Furniture,2.24,76
+2025-08-19,Furniture,3.96,116
+2025-10-13,Toys,4.99,91
+2025-10-23,Electronics,4.0,122
+2025-10-11,Home Appliances,4.99,141
+2025-04-03,Toys,1.53,135
+2025-07-15,Toys,2.09,115
+2025-03-03,Toys,2.65,102
+2025-07-03,Electronics,2.67,112
+2025-10-21,Furniture,1.33,135
+2025-03-12,Home Appliances,3.3,140
+2025-06-26,Home Appliances,4.34,133
+2025-05-21,Toys,1.41,61
+2025-12-23,Home Appliances,2.23,172
+2025-09-13,Toys,1.79,62
+2025-06-17,Toys,3.37,119
+2025-05-31,Toys,1.26,91
+2025-02-01,Electronics,4.74,103
+2025-01-10,Furniture,1.97,147
+2025-03-27,Furniture,1.14,101
+2025-07-10,Home Appliances,2.79,181
+2025-01-20,Furniture,3.31,105
+2025-03-31,Electronics,3.16,89
+2025-08-27,Furniture,2.47,55
+2025-04-06,Home Appliances,0.58,123
+2025-10-25,Furniture,1.22,197
+2025-01-02,Electronics,1.18,118
+2025-03-16,Furniture,2.27,118
+2025-09-04,Electronics,3.18,61
+2025-02-09,Furniture,3.52,150
+2025-01-13,Electronics,4.09,151
+2025-07-06,Furniture,2.82,175
+2025-07-18,Home Appliances,1.27,82
+2025-08-24,Furniture,2.46,61
+2025-03-08,Electronics,3.45,135
+2025-09-20,Toys,3.16,50
+2025-08-27,Toys,4.5,118
+2025-02-05,Home Appliances,3.92,93
+2025-02-26,Electronics,1.55,131
+2025-04-26,Home Appliances,2.44,111
+2025-10-07,Electronics,0.81,159
+2025-09-14,Toys,1.12,188
+2025-03-16,Furniture,3.73,91
+2025-07-26,Electronics,2.48,115
+2025-03-19,Toys,3.19,196
+2025-10-01,Furniture,0.55,146
+2025-02-23,Toys,2.21,133
+2025-12-19,Toys,1.46,122
+2025-06-23,Furniture,3.05,135
+2025-01-19,Electronics,4.55,92
+2025-06-07,Furniture,2.48,106
+2025-04-08,Toys,3.23,114
+2025-09-23,Electronics,4.83,111
+2025-07-05,Home Appliances,2.23,60
+2025-11-30,Furniture,1.5,171
+2025-11-25,Home Appliances,3.42,82
+2025-11-14,Electronics,4.32,161
+2025-11-16,Home Appliances,3.07,66
+2025-08-05,Home Appliances,2.63,128
+2025-06-30,Electronics,1.42,168
+2025-01-16,Electronics,4.81,172
+2025-04-09,Home Appliances,4.31,93
+2025-01-07,Furniture,1.03,105
+2025-05-14,Electronics,1.75,136
+2025-05-30,Toys,4.14,177
+2025-11-28,Furniture,3.35,155
+2025-08-09,Electronics,2.32,69
+2025-04-01,Home Appliances,2.3,162
+2025-07-01,Toys,0.88,123
+2025-03-14,Home Appliances,2.61,142
+2025-12-27,Toys,2.43,62
+2025-06-15,Furniture,4.39,61
+2025-12-06,Furniture,2.29,80
+2025-10-09,Toys,1.03,95
+2025-02-13,Home Appliances,2.32,156
+2025-09-23,Home Appliances,1.21,54
+2025-08-19,Toys,4.0,62
+2025-03-27,Electronics,3.38,68
+2025-01-28,Furniture,0.76,123
+2025-07-19,Home Appliances,2.54,163
+2025-02-11,Toys,0.74,51
+2025-07-29,Toys,4.63,142
+2025-12-11,Home Appliances,2.89,91
+2025-03-26,Electronics,1.93,168
+2025-05-06,Home Appliances,3.46,179
+2025-02-13,Home Appliances,2.88,185
+2025-05-06,Furniture,1.01,121
+2025-11-08,Electronics,3.61,107
+2025-06-18,Electronics,4.15,68
+2025-01-30,Home Appliances,4.32,166
+2025-09-22,Furniture,3.9,57
+2025-01-04,Electronics,4.2,94
+2025-08-23,Home Appliances,4.41,122
+2025-09-28,Furniture,2.65,126
+2025-06-13,Electronics,1.95,86
+2025-02-27,Electronics,2.55,86
+2025-01-08,Home Appliances,3.04,106
+2025-11-09,Furniture,1.13,200
+2025-12-16,Home Appliances,4.66,66
+2025-02-08,Furniture,1.46,75
+2025-01-11,Furniture,4.04,136
+2025-03-04,Furniture,3.74,151
+2025-03-22,Electronics,4.43,148
+2025-11-19,Home Appliances,2.46,160
+2025-06-06,Furniture,0.52,151
+2025-01-09,Furniture,1.89,196
+2025-03-27,Home Appliances,2.98,188
+2025-10-13,Furniture,1.82,110
+2025-09-26,Toys,1.24,97
+2025-01-20,Toys,4.76,102
+2025-07-24,Home Appliances,4.08,58
+2025-05-20,Toys,3.83,151
+2025-03-16,Home Appliances,4.95,121
+2025-03-11,Toys,4.81,90
+2025-01-29,Electronics,2.69,73
+2025-10-13,Toys,4.27,73
+2025-10-11,Home Appliances,1.37,145
+2025-12-20,Furniture,3.83,144
+2025-02-26,Toys,1.21,110
+2025-09-06,Electronics,1.42,53
+2025-05-03,Home Appliances,4.31,104
+2025-01-23,Home Appliances,1.78,82
+2025-03-26,Home Appliances,2.13,136
+2025-06-19,Electronics,3.27,190
+2025-11-28,Electronics,0.98,62
+2025-02-26,Electronics,4.18,167
+2025-06-20,Electronics,2.58,169
+2025-11-11,Toys,2.25,182
+2025-03-01,Toys,4.52,86
+2025-10-19,Furniture,4.68,94
+2025-08-07,Furniture,3.82,132
+2025-08-21,Electronics,1.8,134
+2025-07-15,Electronics,2.56,62
+2025-10-01,Home Appliances,1.36,112
+2025-08-08,Toys,3.69,133
+2025-09-30,Home Appliances,4.04,188
+2025-11-28,Furniture,3.29,99
+2025-12-15,Home Appliances,2.33,141
+2025-08-28,Electronics,2.6,54
+2025-11-18,Electronics,3.44,50
+2025-06-15,Electronics,4.49,98
+2025-11-09,Furniture,3.38,135
+2025-05-16,Toys,1.45,101
+2025-01-23,Electronics,1.19,151
+2025-11-09,Electronics,2.78,172
+2025-03-27,Toys,2.34,89
+2025-06-10,Toys,1.14,128
+2025-12-12,Toys,1.11,75
+2025-01-18,Electronics,2.22,118
+2025-04-17,Furniture,3.79,60
+2025-10-10,Home Appliances,1.02,154
+2025-06-07,Toys,1.0,167
+2025-08-02,Furniture,3.43,115
+2025-12-05,Furniture,2.95,155
+2025-08-04,Electronics,3.03,71
+2025-02-06,Electronics,3.15,118
+2025-01-17,Toys,4.13,149
+2025-12-11,Electronics,0.68,88
+2025-06-15,Electronics,2.06,169
+2025-01-25,Electronics,1.24,126
+2025-10-26,Electronics,2.16,175
+2025-03-16,Toys,2.19,101
+2025-06-23,Electronics,2.29,93
+2025-03-30,Electronics,3.98,58
+2025-10-21,Electronics,2.07,76
+2025-03-06,Toys,1.76,173
+2025-12-06,Furniture,3.13,198
+2025-03-24,Home Appliances,1.7,100
+2025-08-30,Electronics,4.69,200
+2025-06-19,Toys,4.75,54
+2025-07-26,Electronics,2.26,61
+2025-05-18,Home Appliances,4.64,99
+2025-03-17,Furniture,1.52,105
+2025-01-09,Furniture,3.89,112
+2025-11-24,Furniture,0.92,86
+2025-01-23,Furniture,0.63,92
+2025-12-15,Toys,2.21,166
+2025-05-16,Furniture,1.95,90
+2025-08-04,Furniture,4.43,56
+2025-06-05,Furniture,0.83,145
+2025-03-29,Furniture,4.15,179
+2025-10-28,Toys,4.9,50
+2025-03-07,Home Appliances,0.97,141
+2025-08-30,Home Appliances,3.5,136
+2025-08-17,Home Appliances,1.2,200
+2025-07-02,Home Appliances,4.08,82
+2025-02-05,Toys,1.39,87
+2025-03-28,Furniture,1.91,134
+2025-10-05,Home Appliances,4.1,130
+2025-06-02,Furniture,2.72,110
+2025-04-02,Electronics,3.72,176
+2025-03-02,Toys,3.95,182
+2025-05-16,Furniture,4.77,133
+2025-07-07,Electronics,4.87,155
+2025-09-18,Toys,2.05,173
+2025-09-18,Home Appliances,3.56,52
+2025-05-18,Toys,3.57,196
+2025-10-17,Furniture,2.6,127
+2025-05-05,Home Appliances,4.49,90
+2025-04-10,Electronics,3.17,119
+2025-03-10,Furniture,2.76,181
+2025-12-20,Electronics,1.84,187
+2025-01-01,Toys,2.41,69
+2025-01-10,Electronics,4.78,153
+2025-02-02,Toys,1.75,129
+2025-09-13,Furniture,1.93,83
+2025-03-30,Toys,1.1,114
+2025-10-14,Home Appliances,2.61,110
+2025-01-07,Furniture,3.88,128
+2025-08-10,Furniture,2.51,95
+2025-09-10,Home Appliances,2.58,153
+2025-02-28,Home Appliances,3.3,114
+2025-06-26,Furniture,3.97,91
+2025-04-27,Furniture,3.12,177
+2025-09-15,Home Appliances,1.16,165
+2025-02-26,Home Appliances,1.38,93
+2025-07-26,Toys,2.42,113
+2025-11-09,Home Appliances,2.24,197
+2025-04-30,Toys,0.65,166
+2025-07-19,Furniture,4.14,78
+2025-08-10,Furniture,1.88,199
+2025-12-27,Toys,0.94,169
+2025-11-28,Toys,2.67,138
+2025-07-22,Home Appliances,3.11,95
+2025-01-20,Toys,3.77,122
+2025-12-27,Home Appliances,2.11,99
+2025-04-09,Electronics,4.85,82
+2025-01-31,Toys,4.09,51
+2025-04-09,Home Appliances,1.52,76
+2025-01-22,Electronics,4.02,174
+2025-01-10,Home Appliances,4.76,63
+2025-07-12,Home Appliances,2.38,184
+2025-06-07,Furniture,3.83,100
+2025-06-01,Electronics,1.7,179
+2025-09-27,Home Appliances,2.78,191
+2025-04-09,Toys,4.91,73
+2025-11-20,Furniture,3.03,77
+2025-04-02,Toys,2.87,129
+2025-06-15,Toys,4.72,164
+2025-04-27,Electronics,2.17,98
+2025-03-21,Home Appliances,4.04,143
+2025-06-15,Electronics,2.89,80
+2025-02-13,Electronics,3.02,105
+2025-03-16,Home Appliances,1.19,80
+2025-06-06,Electronics,3.94,80
+2025-01-23,Toys,1.56,52
+2025-07-18,Home Appliances,2.31,168
+2025-03-07,Electronics,2.31,113
+2025-01-31,Furniture,1.38,130
+2025-12-07,Furniture,4.11,128
+2025-12-01,Furniture,4.02,118
+2025-02-02,Toys,2.87,145
+2025-04-11,Toys,3.6,96
+2025-02-25,Toys,2.0,189
+2025-06-24,Electronics,0.63,83
+2025-02-07,Furniture,2.58,105
+2025-08-20,Home Appliances,1.43,89
+2025-09-30,Furniture,4.9,54
+2025-04-30,Toys,1.37,172
+2025-01-23,Toys,2.71,84
+2025-09-14,Furniture,2.1,102
+2025-04-18,Furniture,1.85,145
+2025-07-01,Home Appliances,3.55,109
+2025-03-28,Toys,1.32,157
+2025-11-16,Toys,4.67,124
+2025-12-30,Home Appliances,0.55,177
+2025-07-08,Toys,1.3,51
+2025-03-03,Home Appliances,4.27,158
+2025-12-30,Toys,4.78,131
+2025-04-10,Toys,3.51,161
+2025-01-29,Home Appliances,4.79,170
+2025-01-29,Furniture,3.46,128
+2025-02-27,Home Appliances,4.04,176
+2025-02-17,Furniture,3.73,88
+2025-08-25,Electronics,3.95,144
+2025-04-30,Furniture,3.89,183
+2025-05-16,Home Appliances,1.41,81
+2025-07-15,Electronics,2.01,169
+2025-07-24,Electronics,0.89,177
+2025-01-24,Furniture,4.88,97
+2025-05-25,Toys,1.75,132
+2025-02-01,Electronics,1.48,146
+2025-12-21,Furniture,3.38,107
+2025-03-30,Home Appliances,1.38,85
+2025-07-22,Furniture,3.79,177
+2025-03-22,Furniture,1.01,177
+2025-03-05,Toys,0.72,138
+2025-07-27,Toys,1.04,83
+2025-12-15,Toys,2.04,108
+2025-08-06,Electronics,2.37,179
+2025-03-27,Home Appliances,1.74,186
+2025-05-12,Home Appliances,4.39,103
+2025-06-14,Toys,1.1,118
+2025-11-16,Electronics,4.85,91
+2025-07-27,Toys,1.12,131
+2025-09-21,Home Appliances,4.26,117
+2025-07-12,Furniture,2.66,122
+2025-03-09,Home Appliances,0.51,66
+2025-08-07,Furniture,4.92,80
+2025-10-06,Electronics,2.43,163
+2025-02-18,Home Appliances,4.75,198
+2025-09-20,Home Appliances,4.53,90
+2025-06-08,Toys,3.75,196
+2025-07-02,Furniture,1.18,182
+2025-06-21,Home Appliances,1.97,141
+2025-02-06,Toys,4.34,162
+2025-08-27,Electronics,3.64,171
+2025-07-17,Toys,3.11,72
+2025-06-23,Toys,1.04,64
+2025-11-07,Home Appliances,1.95,139
+2025-06-10,Furniture,2.94,194
+2025-01-22,Toys,3.96,63
+2025-08-04,Home Appliances,1.43,92
+2025-03-12,Electronics,2.81,55
+2025-04-21,Home Appliances,3.58,147
+2025-11-23,Home Appliances,2.26,164
+2025-12-01,Electronics,3.48,177
+2025-01-29,Furniture,4.39,109
+2025-03-26,Furniture,2.42,61
+2025-12-31,Electronics,2.76,78
+2025-06-10,Home Appliances,3.84,77
+2025-07-26,Furniture,3.79,124
+2025-11-25,Furniture,4.45,170
+2025-11-13,Toys,1.29,159
+2025-07-26,Toys,2.79,78
+2025-11-27,Toys,2.62,195
+2025-02-17,Furniture,1.21,109
+2025-02-11,Home Appliances,3.32,133
+2025-03-03,Furniture,3.71,66
+2025-05-15,Home Appliances,3.59,81
+2025-03-19,Home Appliances,3.21,85
+2025-04-30,Furniture,2.76,77
+2025-08-30,Home Appliances,1.04,200
+2025-07-02,Furniture,3.67,132
+2025-11-02,Toys,1.21,112
+2025-10-05,Furniture,4.66,58
+2025-03-27,Electronics,1.49,168
+2025-05-03,Toys,0.87,97
+2025-02-18,Home Appliances,3.17,82
+2025-02-09,Home Appliances,4.98,149
+2025-10-14,Home Appliances,1.49,148
+2025-11-10,Electronics,4.23,142
+2025-08-04,Furniture,2.9,177
+2025-01-29,Electronics,4.99,190
+2025-09-02,Home Appliances,4.04,181
+2025-03-23,Furniture,2.75,153
+2025-07-27,Electronics,1.69,130
+2025-06-01,Electronics,2.2,143
+2025-11-22,Furniture,2.52,97
+2025-02-17,Furniture,0.61,147
+2025-12-06,Furniture,2.14,102
+2025-09-07,Toys,2.6,171
+2025-11-17,Electronics,1.03,55
+2025-06-04,Furniture,3.75,178
+2025-03-24,Furniture,3.81,106
+2025-01-04,Toys,4.61,71
+2025-03-26,Furniture,0.54,70
+2025-04-15,Electronics,1.61,71
+2025-06-10,Toys,4.72,80
+2025-08-27,Toys,3.89,136
+2025-10-26,Toys,4.35,160
+2025-04-02,Electronics,2.87,107
+2025-01-29,Toys,2.21,53
+2025-10-22,Electronics,4.62,85
+2025-08-13,Furniture,3.98,134
+2025-07-02,Home Appliances,2.89,154
+2025-01-21,Toys,3.47,161
+2025-01-19,Home Appliances,2.71,92
+2025-05-16,Home Appliances,1.3,109
+2025-07-03,Home Appliances,1.82,175
+2025-12-08,Furniture,3.34,184
+2025-03-15,Electronics,0.89,83
+2025-01-07,Electronics,2.23,100
+2025-07-27,Toys,4.4,102
+2025-04-03,Electronics,4.86,61
+2025-03-04,Electronics,2.33,178
+2025-07-21,Toys,1.93,69
+2025-03-18,Electronics,1.56,51
+2025-08-12,Home Appliances,4.6,178
+2025-03-29,Furniture,1.86,131
+2025-06-17,Home Appliances,2.56,143
+2025-03-11,Furniture,1.94,166
+2025-07-07,Toys,2.58,73
+2025-05-25,Electronics,1.32,189
+2025-08-20,Furniture,1.13,55
+2025-09-05,Home Appliances,2.49,129
+2025-12-19,Toys,4.99,76
+2025-02-20,Electronics,3.98,89
+2025-11-06,Home Appliances,1.54,68
+2025-04-21,Furniture,1.28,194
+2025-10-25,Furniture,2.89,169
+2025-10-06,Home Appliances,1.87,71
+2025-01-16,Electronics,3.21,163
+2025-09-21,Electronics,3.85,106
+2025-03-07,Furniture,0.9,129
+2025-08-02,Electronics,1.5,136
+2025-05-10,Home Appliances,4.43,120
+2025-11-23,Furniture,3.71,164
+2025-10-22,Electronics,1.64,75
+2025-01-31,Toys,3.87,64
+2025-09-04,Home Appliances,2.2,129
+2025-09-03,Home Appliances,2.91,110
+2025-08-18,Furniture,2.3,83
+2025-05-14,Toys,2.01,112
+2025-10-18,Electronics,1.72,173
+2025-06-28,Furniture,1.94,136
+2025-09-19,Furniture,4.31,66
+2025-08-19,Toys,3.41,119
+2025-12-25,Furniture,4.31,56
+2025-01-16,Home Appliances,4.85,187
+2025-11-10,Toys,2.34,89
+2025-08-21,Furniture,4.58,178
+2025-08-14,Home Appliances,2.91,167
+2025-04-17,Toys,1.15,152
+2025-05-11,Toys,3.76,64
+2025-06-10,Electronics,4.51,132
+2025-02-10,Furniture,3.02,131
+2025-08-15,Home Appliances,3.06,109
+2025-01-02,Home Appliances,0.97,177
+2025-08-11,Toys,3.75,182
+2025-09-11,Electronics,1.56,194
+2025-12-19,Furniture,3.27,75
+2025-07-18,Furniture,2.99,141
+2025-03-13,Toys,4.65,148
+2025-04-18,Electronics,2.42,50
+2025-06-22,Home Appliances,1.38,81
+2025-11-11,Home Appliances,4.17,135
+2025-06-22,Home Appliances,3.42,100
+2025-12-19,Toys,0.94,88
+2025-08-08,Furniture,1.81,174
+2025-12-23,Furniture,0.7,151
+2025-02-11,Furniture,1.05,100
+2025-02-13,Electronics,2.06,87
+2025-07-29,Furniture,1.25,109
+2025-05-09,Toys,1.89,117
+2025-09-16,Electronics,1.26,149
+2025-10-29,Toys,2.41,124
+2025-09-19,Toys,2.37,55
+2025-09-09,Furniture,4.88,194
+2025-07-11,Electronics,3.25,181
+2025-11-30,Toys,3.95,141
+2025-03-28,Furniture,4.32,166
+2025-03-10,Toys,3.63,118
+2025-02-24,Home Appliances,1.07,118
+2025-05-18,Electronics,2.11,114
+2025-10-30,Electronics,4.72,128
+2025-06-16,Home Appliances,4.8,129
+2025-04-13,Furniture,4.68,169
+2025-09-28,Electronics,1.7,120
+2025-04-12,Furniture,4.34,60
+2025-05-21,Toys,1.13,104
+2025-08-30,Home Appliances,2.02,166
+2025-09-30,Furniture,2.5,150
+2025-01-17,Home Appliances,3.58,160
+2025-08-03,Home Appliances,1.92,168
+2025-09-03,Electronics,2.04,139
+2025-05-20,Home Appliances,0.51,172
+2025-05-27,Toys,2.11,133
+2025-10-27,Furniture,3.15,171
+2025-05-24,Furniture,3.7,128
+2025-09-22,Furniture,2.89,183
+2025-12-24,Furniture,1.09,185
+2025-06-04,Furniture,3.36,193
+2025-06-05,Toys,2.7,101
+2025-07-13,Home Appliances,4.2,82
+2025-06-04,Electronics,5.0,136
+2025-02-02,Home Appliances,2.49,160
+2025-12-20,Toys,4.52,144
+2025-10-07,Electronics,3.87,80
+2025-10-04,Home Appliances,4.59,187
+2025-01-10,Electronics,2.5,81
+2025-12-16,Home Appliances,4.79,71
+2025-07-04,Furniture,0.6,128
+2025-09-22,Toys,3.77,195
+2025-01-11,Toys,4.35,160
+2025-05-12,Furniture,0.73,55
+2025-04-04,Toys,4.5,121
+2025-03-02,Electronics,4.58,125
+2025-04-11,Toys,0.72,73
+2025-12-17,Home Appliances,1.41,177
+2025-10-08,Home Appliances,2.56,174
+2025-04-01,Home Appliances,4.29,98
+2025-06-21,Electronics,4.23,184
+2025-08-10,Electronics,2.6,64
+2025-04-26,Furniture,1.52,96
+2025-11-25,Furniture,1.91,126
+2025-11-10,Electronics,2.28,136
+2025-03-31,Electronics,3.47,161
+2025-03-23,Furniture,3.61,68
+2025-01-19,Toys,3.66,177
+2025-12-02,Home Appliances,1.65,135
+2025-11-15,Home Appliances,4.8,53
+2025-04-18,Home Appliances,1.86,98
+2025-09-05,Home Appliances,2.65,195
+2025-04-01,Toys,4.5,101
+2025-12-31,Toys,1.91,56
+2025-01-04,Furniture,0.5,132
+2025-05-06,Toys,1.91,182
+2025-04-23,Home Appliances,4.33,93
+2025-06-29,Electronics,1.21,164
+2025-04-22,Toys,4.17,58
+2025-11-09,Home Appliances,0.7,55
+2025-08-21,Electronics,2.76,97
+2025-06-05,Electronics,4.82,193
+2025-11-14,Toys,0.8,84
+2025-02-11,Toys,0.87,86
+2025-10-16,Toys,1.9,177
+2025-12-13,Furniture,0.84,80
+2025-02-17,Home Appliances,4.77,78
+2025-12-07,Home Appliances,0.63,52
+2025-07-19,Electronics,2.28,145
+2025-07-15,Electronics,2.06,136
+2025-10-08,Electronics,4.0,197
+2025-09-30,Toys,4.03,177
+2025-08-02,Home Appliances,1.05,177
+2025-02-23,Electronics,3.67,148
+2025-11-16,Home Appliances,3.85,126
+2025-12-11,Electronics,4.12,111
+2025-11-10,Home Appliances,4.24,92
+2025-02-07,Toys,4.72,143
+2025-02-02,Home Appliances,1.62,129
+2025-09-04,Electronics,1.35,174
+2025-06-10,Home Appliances,2.43,108
+2025-08-06,Toys,3.79,70
+2025-04-06,Furniture,0.87,118
+2025-07-10,Home Appliances,4.19,122
+2025-12-01,Toys,2.49,87
+2025-11-14,Home Appliances,0.86,68
+2025-06-17,Electronics,0.86,52
+2025-12-04,Home Appliances,4.23,112
+2025-04-05,Electronics,4.87,64
+2025-11-07,Electronics,2.88,86
+2025-09-27,Home Appliances,1.36,97
+2025-01-26,Furniture,2.9,83
+2025-01-16,Furniture,4.48,138
+2025-05-27,Home Appliances,1.45,175
+2025-02-21,Toys,2.08,166
+2025-05-28,Electronics,1.8,166
+2025-04-05,Home Appliances,1.06,68
+2025-09-25,Toys,4.17,99
+2025-11-24,Furniture,4.43,92
+2025-06-20,Electronics,2.35,101
+2025-08-02,Electronics,4.62,55
+2025-04-06,Furniture,3.26,131
+2025-12-17,Electronics,2.26,88
+2025-03-10,Toys,1.66,106
+2025-10-10,Electronics,3.28,160
+2025-04-19,Furniture,4.85,67
+2025-10-15,Home Appliances,1.92,101
+2025-06-08,Electronics,3.35,52
+2025-07-09,Home Appliances,3.93,137
+2025-09-28,Home Appliances,3.36,96
+2025-04-28,Home Appliances,0.62,128
+2025-10-28,Electronics,2.43,194
+2025-10-01,Toys,1.89,88
+2025-02-09,Furniture,4.28,63
+2025-05-14,Furniture,3.4,198
+2025-09-03,Home Appliances,4.33,51
+2025-08-15,Home Appliances,2.1,122
+2025-04-18,Electronics,4.19,94
+2025-08-06,Electronics,1.76,138
+2025-09-24,Toys,1.48,157
+2025-10-02,Furniture,1.19,115
+2025-11-25,Toys,1.67,180
+2025-05-13,Home Appliances,2.18,130
+2025-09-07,Toys,3.26,76
+2025-08-01,Furniture,2.78,132
+2025-09-20,Furniture,1.34,161
+2025-07-18,Furniture,4.39,181
+2025-09-14,Electronics,4.14,164
+2025-06-20,Furniture,4.9,171
+2025-03-10,Toys,1.25,144
+2025-09-25,Electronics,1.05,114
+2025-09-12,Furniture,3.67,95
+2025-03-04,Home Appliances,1.51,90
+2025-06-28,Home Appliances,1.19,138
+2025-03-05,Home Appliances,2.9,65
+2025-10-05,Furniture,3.54,105
+2025-01-14,Home Appliances,2.05,69
+2025-03-07,Toys,2.79,196
+2025-10-25,Electronics,4.51,164
+2025-05-21,Toys,1.72,141
+2025-10-24,Furniture,1.6,177
+2025-12-05,Electronics,4.99,98
+2025-12-26,Home Appliances,3.31,166
+2025-04-19,Furniture,4.86,51
+2025-12-19,Home Appliances,2.5,162
+2025-05-14,Furniture,4.48,183
+2025-02-17,Home Appliances,2.78,191
+2025-04-08,Home Appliances,1.02,92
+2025-12-20,Electronics,1.0,92
+2025-12-16,Home Appliances,3.44,107
+2025-08-18,Electronics,1.1,132
+2025-12-12,Furniture,2.97,96
+2025-11-22,Electronics,3.91,52
+2025-07-07,Furniture,3.48,84
+2025-01-01,Toys,4.54,177
+2025-08-22,Electronics,1.44,104
+2025-05-19,Electronics,2.47,141
+2025-09-13,Toys,0.74,172
+2025-12-22,Home Appliances,1.32,181
+2025-12-10,Toys,2.51,156
+2025-05-21,Toys,3.21,133
+2025-12-06,Home Appliances,4.94,61
+2025-03-16,Electronics,4.28,142
+2025-09-12,Furniture,1.28,158
+2025-08-10,Toys,3.67,114
+2025-05-10,Home Appliances,4.81,174
+2025-07-09,Furniture,1.87,98
+2025-12-24,Home Appliances,3.44,135
+2025-10-22,Furniture,0.92,184
+2025-12-07,Electronics,2.6,172
+2025-12-20,Toys,2.35,119
+2025-07-24,Furniture,3.36,92
+2025-11-27,Electronics,2.06,86
+2025-08-05,Home Appliances,0.56,186
+2025-03-24,Electronics,1.16,119
+2025-04-18,Furniture,1.6,128
+2025-08-24,Furniture,1.91,177
+2025-08-27,Furniture,2.65,78
+2025-10-13,Home Appliances,3.88,159
+2025-09-05,Home Appliances,1.43,116
+2025-02-25,Home Appliances,3.84,76
+2025-08-26,Toys,2.06,139
+2025-07-23,Toys,3.28,113
+2025-06-02,Toys,1.45,88
+2025-07-12,Home Appliances,4.48,50
+2025-08-28,Home Appliances,1.11,172
+2025-04-25,Electronics,3.78,158
+2025-04-30,Toys,2.8,124
+2025-03-12,Home Appliances,3.48,141
+2025-09-23,Toys,0.91,85
+2025-08-26,Toys,2.31,198
+2025-03-28,Furniture,2.19,156
+2025-05-03,Toys,0.68,64
+2025-11-17,Home Appliances,3.69,139
+2025-06-08,Toys,3.38,81
+2025-02-19,Furniture,0.83,58
+2025-11-14,Home Appliances,0.58,174
+2025-01-17,Furniture,1.72,149
+2025-05-02,Home Appliances,4.23,79
+2025-03-19,Toys,2.34,184
+2025-10-29,Electronics,2.26,177
+2025-06-23,Home Appliances,0.93,109
+2025-05-24,Home Appliances,1.2,84
+2025-05-23,Toys,1.08,119
+2025-05-25,Home Appliances,3.5,153
+2025-09-03,Toys,3.28,102
+2025-08-16,Furniture,2.47,116
+2025-08-27,Electronics,1.29,139
+2025-09-07,Electronics,0.51,103
+2025-10-22,Toys,0.81,77
+2025-03-09,Electronics,1.35,176
+2025-08-28,Furniture,3.41,54
+2025-06-25,Electronics,3.45,116
+2025-01-12,Electronics,2.78,119
+2025-08-06,Furniture,0.84,190
+2025-04-02,Electronics,4.66,98
+2025-01-18,Home Appliances,2.54,185
+2025-11-16,Electronics,4.99,154
+2025-02-04,Toys,4.28,151
+2025-05-28,Home Appliances,2.3,138
+2025-11-01,Toys,4.72,134
+2025-04-01,Furniture,1.21,135
+2025-02-18,Furniture,0.96,159
+2025-06-20,Home Appliances,2.7,58
+2025-11-07,Electronics,3.35,86
+2025-07-04,Toys,1.6,167
+2025-02-07,Home Appliances,3.54,167
+2025-03-14,Furniture,4.14,121
+2025-05-04,Electronics,1.04,68
+2025-11-19,Home Appliances,2.8,113
+2025-07-09,Toys,1.05,151
+2025-12-21,Home Appliances,2.42,119
+2025-05-09,Toys,2.61,60
+2025-10-09,Toys,3.96,166
+2025-09-08,Furniture,2.03,197
+2025-11-08,Toys,2.49,178
+2025-08-22,Electronics,4.97,194
+2025-11-30,Home Appliances,1.7,154
+2025-08-28,Home Appliances,1.48,175
+2025-11-23,Home Appliances,1.82,187
+2025-10-17,Home Appliances,1.05,60
+2025-09-30,Toys,2.7,75
+2025-05-05,Electronics,1.44,102
+2025-01-09,Electronics,1.11,166
+2025-09-24,Toys,2.74,149
+2025-01-03,Home Appliances,3.0,198
+2025-02-16,Electronics,1.08,90
+2025-05-10,Electronics,4.26,54
+2025-10-05,Furniture,4.43,96
+2025-01-10,Home Appliances,2.52,164
+2025-06-11,Furniture,2.32,113
+2025-05-18,Electronics,3.84,95
+2025-04-16,Home Appliances,3.9,108
+2025-01-08,Toys,2.21,190
+2025-03-26,Home Appliances,4.18,59
+2025-02-04,Home Appliances,2.29,193
+2025-01-31,Home Appliances,2.35,177
+2025-09-06,Furniture,3.0,151
+2025-12-30,Furniture,3.67,148
+2025-02-04,Home Appliances,4.54,197
+2025-10-29,Toys,1.47,141
+2025-12-18,Home Appliances,3.69,131
+2025-10-18,Home Appliances,1.61,116
+2025-09-19,Electronics,0.84,82
+2025-04-01,Furniture,0.99,142
+2025-12-07,Toys,4.83,68
+2025-12-15,Home Appliances,3.93,124
+2025-11-01,Toys,0.82,130
+2025-08-21,Furniture,4.17,171
+2025-07-15,Home Appliances,1.56,157
+2025-03-27,Toys,1.89,197
+2025-05-15,Furniture,3.09,131
+2025-04-02,Toys,4.7,188
+2025-07-13,Home Appliances,0.94,96
+2025-10-03,Toys,2.99,75
+2025-04-18,Furniture,3.72,163
+2025-09-18,Home Appliances,3.45,161
+2025-07-15,Electronics,3.84,194
+2025-10-26,Home Appliances,1.76,158
+2025-10-04,Electronics,3.27,193
+2025-02-17,Home Appliances,2.58,156
+2025-11-18,Electronics,3.07,85
+2025-01-27,Home Appliances,3.94,148
+2025-11-06,Toys,1.06,134
+2025-06-16,Electronics,4.65,179
+2025-10-21,Furniture,3.96,181
+2025-12-01,Home Appliances,4.92,87
+2025-06-03,Furniture,1.82,182
+2025-12-16,Home Appliances,3.44,105
+2025-09-12,Furniture,1.02,63
+2025-09-17,Electronics,4.87,131
+2025-04-06,Toys,2.27,118
+2025-04-23,Toys,2.5,139
+2025-03-07,Toys,3.63,110
+2025-06-22,Toys,1.68,200
+2025-11-12,Home Appliances,0.54,103
+2025-11-30,Toys,1.49,115
+2025-05-12,Electronics,0.51,167
+2025-07-28,Furniture,3.69,117
+2025-10-03,Toys,3.11,96
+2025-07-19,Home Appliances,4.93,85
+2025-05-01,Electronics,1.11,138
+2025-02-24,Furniture,1.07,151
+2025-11-23,Toys,2.66,136
+2025-06-14,Furniture,3.7,104
+2025-03-05,Electronics,2.69,133
+2025-05-04,Toys,4.61,107
+2025-12-13,Toys,4.66,152
+2025-02-01,Home Appliances,3.19,199
+2025-09-12,Home Appliances,1.84,62
+2025-10-12,Home Appliances,1.44,177
+2025-07-06,Electronics,1.02,142
+2025-05-29,Electronics,0.74,124
+2025-10-10,Furniture,0.74,62
+2025-04-24,Toys,4.41,66
+2025-09-20,Home Appliances,0.85,190
+2025-01-23,Furniture,2.85,84
+2025-08-07,Toys,3.43,91
+2025-10-25,Furniture,1.59,55
+2025-10-17,Toys,2.79,115
+2025-04-20,Furniture,2.28,197
+2025-06-20,Home Appliances,4.45,75
+2025-09-27,Furniture,3.92,86
+2025-08-12,Toys,4.39,194
+2025-04-08,Toys,0.95,158
+2025-11-05,Furniture,0.61,81
+2025-01-29,Toys,1.62,68
+2025-12-22,Electronics,2.93,154
+2025-04-30,Electronics,1.29,154
+2025-02-26,Electronics,1.55,185
+2025-02-05,Electronics,2.58,75
+2025-09-19,Furniture,1.99,103
+2025-02-14,Toys,4.47,191
+2025-10-16,Home Appliances,1.07,113
+2025-12-03,Furniture,2.06,51
+2025-12-24,Electronics,1.66,147
+2025-02-06,Toys,2.24,109
+2025-12-23,Furniture,0.8,94
+2025-11-21,Toys,1.36,88
+2025-08-12,Furniture,1.23,100
+2025-04-03,Home Appliances,4.26,99
+2025-02-25,Electronics,4.06,189
+2025-05-06,Toys,2.23,75
+2025-11-14,Home Appliances,2.63,141
+2025-09-27,Electronics,4.76,184
+2025-03-07,Electronics,3.09,80
+2025-09-27,Electronics,4.42,166
+2025-09-05,Toys,2.4,128
+2025-12-02,Toys,4.47,178
+2025-06-25,Toys,4.73,185
+2025-01-01,Toys,2.55,144
+2025-06-09,Home Appliances,2.89,182
+2025-11-12,Furniture,3.63,63
+2025-06-25,Electronics,0.71,76
+2025-10-03,Home Appliances,1.61,172
+2025-09-09,Furniture,4.09,150
+2025-11-20,Toys,4.23,199
+2025-01-13,Home Appliances,2.4,129
+2025-02-20,Electronics,2.24,123
+2025-09-20,Furniture,3.36,184
+2025-09-29,Electronics,1.03,81
+2025-01-22,Furniture,1.28,147
+2025-01-03,Home Appliances,1.61,51
+2025-02-03,Electronics,3.29,95
+2025-08-29,Home Appliances,4.51,128
+2025-08-09,Toys,1.74,178
+2025-05-29,Electronics,2.76,82
+2025-05-26,Electronics,2.93,51
+2025-08-19,Furniture,1.58,95
+2025-01-14,Toys,0.62,180
+2025-09-10,Home Appliances,0.78,61
+2025-08-09,Home Appliances,1.26,152
+2025-02-02,Electronics,3.27,84
+2025-12-31,Toys,1.08,153
+2025-10-18,Toys,1.45,162
+2025-09-27,Toys,1.81,158
+2025-03-04,Home Appliances,4.17,172
+2025-06-20,Toys,3.62,165
+2025-12-29,Electronics,0.84,161
+2025-08-23,Toys,1.69,77
+2025-04-19,Toys,3.29,137
+2025-10-12,Electronics,2.54,52
+2025-02-28,Furniture,2.22,79
+2025-07-25,Furniture,0.54,98
+2025-12-12,Furniture,0.79,139
+2025-11-10,Toys,4.56,126
+2025-08-24,Electronics,2.31,72
+2025-12-03,Furniture,1.78,116
+2025-10-23,Furniture,3.39,79
+2025-10-16,Electronics,4.18,133
+2025-07-04,Furniture,2.34,192
+2025-07-22,Toys,2.21,114
+2025-08-19,Home Appliances,3.76,138
+2025-09-04,Home Appliances,1.74,73
+2025-11-22,Toys,4.24,182
+2025-04-04,Home Appliances,3.87,185
+2025-03-10,Furniture,3.0,200
+2025-01-23,Furniture,1.38,127
+2025-07-17,Furniture,3.21,84
+2025-01-09,Toys,3.12,63
+2025-02-13,Toys,1.22,95
+2025-07-01,Electronics,1.78,171
+2025-02-11,Electronics,1.11,62
+2025-09-08,Electronics,3.06,102
+2025-02-23,Furniture,1.02,130
+2025-10-23,Toys,1.87,89
+2025-09-10,Furniture,2.15,66
+2025-10-19,Toys,4.97,130
+2025-11-30,Furniture,1.1,161
+2025-05-18,Furniture,3.17,180
+2025-05-11,Toys,2.66,200
+2025-03-16,Toys,0.52,133
+2025-10-23,Electronics,1.15,142
+2025-01-25,Furniture,0.7,85
+2025-05-25,Electronics,2.65,73
+2025-06-06,Toys,1.43,67
+2025-04-19,Home Appliances,0.74,68
+2025-06-09,Home Appliances,3.39,59
+2025-03-18,Furniture,3.26,120
+2025-01-31,Home Appliances,3.57,88
+2025-12-09,Electronics,2.88,68
+2025-06-23,Electronics,1.13,89
+2025-03-06,Electronics,2.19,94
+2025-03-06,Home Appliances,4.32,123
+2025-02-02,Electronics,0.79,86
+2025-12-09,Furniture,3.67,146
+2025-08-08,Electronics,1.51,171
+2025-10-25,Toys,4.63,120
+2025-05-02,Furniture,4.07,177
+2025-07-15,Home Appliances,4.07,189
+2025-01-20,Toys,3.28,198
+2025-11-25,Toys,0.51,98
+2025-02-03,Electronics,3.18,51
+2025-06-23,Electronics,1.26,110
+2025-12-22,Toys,2.78,63
+2025-07-25,Home Appliances,1.67,139
+2025-01-19,Electronics,4.41,147
+2025-06-13,Electronics,0.71,124
+2025-10-17,Furniture,1.45,57
+2025-10-11,Toys,3.62,89
+2025-06-05,Electronics,2.3,74
+2025-10-15,Toys,0.8,125
+2025-02-19,Toys,2.53,115
+2025-06-20,Furniture,1.92,178
+2025-01-15,Toys,4.77,105
+2025-08-23,Electronics,0.82,90
+2025-04-23,Electronics,3.31,132
+2025-06-10,Home Appliances,3.72,153
+2025-03-22,Furniture,3.34,78
+2025-11-21,Home Appliances,2.47,82
+2025-11-13,Electronics,4.02,81
+2025-11-15,Furniture,1.12,73
+2025-02-15,Toys,4.99,105
+2025-08-26,Home Appliances,1.6,58
+2025-11-01,Home Appliances,4.64,176
+2025-07-07,Toys,0.91,115
+2025-12-25,Furniture,2.89,76
+2025-01-12,Toys,4.45,134
+2025-08-26,Home Appliances,1.25,120
+2025-12-11,Toys,4.35,52
+2025-05-02,Toys,4.37,80
+2025-04-02,Toys,4.66,91
+2025-10-24,Furniture,3.76,123
+2025-03-04,Toys,4.26,100
+2025-02-22,Toys,0.84,187
+2025-12-09,Electronics,1.94,98
+2025-09-27,Toys,1.4,72
+2025-04-16,Toys,1.46,58
+2025-04-20,Toys,3.77,110
+2025-05-01,Furniture,2.76,142
+2025-11-28,Home Appliances,0.61,82
+2025-01-13,Home Appliances,2.84,113
+2025-05-30,Furniture,1.68,91
+2025-12-19,Home Appliances,2.38,159
+2025-03-22,Electronics,3.72,51
+2025-04-23,Furniture,3.23,173
+2025-09-10,Home Appliances,1.38,94
+2025-12-20,Home Appliances,4.86,141
+2025-08-06,Furniture,1.71,73
+2025-04-09,Home Appliances,1.53,70
+2025-10-28,Toys,1.21,129
+2025-10-06,Toys,2.35,105
+2025-11-01,Furniture,3.67,144
+2025-07-18,Home Appliances,4.98,153
+2025-01-10,Toys,4.12,172
+2025-08-03,Electronics,3.9,50
+2025-05-28,Electronics,4.95,81
+2025-08-01,Home Appliances,1.9,200
+2025-07-27,Electronics,2.6,97
+2025-12-30,Toys,1.78,75
+2025-11-29,Furniture,1.97,100
+2025-02-09,Electronics,0.57,182
+2025-03-13,Electronics,0.95,133
+2025-10-03,Furniture,2.86,109
+2025-06-25,Electronics,3.13,94
+2025-08-23,Furniture,2.33,91
+2025-09-27,Home Appliances,1.97,95
+2025-07-27,Toys,4.8,78
+2025-09-29,Electronics,4.32,91
+2025-06-10,Home Appliances,4.8,61
+2025-11-24,Furniture,2.22,160
+2025-02-07,Toys,1.75,70
+2025-08-10,Electronics,3.34,124
+2025-01-03,Home Appliances,0.83,56
+2025-12-20,Home Appliances,1.53,178
+2025-05-05,Toys,1.92,158
+2025-05-13,Home Appliances,3.19,184
+2025-06-17,Furniture,4.86,115
+2025-02-19,Home Appliances,2.78,199
+2025-08-06,Electronics,3.53,80
+2025-07-12,Toys,3.46,108
+2025-04-12,Electronics,1.54,143
+2025-04-13,Furniture,2.15,159
+2025-11-21,Electronics,4.34,54
+2025-10-02,Electronics,3.79,181
+2025-06-18,Electronics,1.61,178
+2025-10-04,Home Appliances,4.28,134
+2025-01-06,Home Appliances,1.33,180
+2025-09-03,Electronics,3.2,115
+2025-01-09,Electronics,3.11,164
+2025-03-21,Electronics,1.31,172
+2025-05-08,Electronics,1.1,118
+2025-10-07,Furniture,2.89,199
+2025-09-29,Toys,2.08,186
+2025-08-03,Furniture,1.96,136
+2025-12-03,Electronics,0.63,102
+2025-08-26,Furniture,2.32,111
+2025-11-11,Electronics,2.66,83
+2025-08-29,Electronics,3.18,192
+2025-08-27,Home Appliances,3.01,194
+2025-12-04,Furniture,1.05,59
+2025-08-03,Home Appliances,3.45,55
+2025-01-27,Electronics,4.56,158
+2025-10-25,Home Appliances,4.83,78
+2025-06-24,Toys,3.28,197
+2025-07-22,Toys,1.92,113
+2025-06-26,Toys,4.94,131
+2025-05-17,Furniture,0.79,172
+2025-03-10,Home Appliances,0.75,187
+2025-10-15,Furniture,4.38,175
+2025-12-24,Furniture,0.93,67
+2025-09-06,Home Appliances,4.32,69
+2025-12-18,Home Appliances,3.76,172
+2025-07-04,Electronics,3.74,146
+2025-08-09,Furniture,3.77,149
+2025-06-27,Toys,4.67,69
+2025-03-04,Electronics,3.88,84
+2025-11-25,Electronics,2.24,84
+2025-07-15,Furniture,2.17,196
+2025-04-19,Furniture,3.61,190
+2025-10-30,Home Appliances,2.47,103
+2025-10-31,Toys,2.83,105
+2025-11-24,Electronics,2.33,197
+2025-02-19,Electronics,3.16,71
+2025-06-27,Home Appliances,4.04,52
+2025-09-16,Toys,1.81,150
+2025-05-20,Toys,4.66,148
+2025-11-01,Toys,1.8,144
+2025-05-20,Home Appliances,1.55,199
+2025-05-17,Furniture,3.88,89
+2025-12-08,Toys,4.46,111
+2025-12-10,Toys,3.15,81
+2025-01-17,Electronics,2.75,58
+2025-06-28,Furniture,3.55,153
+2025-01-24,Electronics,4.07,88
+2025-10-05,Toys,2.79,53
+2025-01-04,Home Appliances,3.52,199
+2025-05-09,Furniture,3.96,102
+2025-08-19,Electronics,4.19,65
+2025-11-30,Electronics,1.69,143
+2025-10-27,Electronics,4.98,115
+2025-12-11,Toys,2.37,195
+2025-06-29,Home Appliances,3.75,180
+2025-01-31,Toys,2.2,141
+2025-08-31,Toys,3.93,81
+2025-09-22,Toys,3.22,199
+2025-12-14,Electronics,4.67,114
+2025-01-03,Home Appliances,0.78,178
+2025-07-19,Toys,3.69,186
+2025-05-14,Home Appliances,2.85,179
+2025-10-30,Electronics,2.77,117
+2025-06-05,Toys,2.93,83
+2025-12-29,Furniture,4.04,198
+2025-11-22,Toys,3.06,122
+2025-05-18,Toys,1.24,164
+2025-08-04,Electronics,2.67,120
+2025-09-13,Furniture,3.06,182
+2025-12-29,Furniture,4.17,172
+2025-11-01,Home Appliances,4.86,171
+2025-06-16,Toys,4.87,160
+2025-05-24,Furniture,3.96,135
+2025-10-05,Home Appliances,4.03,54
+2025-03-27,Furniture,2.76,98
+2025-09-01,Home Appliances,4.42,198
+2025-08-13,Furniture,3.24,109
+2025-04-22,Furniture,1.45,87
+2025-03-31,Home Appliances,2.06,61
+2025-04-14,Home Appliances,3.09,186
+2025-03-06,Toys,1.44,113
+2025-10-12,Home Appliances,4.94,163
+2025-02-13,Home Appliances,0.62,147
+2025-08-14,Toys,2.41,175
+2025-11-10,Electronics,0.55,125
+2025-07-10,Furniture,4.66,106
+2025-01-14,Home Appliances,4.96,102
+2025-03-28,Furniture,3.64,130
+2025-05-13,Toys,1.83,200
+2025-08-14,Electronics,4.11,134
+2025-01-03,Furniture,2.42,137
+2025-05-25,Home Appliances,3.27,62
+2025-03-01,Toys,3.84,62
+2025-01-27,Electronics,3.23,188
+2025-04-04,Furniture,3.23,154
+2025-12-21,Furniture,4.32,140
+2025-07-30,Toys,4.01,61
+2025-09-18,Electronics,4.8,152
+2025-09-17,Toys,2.39,144
+2025-09-06,Toys,1.24,171
+2025-07-06,Furniture,1.74,58
+2025-05-10,Furniture,2.47,75
+2025-07-11,Furniture,4.62,139
+2025-06-24,Furniture,2.21,95
+2025-03-24,Electronics,1.8,65
+2025-02-12,Furniture,0.51,128
+2025-01-28,Home Appliances,3.06,138
+2025-09-17,Toys,4.07,170
+2025-05-15,Toys,4.16,60
+2025-12-23,Electronics,3.26,53
+2025-09-29,Electronics,2.2,62
+2025-03-05,Electronics,2.33,175
+2025-10-15,Furniture,1.94,87
+2025-07-22,Toys,1.78,122
+2025-08-17,Furniture,4.69,87
+2025-12-20,Toys,4.98,72
+2025-07-17,Electronics,1.23,107
+2025-01-26,Furniture,0.71,85
+2025-03-29,Toys,2.59,117
+2025-09-08,Home Appliances,3.21,125
+2025-06-28,Electronics,1.02,135
+2025-03-17,Electronics,0.92,186
+2025-12-29,Electronics,0.51,93
+2025-05-15,Home Appliances,5.0,102
+2025-06-15,Home Appliances,2.92,126
+2025-06-02,Electronics,1.4,156
+2025-06-20,Furniture,2.32,133
+2025-08-02,Toys,4.36,150
+2025-02-17,Toys,4.06,162
+2025-12-04,Electronics,2.01,118
+2025-04-24,Home Appliances,1.12,53
+2025-08-10,Furniture,2.43,194
+2025-04-12,Toys,0.95,193
+2025-07-12,Electronics,4.9,82
+2025-07-24,Toys,1.95,182
+2025-08-19,Toys,1.46,88
+2025-01-17,Electronics,2.84,124
+2025-08-29,Toys,4.27,96
+2025-11-06,Home Appliances,1.48,198
+2025-10-09,Home Appliances,0.96,198
+2025-09-09,Furniture,3.2,95
+2025-01-11,Home Appliances,2.97,177
+2025-01-28,Electronics,4.33,68
+2025-04-06,Furniture,4.0,67
+2025-07-23,Electronics,3.27,148
+2025-11-01,Electronics,3.12,109
+2025-12-11,Electronics,4.59,57
+2025-09-21,Home Appliances,2.3,125
+2025-06-14,Toys,3.7,194
+2025-10-05,Furniture,0.59,154
+2025-05-08,Electronics,2.26,176
+2025-10-09,Electronics,2.22,61
+2025-06-07,Toys,1.12,77
+2025-12-31,Electronics,2.59,123
+2025-12-16,Home Appliances,1.01,167
+2025-01-19,Toys,2.12,87
+2025-09-20,Home Appliances,2.76,104
+2025-01-08,Home Appliances,2.12,156
+2025-07-21,Electronics,4.55,76
+2025-02-11,Electronics,2.81,144
+2025-11-14,Electronics,4.33,109
+2025-10-04,Electronics,3.8,105
+2025-11-28,Toys,1.79,174
+2025-02-13,Furniture,2.2,59
+2025-05-28,Home Appliances,2.59,185
+2025-05-27,Electronics,1.13,187
+2025-01-17,Toys,1.18,151
+2025-05-03,Furniture,1.53,187
+2025-01-13,Toys,3.48,143
+2025-12-13,Toys,1.25,121
+2025-05-14,Home Appliances,1.18,59
+2025-09-09,Furniture,3.53,196
+2025-12-26,Home Appliances,4.72,145
+2025-07-10,Toys,1.77,120
+2025-06-25,Furniture,0.79,95
+2025-10-29,Toys,0.58,150
+2025-10-09,Electronics,0.79,98
+2025-12-20,Toys,2.21,168
+2025-04-02,Furniture,3.64,131
+2025-05-22,Furniture,4.15,69
+2025-09-18,Electronics,1.47,80
+2025-01-29,Furniture,2.06,188
+2025-01-08,Home Appliances,1.62,168
+2025-12-30,Furniture,4.75,138
+2025-03-02,Furniture,1.71,198
+2025-04-04,Home Appliances,3.01,165
+2025-06-03,Electronics,2.33,134
+2025-03-09,Toys,3.29,173
+2025-01-21,Furniture,3.92,144
+2025-05-19,Furniture,2.68,165
+2025-08-18,Home Appliances,2.7,189
+2025-07-01,Toys,2.37,106
+2025-11-01,Toys,1.9,67
+2025-05-10,Furniture,1.11,199
+2025-02-11,Home Appliances,1.41,78
+2025-04-21,Toys,2.79,114
+2025-12-01,Electronics,1.22,167
+2025-03-22,Home Appliances,4.76,116
+2025-04-13,Home Appliances,4.36,165
+2025-01-04,Furniture,3.03,101
+2025-03-20,Home Appliances,4.25,159
+2025-05-23,Toys,2.61,55
+2025-02-07,Home Appliances,1.43,126
+2025-06-27,Furniture,3.57,189
+2025-10-31,Home Appliances,2.4,130
+2025-03-01,Electronics,1.63,82
+2025-07-04,Toys,2.96,152
+2025-07-08,Toys,2.98,103
+2025-08-27,Toys,0.91,161
+2025-12-17,Home Appliances,4.21,177
+2025-12-21,Toys,3.2,143
+2025-12-27,Electronics,2.42,145
+2025-01-05,Home Appliances,3.14,174
+2025-02-23,Electronics,3.47,161
+2025-03-23,Home Appliances,0.51,58
+2025-03-07,Toys,1.1,155
+2025-10-22,Furniture,4.61,105
+2025-06-13,Electronics,3.55,90
+2025-09-14,Toys,0.77,152
+2025-02-20,Electronics,3.39,112
+2025-02-11,Electronics,3.18,176
+2025-11-22,Toys,2.74,86
+2025-01-24,Furniture,4.93,50
+2025-09-18,Home Appliances,4.31,154
+2025-05-12,Electronics,3.84,133
+2025-07-22,Electronics,1.64,134
+2025-06-30,Electronics,3.2,88
+2025-06-01,Home Appliances,3.23,163
+2025-01-05,Electronics,3.12,199
+2025-07-03,Electronics,2.38,83
+2025-06-17,Home Appliances,3.89,118
+2025-01-01,Home Appliances,4.44,154
+2025-08-30,Electronics,2.39,76
+2025-01-15,Home Appliances,3.39,150
+2025-05-28,Furniture,0.9,146
+2025-09-11,Home Appliances,1.72,64
+2025-12-13,Furniture,0.69,165
+2025-10-16,Furniture,1.39,63
+2025-12-20,Toys,1.58,73
+2025-06-19,Toys,2.49,162
+2025-02-16,Home Appliances,5.0,151
+2025-04-02,Toys,1.82,117
+2025-10-16,Electronics,1.11,177
+2025-05-16,Toys,4.85,158
+2025-11-27,Furniture,2.09,107
+2025-09-29,Toys,0.75,94
+2025-03-26,Home Appliances,1.69,151
+2025-06-04,Toys,0.71,166
+2025-02-11,Furniture,0.53,187
+2025-08-14,Toys,4.33,62
+2025-12-02,Home Appliances,4.57,80
+2025-04-28,Furniture,3.93,150
+2025-12-06,Furniture,1.11,135
+2025-06-12,Toys,1.19,53
+2025-02-22,Toys,4.15,145
+2025-04-28,Electronics,4.36,176
+2025-09-11,Home Appliances,3.25,187
+2025-09-06,Furniture,4.8,148
+2025-10-18,Home Appliances,4.1,166
+2025-10-07,Electronics,0.96,161
+2025-04-05,Electronics,0.59,195
+2025-03-22,Electronics,1.68,84
+2025-01-06,Home Appliances,5.0,136
+2025-02-18,Home Appliances,0.81,131
+2025-07-09,Furniture,4.23,166
+2025-12-31,Furniture,2.21,177
+2025-01-25,Toys,1.92,132
+2025-06-19,Furniture,2.48,77
+2025-09-09,Furniture,1.99,55
+2025-07-08,Home Appliances,1.82,121
+2025-06-02,Electronics,0.67,129
+2025-11-06,Home Appliances,3.32,115
+2025-09-13,Home Appliances,3.09,174
+2025-06-02,Toys,3.51,159
+2025-09-15,Electronics,2.31,66
+2025-09-17,Toys,2.55,77
+2025-08-30,Electronics,1.78,128
+2025-12-16,Home Appliances,0.72,76
+2025-11-19,Home Appliances,2.13,53
+2025-02-09,Home Appliances,4.47,80
+2025-06-29,Home Appliances,3.0,100
+2025-03-25,Furniture,0.93,191
+2025-06-08,Electronics,4.18,199
+2025-05-02,Toys,2.52,158
+2025-12-20,Electronics,1.4,122
+2025-02-24,Home Appliances,3.11,88
+2025-11-28,Home Appliances,4.15,110
+2025-08-22,Furniture,1.15,189
+2025-05-26,Furniture,2.28,173
+2025-02-02,Furniture,2.92,61
+2025-10-09,Toys,2.22,155
+2025-01-08,Home Appliances,1.38,111
+2025-05-01,Electronics,1.36,57
+2025-05-16,Furniture,4.85,93
+2025-05-14,Toys,3.83,196
+2025-07-16,Home Appliances,3.35,94
+2025-03-18,Furniture,0.79,121
+2025-10-07,Home Appliances,4.54,62
+2025-08-27,Toys,4.67,174
+2025-02-02,Electronics,2.52,198
+2025-09-11,Electronics,3.97,67
+2025-04-18,Electronics,1.42,122
+2025-07-27,Home Appliances,2.48,162
+2025-12-25,Home Appliances,4.58,111
+2025-10-11,Furniture,0.8,198
+2025-10-01,Electronics,3.47,82
+2025-06-12,Furniture,1.79,175
+2025-03-02,Electronics,2.7,183
+2025-04-25,Furniture,4.6,162
+2025-01-06,Toys,1.99,139
+2025-10-11,Home Appliances,2.5,128
+2025-03-24,Toys,1.38,180
+2025-01-18,Toys,2.32,113
+2025-01-28,Electronics,0.91,175
+2025-02-18,Home Appliances,2.23,82
+2025-02-23,Toys,4.02,69
+2025-10-12,Toys,0.65,161
+2025-11-04,Toys,1.97,137
+2025-12-09,Toys,2.45,145
+2025-02-09,Electronics,2.63,167
+2025-08-23,Toys,4.22,60
+2025-01-15,Electronics,4.71,80
+2025-09-20,Toys,4.45,148
+2025-09-22,Furniture,1.14,99
+2025-03-12,Home Appliances,3.19,97
+2025-11-10,Electronics,3.37,127
+2025-07-17,Toys,3.18,109
+2025-03-31,Furniture,2.02,176
+2025-03-24,Furniture,0.87,198
+2025-10-09,Furniture,4.1,141
+2025-01-02,Electronics,4.79,118
+2025-07-15,Electronics,0.94,174
+2025-11-18,Toys,1.38,110
+2025-11-18,Electronics,0.58,59
+2025-03-29,Furniture,3.29,124
+2025-07-28,Toys,4.53,81
+2025-04-21,Electronics,2.82,98
+2025-07-06,Furniture,1.98,58
+2025-06-24,Home Appliances,1.97,190
+2025-08-03,Furniture,4.88,133
+2025-07-14,Electronics,2.57,102
+2025-11-21,Home Appliances,4.55,152
+2025-09-08,Furniture,4.82,126
+2025-01-23,Toys,4.19,146
+2025-02-21,Toys,2.8,54
+2025-05-04,Home Appliances,1.84,105
+2025-03-02,Furniture,2.67,158
+2025-09-10,Home Appliances,0.73,71
+2025-04-10,Electronics,0.86,195
+2025-06-25,Home Appliances,0.75,186
+2025-07-02,Electronics,3.23,51
+2025-09-24,Toys,2.88,191
+2025-07-09,Furniture,1.46,147
+2025-10-20,Toys,3.96,153
+2025-09-19,Electronics,1.55,58
+2025-07-31,Furniture,0.99,152
+2025-08-20,Home Appliances,4.43,194
+2025-09-14,Electronics,4.14,137
+2025-09-07,Toys,2.74,109
+2025-11-04,Home Appliances,3.92,192
+2025-08-02,Home Appliances,4.59,129
+2025-11-27,Electronics,1.06,178
+2025-12-29,Furniture,1.34,126
+2025-10-08,Home Appliances,3.49,189
+2025-04-01,Home Appliances,2.97,87
+2025-08-14,Toys,2.02,185
+2025-08-27,Electronics,1.96,101
+2025-01-30,Home Appliances,0.54,95
+2025-11-30,Toys,4.94,132
+2025-10-26,Toys,3.03,179
+2025-06-04,Home Appliances,1.15,123
+2025-12-12,Toys,2.05,200
+2025-12-09,Furniture,4.25,146
+2025-03-29,Electronics,1.73,75
+2025-04-08,Toys,3.67,97
+2025-09-01,Toys,2.13,173
+2025-05-21,Toys,4.18,108
+2025-11-21,Home Appliances,3.66,176
+2025-03-15,Furniture,4.89,198
+2025-05-28,Home Appliances,3.63,81
+2025-07-08,Toys,2.14,73
+2025-03-02,Toys,2.72,194
+2025-10-02,Toys,4.3,80
+2025-12-27,Electronics,3.5,179
+2025-08-26,Toys,3.92,158
+2025-12-25,Toys,4.41,173
+2025-10-09,Home Appliances,3.68,62
+2025-12-15,Home Appliances,3.51,123
+2025-09-30,Electronics,3.9,73
+2025-07-25,Electronics,4.56,112
+2025-03-22,Furniture,1.72,199
+2025-10-03,Home Appliances,1.63,112
+2025-08-05,Home Appliances,1.16,177
+2025-04-16,Toys,4.48,132
+2025-12-03,Toys,2.25,147
+2025-05-23,Home Appliances,4.09,85
+2025-02-01,Home Appliances,4.99,101
+2025-05-16,Toys,4.75,110
+2025-01-13,Electronics,2.49,147
+2025-07-19,Home Appliances,0.51,68
+2025-06-06,Electronics,1.48,198
+2025-10-25,Electronics,2.8,79
+2025-11-15,Home Appliances,4.45,125
+2025-04-27,Home Appliances,2.78,172
+2025-02-27,Electronics,1.04,181
+2025-11-11,Home Appliances,3.48,130
+2025-08-23,Electronics,1.96,182
+2025-12-10,Electronics,4.97,166
+2025-06-16,Electronics,3.92,171
+2025-09-23,Furniture,1.8,184
+2025-03-11,Home Appliances,3.72,154
+2025-08-06,Furniture,1.88,81
+2025-07-09,Toys,0.93,186
+2025-04-11,Furniture,3.13,86
+2025-04-15,Furniture,2.8,144
+2025-09-07,Home Appliances,0.5,158
+2025-11-18,Home Appliances,0.93,134
+2025-07-21,Electronics,0.92,52
+2025-03-30,Toys,2.32,86
+2025-01-17,Electronics,1.51,195
+2025-06-07,Home Appliances,4.11,52
+2025-03-20,Furniture,2.24,95
+2025-05-29,Toys,3.91,102
+2025-11-18,Toys,2.9,89
+2025-03-03,Home Appliances,3.39,126
+2025-08-23,Toys,0.62,69
+2025-10-04,Electronics,1.15,138
+2025-09-15,Furniture,3.08,69
+2025-06-17,Home Appliances,1.68,142
+2025-04-20,Furniture,1.32,123
+2025-10-04,Furniture,3.81,191
+2025-02-03,Furniture,2.6,115
+2025-07-24,Furniture,2.38,104
+2025-06-09,Electronics,0.67,88
+2025-07-21,Home Appliances,0.65,104
+2025-02-05,Furniture,2.53,57
+2025-09-23,Furniture,2.05,148
+2025-04-17,Electronics,2.68,82
+2025-12-09,Toys,4.7,165
+2025-10-08,Toys,4.84,169
+2025-10-05,Electronics,3.42,178
+2025-06-04,Electronics,3.93,79
+2025-08-09,Furniture,2.09,143
+2025-08-27,Home Appliances,3.7,60
+2025-07-05,Home Appliances,3.66,112
+2025-01-09,Toys,4.28,71
+2025-02-02,Furniture,4.51,145
+2025-07-06,Furniture,0.75,169
+2025-06-05,Electronics,4.13,154
+2025-01-16,Furniture,3.0,73
+2025-01-02,Toys,3.03,100
+2025-07-06,Furniture,4.81,171
+2025-01-12,Electronics,3.13,183
+2025-02-12,Home Appliances,3.56,86
+2025-04-18,Electronics,2.1,139
+2025-12-18,Home Appliances,2.11,191
+2025-05-26,Electronics,1.7,160
+2025-11-06,Toys,0.77,57
+2025-05-04,Toys,4.45,89
+2025-08-15,Toys,4.4,111
+2025-05-07,Home Appliances,4.62,183
+2025-08-05,Electronics,1.73,116
+2025-10-15,Home Appliances,3.34,102
+2025-10-20,Furniture,1.03,73
+2025-05-31,Home Appliances,4.95,162
+2025-05-26,Toys,4.08,196
+2025-08-13,Home Appliances,0.73,55
+2025-01-26,Home Appliances,2.19,188
+2025-09-03,Home Appliances,4.7,71
+2025-03-14,Furniture,2.01,127
+2025-02-20,Furniture,4.45,152
+2025-02-13,Toys,4.99,196
+2025-04-06,Electronics,1.72,125
+2025-08-05,Electronics,1.01,194
+2025-10-20,Home Appliances,1.26,117
+2025-08-12,Toys,1.43,78
+2025-02-09,Electronics,4.75,189
+2025-02-12,Home Appliances,3.01,58
+2025-11-10,Furniture,1.68,199
+2025-03-15,Electronics,3.37,93
+2025-07-29,Electronics,0.83,121
+2025-11-18,Home Appliances,2.03,200
+2025-09-14,Furniture,2.25,103
+2025-10-03,Toys,3.35,117
+2025-09-08,Home Appliances,4.28,66
+2025-11-03,Toys,2.41,145
+2025-05-26,Home Appliances,3.04,175
+2025-09-28,Home Appliances,2.55,135
+2025-01-26,Furniture,4.97,174
+2025-03-24,Toys,3.94,154
+2025-07-19,Home Appliances,1.51,89
+2025-08-29,Toys,1.53,59
+2025-10-09,Electronics,3.39,143
+2025-01-12,Electronics,4.18,110
+2025-06-08,Home Appliances,3.13,61
+2025-02-21,Electronics,4.47,63
+2025-09-19,Electronics,4.6,113
+2025-06-16,Electronics,4.46,119
+2025-04-25,Toys,0.67,148
+2025-01-06,Furniture,3.04,198
+2025-03-08,Home Appliances,1.59,126
+2025-07-30,Home Appliances,1.83,147
+2025-04-01,Toys,1.43,89
+2025-06-10,Toys,1.67,181
+2025-07-11,Home Appliances,3.3,52
+2025-03-01,Furniture,3.01,54
+2025-04-12,Home Appliances,4.44,66
+2025-02-08,Electronics,1.4,174
+2025-06-15,Furniture,0.98,132
+2025-01-13,Electronics,3.91,181
+2025-09-04,Toys,1.7,57
+2025-09-07,Furniture,0.56,127
+2025-07-04,Home Appliances,4.95,57
+2025-09-22,Electronics,3.54,189
+2025-07-30,Electronics,1.97,127
+2025-05-23,Home Appliances,2.32,127
+2025-09-03,Toys,3.31,69
+2025-09-22,Furniture,2.92,167
+2025-05-23,Electronics,4.63,155
+2025-04-15,Home Appliances,1.54,139
+2025-05-25,Home Appliances,2.75,168
+2025-01-20,Toys,4.29,160
+2025-04-07,Toys,0.61,128
+2025-08-27,Toys,1.52,67
+2025-11-11,Toys,3.64,132
+2025-05-16,Home Appliances,3.6,74
+2025-08-10,Furniture,1.27,112
+2025-05-30,Toys,0.69,51
+2025-04-21,Toys,0.71,197
+2025-11-22,Toys,2.92,57
+2025-12-26,Electronics,1.88,94
+2025-04-30,Home Appliances,3.85,152
+2025-11-16,Electronics,1.55,120
+2025-09-30,Home Appliances,4.92,117
+2025-05-19,Toys,2.52,146
+2025-08-24,Home Appliances,0.92,55
+2025-02-13,Toys,0.57,100
+2025-03-14,Toys,0.8,155
+2025-04-16,Toys,0.89,148
+2025-12-25,Home Appliances,2.66,51
+2025-05-15,Furniture,3.34,120
+2025-06-14,Toys,2.04,171
+2025-07-07,Home Appliances,0.94,69
+2025-02-05,Toys,2.34,188
+2025-05-21,Home Appliances,4.22,136
+2025-04-16,Furniture,4.25,52
+2025-01-18,Toys,4.47,167
+2025-03-22,Furniture,4.53,75
+2025-03-30,Furniture,0.72,191
+2025-02-15,Electronics,2.89,157
+2025-12-17,Electronics,3.98,197
+2025-10-21,Toys,4.0,158
+2025-08-16,Furniture,1.15,111
+2025-10-06,Electronics,4.93,106
+2025-01-25,Electronics,1.42,164
+2025-04-21,Electronics,3.58,73
+2025-07-29,Electronics,1.17,110
+2025-02-19,Toys,1.84,96
+2025-02-08,Electronics,2.11,149
+2025-11-01,Home Appliances,1.68,111
+2025-11-08,Toys,2.54,105
+2025-09-07,Toys,0.72,151
+2025-12-25,Toys,4.01,191
+2025-07-30,Furniture,1.58,190
+2025-05-28,Furniture,4.78,174
+2025-10-20,Home Appliances,2.97,122
+2025-11-24,Home Appliances,2.3,152
+2025-08-25,Furniture,2.44,96
+2025-01-28,Home Appliances,2.36,107
+2025-04-25,Electronics,4.95,117
+2025-08-30,Furniture,2.42,134
+2025-11-01,Furniture,4.76,179
+2025-07-14,Home Appliances,4.73,144
+2025-06-25,Furniture,4.19,118
+2025-02-12,Furniture,2.52,160
+2025-04-13,Toys,1.55,153
+2025-11-18,Furniture,2.89,144
+2025-10-12,Toys,4.32,175
+2025-06-27,Toys,4.66,60
+2025-02-11,Electronics,2.87,183
+2025-11-07,Electronics,1.01,104
+2025-01-12,Electronics,1.97,100
+2025-09-06,Toys,2.57,188
+2025-02-20,Toys,3.03,81
+2025-03-07,Toys,2.6,52
+2025-11-02,Electronics,0.6,53
+2025-08-05,Furniture,0.62,75
+2025-08-10,Toys,1.85,83
+2025-07-23,Home Appliances,2.87,144
+2025-04-07,Electronics,3.04,168
+2025-05-09,Toys,2.5,143
+2025-06-15,Electronics,3.91,159
+2025-10-16,Toys,2.53,130
+2025-01-28,Electronics,3.65,99
+2025-02-21,Toys,1.61,132
+2025-05-04,Toys,1.35,96
+2025-07-08,Toys,3.32,104
+2025-04-04,Home Appliances,3.3,89
+2025-05-08,Home Appliances,2.93,168
+2025-03-29,Furniture,3.96,104
+2025-10-30,Electronics,3.58,71
+2025-04-10,Electronics,3.61,104
+2025-09-29,Toys,2.04,197
+2025-06-04,Toys,4.18,117
+2025-07-27,Electronics,1.22,54
+2025-06-19,Electronics,2.5,133
+2025-12-28,Home Appliances,2.6,114
+2025-01-21,Furniture,2.27,90
+2025-11-11,Furniture,3.31,139
+2025-04-07,Electronics,1.32,115
+2025-06-15,Toys,0.84,129
+2025-10-27,Home Appliances,3.54,92
+2025-05-09,Toys,2.42,53
+2025-08-13,Furniture,4.16,140
+2025-10-03,Home Appliances,2.18,107
+2025-05-13,Electronics,0.82,156
+2025-04-03,Furniture,3.9,149
+2025-07-15,Home Appliances,1.98,52
+2025-07-20,Electronics,2.32,134
+2025-06-24,Home Appliances,3.47,176
+2025-04-23,Furniture,2.53,57
+2025-08-16,Electronics,4.73,120
+2025-05-02,Home Appliances,3.56,166
+2025-09-20,Home Appliances,0.72,90
+2025-10-27,Home Appliances,2.46,116
+2025-01-23,Home Appliances,4.81,149
+2025-03-02,Toys,3.98,187
+2025-07-25,Toys,4.38,198
+2025-07-01,Toys,4.73,81
+2025-11-21,Toys,4.73,88
+2025-08-18,Electronics,3.77,103
+2025-11-23,Home Appliances,2.29,79
+2025-08-15,Toys,4.59,176
+2025-05-29,Home Appliances,4.25,75
+2025-06-23,Electronics,1.87,151
+2025-01-05,Electronics,4.45,97
+2025-08-05,Home Appliances,3.32,196
+2025-07-13,Toys,1.29,120
+2025-12-07,Home Appliances,2.95,171
+2025-10-27,Toys,1.92,97
+2025-01-06,Electronics,1.25,179
+2025-09-30,Home Appliances,4.86,154
+2025-08-29,Furniture,1.72,158
+2025-05-15,Home Appliances,2.21,102
+2025-11-05,Home Appliances,1.62,90
+2025-03-10,Toys,2.39,96
+2025-07-02,Toys,1.91,102
+2025-08-29,Furniture,4.01,174
+2025-02-16,Electronics,4.96,60
+2025-11-26,Electronics,0.66,171
+2025-10-15,Home Appliances,3.91,66
+2025-04-09,Electronics,4.4,165
+2025-05-02,Electronics,4.53,165
+2025-05-19,Electronics,1.91,95
+2025-11-24,Home Appliances,4.92,69
+2025-08-31,Toys,0.63,196
+2025-02-23,Toys,4.34,156
+2025-02-05,Electronics,3.23,59
+2025-08-26,Furniture,1.9,133
+2025-10-26,Furniture,2.58,181
+2025-05-02,Toys,4.56,116
+2025-04-11,Electronics,3.15,185
+2025-02-04,Furniture,2.83,65
+2025-03-05,Furniture,2.04,121
+2025-10-14,Home Appliances,3.92,139
+2025-04-10,Electronics,3.15,125
+2025-11-15,Home Appliances,1.85,74
+2025-02-05,Electronics,1.54,162
+2025-01-30,Furniture,4.66,78
+2025-04-12,Furniture,4.33,78
+2025-04-06,Electronics,3.16,68
+2025-10-27,Furniture,2.3,96
+2025-08-28,Toys,0.84,178
+2025-08-09,Furniture,4.01,165
+2025-04-14,Home Appliances,2.03,61
+2025-01-18,Furniture,2.04,107
+2025-08-09,Electronics,0.83,125
+2025-05-26,Toys,3.12,178
+2025-01-20,Furniture,2.08,189
+2025-04-17,Furniture,1.97,183
+2025-03-25,Home Appliances,4.47,197
+2025-06-19,Home Appliances,1.62,128
+2025-02-13,Furniture,4.22,55
+2025-09-30,Furniture,3.25,138
+2025-05-03,Electronics,3.96,148
+2025-06-29,Electronics,3.1,134
+2025-09-29,Home Appliances,4.76,97
+2025-11-03,Furniture,0.7,134
+2025-02-06,Home Appliances,3.23,176
+2025-05-16,Home Appliances,4.41,109
+2025-07-17,Home Appliances,3.41,144
+2025-08-02,Furniture,4.65,138
+2025-04-03,Electronics,1.4,198
+2025-04-05,Home Appliances,0.55,166
+2025-10-17,Home Appliances,1.67,57
+2025-03-08,Electronics,2.87,118
+2025-07-09,Toys,0.78,194
+2025-03-06,Toys,1.51,77
+2025-06-03,Home Appliances,1.74,91
+2025-12-23,Home Appliances,2.69,84
+2025-03-04,Toys,4.73,66
+2025-02-26,Home Appliances,2.88,63
+2025-06-18,Furniture,4.16,186
+2025-11-08,Home Appliances,4.94,173
+2025-09-29,Toys,4.67,115
+2025-01-10,Furniture,4.84,190
+2025-09-08,Furniture,2.64,91
+2025-01-26,Home Appliances,1.28,119
+2025-02-10,Electronics,0.9,163
+2025-08-06,Furniture,2.9,167
+2025-01-13,Electronics,3.47,143
+2025-10-06,Furniture,2.32,76
+2025-07-17,Electronics,3.26,82
+2025-07-02,Furniture,4.65,103
+2025-03-18,Toys,3.11,67
+2025-11-15,Toys,3.47,117
+2025-06-11,Toys,3.88,174
+2025-09-18,Toys,4.83,172
+2025-07-01,Home Appliances,1.02,66
+2025-01-20,Electronics,3.3,176
+2025-07-03,Furniture,0.54,75
+2025-01-27,Toys,0.74,88
+2025-05-19,Toys,0.85,130
+2025-11-22,Electronics,1.52,93
+2025-08-09,Furniture,1.27,167
+2025-04-23,Toys,1.13,143
+2025-09-17,Furniture,1.78,89
+2025-09-02,Home Appliances,0.96,188
+2025-06-22,Home Appliances,1.21,115
+2025-09-13,Toys,1.55,79
+2025-02-07,Home Appliances,4.33,159
+2025-08-29,Toys,3.9,115
+2025-03-30,Electronics,0.59,105
+2025-02-02,Furniture,3.38,102
+2025-11-02,Electronics,2.23,94
+2025-01-09,Toys,4.8,80
+2025-07-03,Furniture,0.85,200
+2025-12-28,Toys,3.17,176
+2025-03-21,Home Appliances,4.29,140
+2025-10-05,Furniture,4.4,106
+2025-10-16,Home Appliances,4.09,142
+2025-04-04,Home Appliances,2.57,179
+2025-10-04,Home Appliances,4.85,125
+2025-02-07,Toys,4.55,56
+2025-02-02,Furniture,1.63,135
+2025-02-14,Home Appliances,4.37,126
+2025-04-21,Toys,2.64,69
+2025-03-28,Home Appliances,3.77,129
+2025-05-13,Home Appliances,3.72,136
+2025-11-28,Electronics,3.93,66
+2025-03-19,Toys,0.88,157
+2025-02-15,Electronics,4.5,77
+2025-10-07,Furniture,4.56,161
+2025-03-21,Electronics,1.49,50
+2025-06-20,Toys,3.62,99
+2025-03-20,Furniture,4.74,97
+2025-08-03,Furniture,4.71,83
+2025-04-02,Furniture,4.51,111
+2025-09-07,Furniture,4.7,112
+2025-03-08,Electronics,3.85,108
+2025-03-10,Electronics,3.17,184
+2025-06-16,Home Appliances,4.87,104
+2025-12-27,Toys,4.36,127
+2025-04-23,Furniture,3.82,53
+2025-04-25,Electronics,2.46,132
+2025-05-02,Toys,4.49,95
+2025-05-06,Home Appliances,4.07,161
+2025-11-02,Furniture,3.05,136
+2025-04-28,Home Appliances,2.67,182
+2025-06-11,Toys,0.69,82
+2025-01-23,Toys,0.96,105
+2025-11-28,Electronics,4.45,128
+2025-04-13,Toys,1.44,188
+2025-02-25,Toys,1.11,58
+2025-03-05,Home Appliances,1.19,146
+2025-07-30,Toys,3.33,137
+2025-04-28,Furniture,1.92,107
+2025-01-24,Home Appliances,4.15,125
+2025-04-07,Furniture,2.12,142
+2025-03-14,Toys,3.72,120
+2025-09-19,Electronics,4.31,163
+2025-03-19,Home Appliances,0.73,51
+2025-06-23,Electronics,4.43,119
+2025-11-16,Electronics,4.18,116
+2025-08-16,Toys,0.8,145
+2025-09-19,Home Appliances,0.81,141
+2025-12-04,Electronics,4.72,174
+2025-10-02,Furniture,2.27,97
+2025-02-20,Furniture,3.14,153
+2025-01-09,Furniture,1.96,64
+2025-09-17,Home Appliances,1.77,188
+2025-01-31,Electronics,2.75,175
+2025-04-29,Furniture,2.93,101
+2025-07-23,Toys,2.68,78
+2025-08-24,Home Appliances,2.53,60
+2025-01-28,Home Appliances,2.67,166
+2025-07-09,Electronics,1.71,100
+2025-06-11,Home Appliances,3.08,199
+2025-10-31,Toys,4.05,124
+2025-10-17,Furniture,0.54,78
+2025-08-06,Toys,4.51,76
+2025-11-28,Toys,1.23,172
+2025-06-15,Furniture,1.57,193
+2025-04-14,Toys,4.98,89
+2025-02-28,Toys,4.6,138
+2025-07-10,Toys,4.37,89
+2025-05-20,Home Appliances,3.74,66
+2025-10-13,Furniture,1.5,171
+2025-05-24,Electronics,3.52,121
+2025-12-09,Home Appliances,4.35,121
+2025-10-02,Furniture,1.44,89
+2025-08-17,Home Appliances,2.76,83
+2025-10-07,Toys,1.35,74
+2025-08-27,Toys,0.78,156
+2025-07-27,Home Appliances,2.5,121
+2025-04-17,Toys,3.84,165
+2025-10-29,Home Appliances,4.21,131
+2025-08-12,Furniture,2.71,186
+2025-04-21,Furniture,1.25,128
+2025-04-07,Furniture,1.17,116
+2025-11-23,Toys,2.12,171
+2025-10-07,Furniture,3.32,131
+2025-07-28,Toys,4.13,55
+2025-07-26,Toys,1.57,123
+2025-02-10,Home Appliances,3.65,58
+2025-06-07,Toys,1.7,73
+2025-07-18,Electronics,2.65,191
+2025-01-06,Home Appliances,3.62,88
+2025-11-08,Home Appliances,4.0,112
+2025-07-26,Furniture,4.23,99
+2025-11-19,Home Appliances,1.67,193
+2025-10-18,Toys,1.22,193
+2025-10-22,Home Appliances,4.57,197
+2025-09-13,Electronics,3.08,56
+2025-05-05,Furniture,3.0,100
+2025-12-21,Electronics,2.49,140
+2025-07-27,Toys,2.08,81
+2025-07-24,Electronics,2.09,52
+2025-06-12,Furniture,1.81,91
+2025-01-09,Furniture,3.16,177
+2025-12-01,Furniture,0.62,156
+2025-07-18,Electronics,1.76,135
+2025-05-07,Furniture,2.03,96
+2025-07-27,Furniture,2.6,116
+2025-03-02,Home Appliances,1.64,163
+2025-01-15,Toys,0.97,63
+2025-10-23,Electronics,4.11,152
+2025-12-02,Furniture,4.79,191
+2025-12-03,Electronics,0.52,88
+2025-06-18,Toys,0.91,139
+2025-10-09,Home Appliances,0.59,124
+2025-02-11,Furniture,2.72,167
+2025-12-23,Toys,0.8,173
+2025-10-25,Electronics,2.1,52
+2025-08-11,Home Appliances,1.34,139
+2025-12-22,Home Appliances,2.73,178
+2025-09-22,Electronics,0.84,97
+2025-08-06,Furniture,1.84,58
+2025-02-24,Furniture,1.11,72
+2025-03-29,Furniture,3.57,92
+2025-06-30,Furniture,1.48,111
+2025-04-04,Toys,3.17,145
+2025-07-30,Home Appliances,0.67,198
+2025-03-28,Toys,1.44,173
+2025-05-02,Furniture,1.58,173
+2025-04-27,Toys,2.39,172
+2025-01-20,Toys,1.16,108
+2025-08-27,Electronics,1.84,141
+2025-02-17,Furniture,2.15,107
+2025-03-13,Home Appliances,0.7,159
+2025-02-28,Toys,0.71,176
+2025-12-01,Home Appliances,2.62,193
+2025-03-11,Toys,3.09,56
+2025-10-23,Furniture,2.51,162
+2025-04-25,Electronics,2.99,168
+2025-12-10,Electronics,3.85,156
+2025-09-19,Electronics,2.16,83
+2025-08-31,Home Appliances,2.62,55
+2025-01-22,Electronics,4.93,116
+2025-05-22,Toys,1.96,196
+2025-08-14,Electronics,2.01,62
+2025-07-20,Furniture,0.99,159
+2025-11-20,Home Appliances,4.24,149
+2025-02-02,Furniture,3.52,131
+2025-12-03,Furniture,3.13,105
+2025-12-20,Home Appliances,2.09,55
+2025-10-23,Home Appliances,3.15,77
+2025-10-04,Toys,4.65,113
+2025-04-29,Electronics,1.0,174
+2025-09-30,Electronics,2.08,115
+2025-09-10,Electronics,1.42,90
+2025-09-11,Home Appliances,0.68,195
+2025-06-30,Furniture,4.12,167
+2025-08-20,Electronics,4.9,122
+2025-08-07,Home Appliances,3.24,148
+2025-07-21,Home Appliances,3.38,96
+2025-11-07,Toys,3.97,53
+2025-04-28,Furniture,0.66,178
+2025-06-24,Toys,2.17,150
+2025-01-24,Furniture,4.79,136
+2025-01-13,Home Appliances,2.51,170
+2025-10-20,Electronics,1.35,98
+2025-08-06,Home Appliances,2.14,68
+2025-10-23,Home Appliances,2.22,192
+2025-10-14,Toys,0.81,145
+2025-06-20,Furniture,0.82,81
+2025-12-22,Home Appliances,4.18,157
+2025-02-03,Home Appliances,2.52,100
+2025-04-29,Home Appliances,2.33,107
+2025-07-13,Home Appliances,3.23,67
+2025-11-21,Furniture,4.74,144
+2025-12-05,Home Appliances,1.51,171
+2025-10-10,Electronics,0.94,171
+2025-09-19,Home Appliances,4.04,121
+2025-11-23,Toys,4.04,175
+2025-01-23,Toys,1.92,73
+2025-09-15,Electronics,0.94,150
+2025-10-21,Furniture,1.49,159
+2025-10-14,Furniture,0.72,195
+2025-01-30,Electronics,3.7,69
+2025-06-22,Home Appliances,2.26,148
+2025-07-23,Toys,4.7,124
+2025-08-30,Furniture,0.95,94
+2025-03-04,Toys,3.98,124
+2025-12-25,Home Appliances,4.29,106
+2025-06-28,Electronics,2.52,176
+2025-12-16,Furniture,3.53,131
+2025-08-04,Furniture,0.83,90
+2025-03-27,Toys,4.61,189
+2025-10-06,Home Appliances,0.68,190
+2025-06-27,Furniture,3.07,109
+2025-06-24,Furniture,4.49,183
+2025-09-01,Furniture,2.86,84
+2025-07-17,Toys,4.16,82
+2025-03-03,Electronics,1.09,100
+2025-11-21,Home Appliances,4.58,152
+2025-04-19,Home Appliances,1.49,127
+2025-02-13,Toys,2.24,124
+2025-01-20,Electronics,4.41,130
+2025-01-08,Home Appliances,4.85,74
+2025-11-11,Toys,4.34,71
+2025-07-21,Furniture,3.05,109
+2025-07-30,Home Appliances,0.66,149
+2025-11-21,Furniture,1.02,109
+2025-12-16,Electronics,2.08,186
+2025-01-01,Toys,1.75,149
+2025-04-28,Electronics,2.17,90
+2025-01-23,Home Appliances,3.95,114
+2025-03-26,Electronics,2.94,120
+2025-11-09,Home Appliances,3.83,118
+2025-04-28,Toys,1.54,127
+2025-09-09,Home Appliances,4.07,108
+2025-06-06,Toys,3.6,129
+2025-02-22,Home Appliances,4.47,197
+2025-06-26,Toys,1.44,125
+2025-09-25,Electronics,2.25,183
+2025-07-19,Furniture,2.43,78
+2025-03-25,Electronics,4.74,58
+2025-07-22,Electronics,4.62,174
+2025-04-28,Toys,2.55,60
+2025-11-24,Electronics,3.49,175
+2025-08-21,Toys,2.6,73
+2025-10-15,Electronics,2.41,92
+2025-11-02,Toys,1.55,190
+2025-12-25,Toys,1.95,186
+2025-08-08,Toys,2.2,86
+2025-05-05,Home Appliances,2.33,158
+2025-12-12,Home Appliances,1.91,111
+2025-11-30,Toys,4.72,113
+2025-08-13,Furniture,4.95,197
+2025-01-15,Electronics,1.92,117
+2025-11-20,Furniture,1.36,155
+2025-06-11,Furniture,4.39,95
+2025-03-31,Home Appliances,3.83,75
+2025-08-28,Electronics,0.73,96
+2025-07-08,Toys,0.66,189
+2025-08-26,Toys,3.34,69
+2025-08-12,Home Appliances,4.72,162
+2025-03-05,Toys,1.8,60
+2025-07-19,Toys,4.46,118
+2025-12-27,Toys,3.31,152
+2025-06-14,Furniture,2.11,101
+2025-11-09,Home Appliances,2.49,193
+2025-03-05,Furniture,4.98,150
+2025-12-27,Home Appliances,4.04,125
+2025-05-11,Home Appliances,1.29,110
+2025-01-21,Home Appliances,0.64,192
+2025-01-26,Toys,2.66,81
+2025-08-10,Toys,0.69,146
+2025-05-02,Furniture,3.68,190
+2025-07-19,Electronics,2.78,193
+2025-07-28,Furniture,2.99,170
+2025-06-17,Furniture,0.69,76
+2025-11-23,Home Appliances,4.22,64
+2025-06-14,Furniture,3.83,94
+2025-01-03,Electronics,0.58,108
+2025-06-30,Furniture,4.96,86
+2025-10-26,Furniture,4.71,134
+2025-01-28,Home Appliances,3.78,148
+2025-11-30,Home Appliances,1.7,89
+2025-08-28,Home Appliances,4.22,164
+2025-06-13,Toys,2.25,184
+2025-10-03,Toys,1.04,136
+2025-09-28,Furniture,3.54,64
+2025-06-05,Home Appliances,4.23,185
+2025-12-25,Electronics,2.42,175
+2025-04-17,Home Appliances,1.72,60
+2025-10-04,Furniture,0.92,141
+2025-08-01,Home Appliances,3.36,121
+2025-04-30,Electronics,4.65,107
+2025-07-16,Electronics,4.93,164
+2025-03-07,Electronics,2.84,104
+2025-08-03,Electronics,0.8,78
+2025-01-12,Toys,5.0,142
+2025-09-28,Home Appliances,1.36,127
+2025-09-21,Furniture,4.21,139
+2025-10-26,Toys,3.98,93
+2025-07-02,Electronics,3.01,158
+2025-11-15,Electronics,4.95,64
+2025-09-08,Furniture,1.52,109
+2025-11-13,Home Appliances,3.85,50
+2025-05-20,Furniture,4.31,146
+2025-07-31,Toys,2.8,67
+2025-11-08,Home Appliances,1.1,163
+2025-01-23,Furniture,1.1,65
+2025-09-13,Furniture,2.95,143
+2025-10-03,Toys,1.22,127
+2025-02-15,Toys,3.7,79
+2025-02-19,Electronics,3.08,122
+2025-12-06,Furniture,1.26,95
+2025-11-07,Toys,0.8,163
+2025-09-13,Electronics,4.69,167
+2025-07-12,Home Appliances,3.89,126
+2025-09-01,Toys,4.44,168
+2025-03-13,Electronics,3.03,197
+2025-09-23,Toys,1.09,118
+2025-06-22,Toys,3.28,119
+2025-01-10,Toys,2.68,136
+2025-04-19,Electronics,4.19,71
+2025-10-01,Toys,4.71,58
+2025-05-09,Electronics,2.31,58
+2025-10-13,Electronics,1.36,152
+2025-05-02,Electronics,1.36,89
+2025-06-17,Furniture,2.3,144
+2025-08-04,Furniture,2.24,112
+2025-04-21,Electronics,2.25,52
+2025-12-29,Electronics,3.09,190
+2025-06-11,Home Appliances,4.51,199
+2025-04-23,Electronics,1.52,163
+2025-09-14,Furniture,0.7,107
+2025-10-23,Toys,3.07,106
+2025-02-27,Electronics,4.25,80
+2025-01-04,Toys,3.73,113
+2025-02-13,Toys,3.67,172
+2025-05-26,Electronics,1.24,91
+2025-03-03,Home Appliances,0.87,61
+2025-11-21,Furniture,3.91,158
+2025-11-04,Toys,3.47,54
+2025-01-27,Furniture,3.94,82
+2025-04-11,Home Appliances,0.6,172
+2025-11-07,Toys,3.68,72
+2025-01-01,Electronics,4.13,126
+2025-03-27,Furniture,4.88,158
+2025-09-26,Home Appliances,0.91,155
+2025-07-20,Furniture,2.22,93
+2025-03-26,Home Appliances,4.6,78
+2025-11-15,Furniture,4.52,127
+2025-01-30,Electronics,1.36,123
+2025-09-20,Electronics,4.61,116
+2025-05-26,Home Appliances,2.55,114
+2025-12-29,Electronics,3.93,139
+2025-07-31,Home Appliances,4.96,50
+2025-12-05,Toys,4.12,126
+2025-02-09,Toys,1.01,80
+2025-10-16,Furniture,4.33,159
+2025-01-17,Toys,0.57,174
+2025-11-26,Furniture,3.32,197
+2025-12-05,Toys,4.5,157
+2025-05-11,Home Appliances,4.22,50
+2025-02-05,Home Appliances,3.98,175
+2025-01-11,Toys,2.52,164
+2025-10-07,Furniture,2.93,134
+2025-03-10,Electronics,1.97,91
+2025-03-05,Electronics,0.96,125
+2025-03-27,Toys,1.73,102
+2025-05-19,Electronics,2.3,92
+2025-06-19,Furniture,2.93,154
+2025-03-28,Electronics,4.18,138
+2025-07-24,Furniture,3.67,123
+2025-02-15,Home Appliances,4.04,134
+2025-11-20,Toys,1.58,152
+2025-07-26,Toys,4.32,156
+2025-06-11,Furniture,2.17,143
+2025-12-15,Electronics,2.89,162
+2025-03-13,Home Appliances,2.42,172
+2025-02-09,Home Appliances,0.88,55
+2025-02-28,Home Appliances,2.68,63
+2025-03-06,Furniture,4.04,168
+2025-03-26,Toys,1.93,144
+2025-06-26,Home Appliances,0.81,128
+2025-06-29,Furniture,4.25,66
+2025-12-14,Home Appliances,3.11,114
+2025-06-02,Home Appliances,2.94,71
+2025-03-04,Electronics,3.97,96
+2025-01-12,Furniture,2.5,120
+2025-12-15,Furniture,4.94,52
+2025-12-29,Furniture,1.67,181
+2025-12-09,Electronics,1.78,107
+2025-02-13,Home Appliances,4.09,109
+2025-02-26,Home Appliances,1.64,96
+2025-12-20,Toys,2.0,180
+2025-10-23,Home Appliances,2.82,51
+2025-03-15,Toys,1.61,155
+2025-01-06,Toys,2.75,141
+2025-12-23,Furniture,1.86,149
+2025-12-17,Electronics,0.96,157
+2025-12-21,Furniture,1.75,160
+2025-11-13,Electronics,3.0,68
+2025-10-30,Furniture,1.28,200
+2025-04-16,Electronics,1.29,101
+2025-03-24,Home Appliances,4.56,136
+2025-09-07,Toys,2.4,99
+2025-09-23,Electronics,2.33,154
+2025-08-10,Toys,1.33,167
+2025-09-14,Electronics,3.62,127
+2025-03-07,Home Appliances,4.82,141
+2025-02-07,Electronics,4.09,76
+2025-11-15,Home Appliances,1.66,133
+2025-05-18,Furniture,3.6,113
+2025-03-17,Electronics,2.05,148
+2025-05-14,Home Appliances,0.56,82
+2025-09-18,Toys,0.71,70
+2025-12-28,Toys,4.68,192
+2025-04-26,Electronics,2.24,118
+2025-03-15,Furniture,1.28,69
+2025-06-16,Electronics,2.03,139
+2025-07-26,Toys,2.16,112
+2025-11-08,Toys,1.81,144
+2025-11-06,Furniture,1.13,187
+2025-07-17,Home Appliances,2.04,169
+2025-07-22,Furniture,2.05,91
+2025-12-12,Furniture,4.27,144
+2025-05-16,Home Appliances,4.64,68
+2025-03-23,Home Appliances,0.82,85
+2025-02-28,Furniture,0.55,54
+2025-03-01,Toys,2.9,171
+2025-10-28,Electronics,4.48,100
+2025-04-28,Electronics,4.9,184
+2025-03-18,Toys,4.75,166
+2025-02-06,Electronics,4.42,178
+2025-03-08,Home Appliances,2.09,138
+2025-08-08,Home Appliances,3.07,180
+2025-12-15,Furniture,3.03,91
+2025-11-25,Toys,3.71,198
+2025-09-12,Furniture,2.55,152
+2025-01-01,Toys,2.06,187
+2025-06-09,Home Appliances,3.28,165
+2025-03-23,Toys,2.44,160
+2025-08-26,Toys,1.19,148
+2025-03-28,Electronics,2.46,95
+2025-11-22,Electronics,2.56,177
+2025-06-30,Toys,1.13,154
+2025-10-15,Home Appliances,3.99,190
+2025-05-11,Electronics,0.68,134
+2025-06-01,Furniture,0.98,127
+2025-03-22,Electronics,1.21,89
+2025-10-21,Home Appliances,2.82,69
+2025-12-07,Toys,4.28,81
+2025-04-17,Electronics,4.6,161
+2025-04-09,Home Appliances,4.55,195
+2025-07-26,Electronics,2.93,191
+2025-01-19,Electronics,3.5,97
+2025-10-13,Furniture,2.43,132
+2025-11-02,Toys,1.93,151
+2025-05-08,Electronics,4.86,190
+2025-09-05,Electronics,1.06,187
+2025-02-02,Toys,3.54,185
+2025-08-30,Home Appliances,4.0,139
+2025-04-04,Toys,2.32,185
+2025-10-08,Electronics,3.29,88
+2025-02-24,Home Appliances,4.45,172
+2025-12-04,Electronics,2.57,104
+2025-03-30,Home Appliances,2.54,57
+2025-04-15,Toys,2.84,124
+2025-05-02,Furniture,4.47,169
+2025-10-09,Toys,2.54,91
+2025-12-13,Furniture,3.32,110
+2025-12-24,Toys,2.69,87
+2025-01-15,Toys,2.48,66
+2025-04-09,Electronics,3.08,107
+2025-03-07,Toys,2.59,153
+2025-08-25,Electronics,3.3,183
+2025-01-10,Home Appliances,2.77,194
+2025-02-28,Furniture,4.97,72
+2025-05-06,Toys,0.9,80
+2025-10-18,Home Appliances,4.92,62
+2025-01-06,Electronics,3.59,183
+2025-10-15,Toys,4.95,96
+2025-10-27,Toys,3.94,198
+2025-05-01,Toys,4.94,185
+2025-01-09,Toys,4.41,99
+2025-12-08,Toys,3.36,153
+2025-09-21,Electronics,1.51,158
+2025-03-24,Electronics,2.37,178
+2025-06-25,Electronics,1.22,90
+2025-05-31,Furniture,3.69,89
+2025-12-01,Electronics,1.53,192
+2025-02-17,Electronics,3.3,199
+2025-02-21,Electronics,3.9,132
+2025-02-18,Home Appliances,2.8,134
+2025-03-26,Furniture,0.87,75
+2025-05-17,Electronics,4.16,87
+2025-03-03,Toys,2.02,80
+2025-04-04,Home Appliances,2.81,64
+2025-03-25,Furniture,4.97,105
+2025-10-26,Furniture,1.87,173
+2025-11-24,Furniture,1.63,55
+2025-05-04,Furniture,3.87,52
+2025-01-18,Furniture,2.93,194
+2025-12-26,Home Appliances,2.9,135
+2025-05-26,Furniture,3.27,140
+2025-08-04,Electronics,1.89,82
+2025-12-26,Furniture,1.42,133
+2025-03-12,Toys,4.23,126
+2025-06-19,Toys,0.87,133
+2025-02-16,Electronics,1.03,160
+2025-08-02,Home Appliances,2.56,104
+2025-07-27,Furniture,3.73,165
+2025-07-16,Toys,1.1,171
+2025-03-27,Toys,4.86,74
+2025-06-01,Toys,4.52,187
+2025-11-06,Home Appliances,1.33,182
+2025-08-04,Home Appliances,1.9,50
+2025-07-18,Home Appliances,2.67,139
+2025-05-21,Furniture,1.61,57
+2025-11-14,Toys,2.83,121
+2025-11-29,Electronics,3.14,172
+2025-11-19,Home Appliances,4.08,189
+2025-06-07,Electronics,1.37,71
+2025-02-06,Toys,3.16,150
+2025-01-25,Electronics,4.33,161
+2025-02-22,Home Appliances,0.57,90
+2025-09-11,Toys,3.99,80
+2025-11-14,Toys,4.05,170
+2025-05-16,Toys,2.5,171
+2025-10-17,Home Appliances,2.68,174
+2025-11-26,Furniture,4.89,171
+2025-06-24,Electronics,4.05,109
+2025-05-28,Furniture,2.88,145
+2025-11-13,Toys,0.9,54
+2025-07-03,Furniture,1.69,195
+2025-12-07,Home Appliances,3.88,66
+2025-10-02,Electronics,4.32,56
+2025-09-29,Home Appliances,0.81,160
+2025-06-22,Home Appliances,1.5,94
+2025-07-21,Electronics,3.44,191
+2025-04-03,Electronics,2.99,173
+2025-11-25,Toys,3.97,112
+2025-05-27,Electronics,3.21,176
+2025-03-24,Toys,3.99,118
+2025-05-03,Furniture,3.16,81
+2025-07-07,Home Appliances,4.78,183
+2025-02-21,Toys,3.7,170
+2025-03-21,Toys,4.34,55
+2025-01-09,Furniture,3.07,127
+2025-11-25,Furniture,2.02,63
+2025-11-30,Electronics,1.62,164
+2025-07-05,Toys,3.01,81
+2025-11-24,Home Appliances,2.38,53
+2025-06-26,Toys,1.84,144
+2025-06-02,Electronics,3.79,70
+2025-02-16,Furniture,2.15,112
+2025-02-19,Home Appliances,1.02,192
+2025-07-09,Toys,1.96,62
+2025-10-26,Electronics,2.13,94
+2025-08-06,Furniture,1.79,128
+2025-02-14,Electronics,2.81,109
+2025-01-23,Electronics,2.0,182
+2025-05-10,Toys,4.59,161
+2025-05-27,Toys,1.33,131
+2025-10-28,Toys,0.7,148
+2025-08-30,Home Appliances,3.93,130
+2025-05-13,Furniture,2.93,60
+2025-04-25,Toys,3.92,179
+2025-07-16,Furniture,2.46,111
+2025-10-22,Toys,1.35,52
+2025-08-20,Toys,4.36,56
+2025-01-13,Toys,0.9,191
+2025-08-26,Electronics,3.28,124
+2025-01-20,Home Appliances,1.09,103
+2025-10-14,Electronics,0.67,91
+2025-09-10,Home Appliances,0.78,153
+2025-11-08,Furniture,2.43,173
+2025-11-14,Electronics,4.3,92
+2025-01-10,Furniture,0.54,111
+2025-11-08,Home Appliances,2.58,147
+2025-12-15,Furniture,1.54,165
+2025-02-20,Electronics,2.33,144
+2025-08-13,Electronics,1.28,168
+2025-05-08,Toys,1.81,174
+2025-02-02,Toys,0.91,144
+2025-08-11,Furniture,3.97,74
+2025-06-08,Electronics,3.34,102
+2025-04-20,Electronics,4.56,92
+2025-03-08,Electronics,4.51,53
+2025-01-17,Toys,0.54,88
+2025-03-04,Electronics,2.07,152
+2025-07-10,Home Appliances,0.71,188
+2025-01-01,Home Appliances,4.55,136
+2025-04-28,Home Appliances,3.99,119
+2025-10-05,Electronics,4.18,128
+2025-07-20,Furniture,2.72,92
+2025-05-13,Home Appliances,3.1,70
+2025-05-21,Toys,4.72,54
+2025-10-06,Furniture,0.66,149
+2025-10-16,Toys,3.69,89
+2025-08-05,Furniture,0.75,167
+2025-04-09,Home Appliances,0.67,192
+2025-07-16,Furniture,3.79,200
+2025-03-05,Home Appliances,0.59,192
+2025-09-12,Furniture,2.26,70
+2025-02-07,Home Appliances,2.25,156
+2025-02-18,Home Appliances,4.14,97
+2025-10-03,Toys,1.38,196
+2025-02-01,Furniture,2.96,130
+2025-05-30,Toys,2.05,107
+2025-07-03,Home Appliances,3.9,155
+2025-10-02,Home Appliances,2.18,153
+2025-05-07,Furniture,2.19,77
+2025-05-28,Toys,1.9,116
+2025-06-15,Home Appliances,4.35,133
+2025-06-10,Home Appliances,3.61,89
+2025-02-01,Electronics,1.91,171
+2025-03-09,Furniture,3.76,89
+2025-10-19,Toys,3.03,111
+2025-05-16,Home Appliances,4.1,133
+2025-12-23,Toys,1.15,158
+2025-01-08,Furniture,1.77,143
+2025-07-13,Furniture,1.42,127
+2025-07-09,Furniture,3.21,154
+2025-03-01,Toys,3.59,163
+2025-09-26,Toys,1.89,162
+2025-07-03,Furniture,3.47,116
+2025-12-09,Toys,1.55,87
+2025-06-02,Furniture,4.4,163
+2025-02-14,Furniture,3.43,161
+2025-09-30,Electronics,4.48,56
+2025-06-06,Furniture,3.4,113
+2025-01-04,Home Appliances,2.47,182
+2025-04-26,Electronics,2.6,116
+2025-06-07,Furniture,2.02,101
+2025-03-02,Home Appliances,4.91,105
+2025-10-23,Toys,3.56,141
+2025-10-26,Furniture,2.74,198
+2025-04-20,Toys,2.48,147
+2025-05-07,Home Appliances,0.84,53
+2025-09-15,Home Appliances,2.87,144
+2025-04-03,Home Appliances,0.83,135
+2025-02-26,Toys,4.73,50
+2025-02-12,Electronics,2.47,118
+2025-06-27,Electronics,3.9,83
+2025-06-07,Toys,3.9,116
+2025-12-09,Furniture,1.96,169
+2025-06-07,Toys,0.96,153
+2025-04-10,Home Appliances,2.79,187
+2025-11-16,Home Appliances,2.57,56
+2025-03-28,Electronics,3.51,194
+2025-05-07,Furniture,3.34,64
+2025-03-03,Furniture,3.01,160
+2025-09-21,Toys,2.26,180
+2025-09-27,Furniture,3.22,135
+2025-12-15,Furniture,4.53,166
+2025-04-24,Furniture,2.03,90
+2025-03-31,Toys,2.56,84
+2025-10-19,Furniture,4.29,90
+2025-07-24,Home Appliances,2.97,176
+2025-09-10,Furniture,4.93,102
+2025-11-04,Electronics,1.44,125
+2025-06-06,Home Appliances,4.79,132
+2025-06-19,Home Appliances,1.09,53
+2025-09-02,Home Appliances,2.63,57
+2025-02-23,Furniture,1.01,180
+2025-06-04,Toys,3.67,127
+2025-11-30,Home Appliances,4.29,108
+2025-04-09,Furniture,2.68,152
+2025-12-31,Electronics,1.29,177
+2025-12-26,Electronics,3.93,180
+2025-07-10,Electronics,4.02,197
+2025-07-01,Furniture,4.69,114
+2025-02-21,Furniture,2.39,159
+2025-01-31,Furniture,2.21,182
+2025-06-11,Toys,4.03,109
+2025-02-07,Home Appliances,3.5,68
+2025-05-28,Home Appliances,3.18,75
+2025-05-24,Furniture,1.68,80
+2025-06-10,Toys,2.81,116
+2025-07-19,Home Appliances,4.94,141
+2025-07-17,Electronics,4.67,141
+2025-11-12,Electronics,2.37,93
+2025-02-01,Toys,0.93,96
+2025-04-15,Electronics,1.91,186
+2025-11-17,Furniture,1.91,71
+2025-09-15,Furniture,1.63,117
+2025-08-13,Furniture,1.5,143
+2025-06-14,Furniture,0.92,121
+2025-12-04,Furniture,2.38,119
+2025-04-25,Toys,0.74,152
+2025-06-22,Electronics,1.53,88
+2025-05-07,Toys,3.2,185
+2025-09-25,Electronics,0.82,111
+2025-11-09,Furniture,1.08,104
+2025-02-21,Electronics,1.8,90
+2025-10-14,Furniture,3.14,146
+2025-03-26,Home Appliances,4.15,200
+2025-07-29,Toys,0.54,178
+2025-03-16,Electronics,0.86,85
+2025-08-28,Electronics,0.74,195
+2025-11-21,Electronics,1.41,63
+2025-10-01,Toys,2.45,156
+2025-10-06,Electronics,3.16,120
+2025-04-10,Home Appliances,4.49,54
+2025-05-24,Toys,3.27,146
+2025-07-23,Electronics,4.16,74
+2025-09-09,Furniture,1.24,105
+2025-12-03,Toys,4.44,185
+2025-01-01,Electronics,0.7,196
+2025-09-01,Electronics,1.9,65
+2025-12-19,Electronics,4.41,137
+2025-04-27,Toys,2.23,79
+2025-05-31,Furniture,4.15,92
+2025-12-02,Toys,2.44,62
+2025-07-03,Home Appliances,3.52,55
+2025-06-28,Home Appliances,4.3,176
+2025-02-06,Furniture,3.86,88
+2025-03-13,Toys,2.58,169
+2025-08-12,Home Appliances,3.21,186
+2025-10-19,Electronics,4.65,116
+2025-06-30,Home Appliances,3.86,139
+2025-09-23,Toys,2.08,110
+2025-02-11,Electronics,1.53,193
+2025-04-10,Toys,4.81,50
+2025-12-18,Electronics,4.59,173
+2025-05-22,Electronics,1.9,174
+2025-02-15,Furniture,0.79,65
+2025-07-26,Home Appliances,2.84,164
+2025-07-24,Home Appliances,2.84,113
+2025-01-16,Furniture,3.94,144
+2025-08-14,Toys,2.96,60
+2025-07-17,Electronics,0.66,116
+2025-01-30,Toys,0.85,185
+2025-11-25,Home Appliances,3.23,168
+2025-04-13,Furniture,2.55,189
+2025-03-02,Furniture,2.26,50
+2025-02-28,Toys,1.0,54
+2025-02-14,Electronics,1.13,103
+2025-01-09,Furniture,0.95,83
+2025-04-14,Home Appliances,3.85,88
+2025-03-17,Electronics,3.36,115
+2025-02-09,Home Appliances,4.13,83
+2025-06-09,Furniture,3.64,124
+2025-02-04,Home Appliances,1.39,77
+2025-10-03,Home Appliances,1.41,183
+2025-11-18,Electronics,2.97,105
+2025-11-03,Electronics,2.72,61
+2025-12-16,Furniture,2.61,91
+2025-07-17,Home Appliances,0.6,86
+2025-02-28,Electronics,3.65,169
+2025-05-08,Toys,4.81,96
+2025-07-03,Toys,2.05,57
+2025-06-30,Toys,3.93,158
+2025-02-14,Toys,3.33,126
+2025-04-30,Home Appliances,4.44,177
+2025-06-05,Home Appliances,2.9,93
+2025-06-17,Toys,4.96,162
+2025-12-27,Home Appliances,1.4,80
+2025-04-06,Home Appliances,4.75,118
+2025-04-18,Electronics,4.13,196
+2025-10-09,Toys,4.98,56
+2025-04-03,Toys,4.96,161
+2025-05-19,Toys,3.48,115
+2025-05-22,Electronics,4.7,192
+2025-07-13,Furniture,3.79,181
+2025-04-02,Home Appliances,2.81,121
+2025-06-02,Furniture,0.76,55
+2025-11-17,Electronics,2.37,200
+2025-02-12,Toys,4.45,81
+2025-12-24,Home Appliances,2.52,192
+2025-03-22,Toys,4.53,73
+2025-12-26,Toys,0.98,188
+2025-08-18,Electronics,1.05,143
+2025-11-08,Furniture,4.89,89
+2025-05-14,Furniture,4.86,138
+2025-04-11,Furniture,4.44,179
+2025-03-07,Electronics,3.82,143
+2025-09-15,Electronics,4.41,108
+2025-09-26,Toys,4.13,94
+2025-11-26,Furniture,0.9,169
+2025-04-03,Furniture,4.0,87
+2025-05-12,Toys,1.58,108
+2025-07-01,Home Appliances,1.56,119
+2025-02-04,Toys,1.12,123
+2025-03-18,Toys,4.18,155
+2025-08-06,Furniture,1.27,109
+2025-08-18,Home Appliances,4.73,93
+2025-01-19,Furniture,1.93,137
+2025-10-26,Home Appliances,3.44,82
+2025-03-25,Furniture,3.82,170
+2025-11-08,Furniture,1.45,90
+2025-04-08,Home Appliances,1.67,73
+2025-04-03,Toys,1.66,55
+2025-05-18,Furniture,2.44,114
+2025-05-02,Toys,2.16,150
+2025-06-11,Furniture,4.05,195
+2025-02-11,Electronics,3.17,142
+2025-12-21,Toys,1.52,90
+2025-07-21,Electronics,3.3,63
+2025-03-15,Furniture,2.5,113
+2025-04-28,Home Appliances,4.76,141
+2025-05-17,Electronics,2.93,100
+2025-10-02,Furniture,2.82,163
+2025-04-12,Toys,3.45,119
+2025-01-24,Electronics,2.79,108
+2025-12-15,Furniture,3.16,154
+2025-01-31,Home Appliances,2.93,94
+2025-07-19,Electronics,1.01,181
+2025-04-20,Electronics,2.58,194
+2025-09-21,Home Appliances,3.41,75
+2025-11-14,Furniture,2.53,87
+2025-02-01,Electronics,2.34,167
+2025-03-03,Toys,2.73,143
+2025-03-23,Electronics,0.69,175
+2025-11-17,Home Appliances,3.83,127
+2025-05-30,Home Appliances,2.36,55
+2025-03-01,Toys,2.5,155
+2025-06-07,Home Appliances,0.78,55
+2025-06-02,Furniture,1.8,129
+2025-09-23,Furniture,1.18,153
+2025-12-25,Home Appliances,0.55,168
+2025-10-27,Furniture,1.0,97
+2025-11-28,Furniture,3.14,193
+2025-03-03,Home Appliances,4.38,191
+2025-04-06,Electronics,0.65,112
+2025-08-21,Toys,1.71,185
+2025-12-04,Furniture,3.76,56
+2025-05-27,Home Appliances,4.21,152
+2025-12-27,Home Appliances,2.99,114
+2025-03-12,Electronics,1.39,196
+2025-02-16,Furniture,1.62,79
+2025-09-18,Electronics,3.5,53
+2025-02-07,Furniture,1.38,180
+2025-05-02,Home Appliances,2.58,103
+2025-07-08,Furniture,0.67,113
+2025-07-15,Home Appliances,2.62,120
+2025-03-26,Toys,3.75,100
+2025-01-03,Furniture,3.16,167
+2025-06-17,Home Appliances,2.77,198
+2025-03-20,Home Appliances,2.78,144
+2025-12-03,Home Appliances,0.82,143
+2025-11-20,Furniture,3.86,160
+2025-02-06,Electronics,3.24,97
+2025-09-09,Home Appliances,3.37,120
+2025-06-19,Home Appliances,1.36,157
+2025-06-15,Electronics,2.14,107
+2025-06-06,Furniture,3.29,173
+2025-11-08,Home Appliances,2.82,85
+2025-04-10,Home Appliances,3.05,106
+2025-12-24,Toys,4.74,78
+2025-05-23,Toys,4.2,111
+2025-07-19,Home Appliances,4.58,58
+2025-06-07,Home Appliances,3.23,112
+2025-03-20,Electronics,4.64,68
+2025-08-31,Toys,4.59,139
+2025-11-21,Home Appliances,2.55,83
+2025-06-06,Electronics,1.98,57
+2025-06-28,Toys,3.88,197
+2025-05-30,Toys,2.01,66
+2025-10-16,Furniture,4.96,114
+2025-03-14,Electronics,3.24,60
+2025-12-29,Toys,4.51,176
+2025-05-10,Furniture,2.72,174
+2025-05-30,Electronics,3.5,162
+2025-07-26,Toys,4.71,131
+2025-09-19,Electronics,1.15,156
+2025-06-05,Toys,4.12,72
+2025-03-12,Toys,3.02,95
+2025-10-04,Home Appliances,3.84,75
+2025-07-12,Electronics,0.53,53
+2025-10-07,Home Appliances,3.58,198
+2025-03-07,Electronics,4.35,70
+2025-03-30,Home Appliances,0.76,98
+2025-08-12,Furniture,0.79,190
+2025-04-03,Toys,4.29,126
+2025-07-16,Furniture,3.0,128
+2025-07-26,Home Appliances,1.85,140
+2025-12-08,Home Appliances,0.52,172
+2025-10-16,Furniture,1.23,170
+2025-08-06,Electronics,1.05,103
+2025-12-26,Furniture,3.75,75
+2025-03-18,Home Appliances,1.32,190
+2025-11-28,Home Appliances,4.17,193
+2025-04-23,Electronics,1.31,68
+2025-08-31,Electronics,1.0,73
+2025-06-05,Toys,1.63,124
+2025-04-07,Toys,3.89,107
+2025-02-04,Toys,2.18,72
+2025-12-11,Furniture,2.83,55
+2025-09-16,Toys,1.78,117
+2025-06-08,Home Appliances,1.83,74
+2025-12-16,Toys,4.14,91
+2025-01-18,Toys,4.38,197
+2025-04-05,Electronics,2.88,51
+2025-04-01,Electronics,3.94,156
+2025-10-25,Furniture,1.18,61
+2025-02-23,Home Appliances,4.17,136
+2025-01-10,Home Appliances,0.74,76
+2025-11-15,Furniture,4.12,75
+2025-04-03,Toys,4.62,191
+2025-07-10,Toys,1.21,106
+2025-09-17,Furniture,4.27,134
+2025-07-09,Electronics,4.39,69
+2025-04-11,Toys,4.46,143
+2025-02-14,Electronics,3.06,119
+2025-10-24,Toys,3.24,113
+2025-02-01,Home Appliances,2.0,62
+2025-10-31,Electronics,1.12,78
+2025-11-27,Home Appliances,3.98,135
+2025-10-11,Home Appliances,2.55,153
+2025-04-04,Home Appliances,2.21,68
+2025-06-05,Home Appliances,0.81,111
+2025-08-30,Furniture,4.29,166
+2025-06-19,Home Appliances,0.89,142
+2025-12-01,Home Appliances,1.48,91
+2025-10-29,Electronics,4.28,122
+2025-11-29,Home Appliances,1.06,103
+2025-07-27,Electronics,4.89,141
+2025-08-01,Electronics,2.95,166
+2025-03-31,Electronics,0.56,154
+2025-06-06,Home Appliances,3.54,130
+2025-10-14,Home Appliances,3.02,67
+2025-11-11,Furniture,1.71,100
+2025-07-31,Furniture,2.99,73
+2025-08-22,Electronics,2.14,133
+2025-04-28,Toys,1.74,134
+2025-05-13,Furniture,4.87,140
+2025-10-02,Electronics,3.61,56
+2025-07-10,Toys,3.31,64
+2025-11-12,Electronics,0.6,140
+2025-03-13,Electronics,1.59,98
+2025-01-12,Furniture,3.94,191
+2025-06-20,Electronics,4.27,154
+2025-09-14,Toys,2.34,67
+2025-07-24,Home Appliances,2.43,185
+2025-09-09,Home Appliances,2.85,173
+2025-08-05,Home Appliances,3.82,189
+2025-04-16,Electronics,4.87,198
+2025-08-07,Furniture,1.8,144
+2025-11-30,Furniture,3.96,140
+2025-04-28,Home Appliances,3.37,72
+2025-02-14,Toys,2.37,52
+2025-11-24,Toys,3.84,132
+2025-12-25,Electronics,3.53,179
+2025-07-24,Toys,2.52,116
+2025-07-15,Home Appliances,1.38,135
+2025-01-02,Toys,1.6,135
+2025-01-07,Toys,0.66,193
+2025-05-01,Furniture,2.27,139
+2025-05-20,Electronics,2.06,137
+2025-06-01,Electronics,2.44,163
+2025-10-07,Toys,3.0,85
+2025-02-02,Home Appliances,0.69,104
+2025-06-23,Home Appliances,1.91,187
+2025-01-07,Home Appliances,3.13,56
+2025-03-19,Electronics,3.22,127
+2025-02-21,Electronics,1.71,171
+2025-09-14,Home Appliances,3.08,195
+2025-06-26,Furniture,1.89,56
+2025-11-16,Electronics,1.42,81
+2025-11-25,Electronics,1.14,72
+2025-12-28,Electronics,4.34,122
+2025-03-24,Home Appliances,2.08,117
+2025-07-12,Toys,3.44,96
+2025-11-06,Home Appliances,4.51,172
+2025-02-13,Toys,3.57,137
+2025-10-17,Home Appliances,3.23,80
+2025-08-22,Electronics,1.99,135
+2025-09-16,Home Appliances,1.02,127
+2025-11-03,Toys,3.54,113
+2025-07-18,Home Appliances,0.84,52
+2025-09-08,Toys,4.33,145
+2025-12-13,Electronics,2.29,142
+2025-08-06,Toys,1.13,90
+2025-11-22,Furniture,4.38,111
+2025-11-07,Electronics,1.16,103
+2025-02-03,Home Appliances,0.55,59
+2025-05-03,Electronics,2.39,90
+2025-04-18,Home Appliances,0.91,92
+2025-08-25,Furniture,2.26,176
+2025-09-13,Electronics,1.5,151
+2025-03-20,Toys,2.81,192
+2025-09-12,Home Appliances,4.09,142
+2025-04-20,Home Appliances,4.79,63
+2025-02-24,Toys,4.88,102
+2025-12-08,Furniture,4.09,63
+2025-07-02,Electronics,2.68,73
+2025-04-12,Electronics,2.44,108
+2025-02-07,Furniture,2.29,199
+2025-03-05,Furniture,4.92,67
+2025-07-18,Home Appliances,0.8,160
+2025-03-22,Home Appliances,1.12,136
+2025-11-11,Home Appliances,1.14,101
+2025-05-02,Home Appliances,2.33,68
+2025-03-14,Electronics,1.76,137
+2025-12-08,Toys,2.94,104
+2025-05-11,Electronics,4.99,175
+2025-11-18,Home Appliances,4.94,100
+2025-11-09,Furniture,2.27,159
+2025-09-15,Toys,1.17,188
+2025-01-15,Electronics,3.43,123
+2025-09-12,Furniture,1.65,154
+2025-01-27,Toys,1.35,120
+2025-04-25,Toys,3.89,188
+2025-07-12,Home Appliances,4.4,110
+2025-11-11,Electronics,2.93,171
+2025-11-17,Home Appliances,1.84,178
+2025-09-24,Home Appliances,2.46,54
+2025-09-19,Toys,0.97,151
+2025-07-14,Furniture,2.5,71
+2025-03-05,Toys,3.19,103
+2025-09-27,Furniture,1.8,150
+2025-03-19,Electronics,3.56,148
+2025-01-12,Home Appliances,1.9,76
+2025-09-25,Toys,0.93,147
+2025-10-04,Furniture,1.88,133
+2025-06-22,Home Appliances,0.79,168
+2025-12-25,Electronics,2.32,175
+2025-03-10,Toys,3.15,95
+2025-04-15,Home Appliances,2.1,160
+2025-11-17,Electronics,1.27,84
+2025-06-04,Home Appliances,3.36,100
+2025-09-11,Electronics,1.53,121
+2025-05-24,Toys,3.01,98
+2025-09-15,Electronics,4.31,156
+2025-11-05,Toys,4.0,148
+2025-05-07,Furniture,2.59,151
+2025-07-11,Electronics,0.91,188
+2025-01-25,Furniture,4.45,173
+2025-11-30,Electronics,3.32,164
+2025-01-31,Home Appliances,3.46,147
+2025-04-20,Furniture,4.06,170
+2025-03-01,Electronics,1.9,117
+2025-03-09,Furniture,3.35,149
+2025-01-16,Electronics,0.56,63
+2025-02-13,Home Appliances,1.25,172
+2025-05-26,Home Appliances,1.94,187
+2025-04-10,Electronics,2.26,121
+2025-12-11,Furniture,3.8,179
+2025-06-24,Furniture,2.8,135
+2025-03-29,Electronics,2.8,88
+2025-04-02,Furniture,4.01,113
+2025-06-06,Toys,1.53,104
+2025-01-07,Electronics,3.29,61
+2025-12-04,Furniture,3.0,180
+2025-08-23,Home Appliances,3.12,117
+2025-12-25,Electronics,1.4,105
+2025-10-15,Home Appliances,1.93,52
+2025-12-13,Electronics,0.55,54
+2025-11-26,Electronics,3.45,52
+2025-03-22,Home Appliances,4.47,102
+2025-01-09,Toys,1.43,185
+2025-06-08,Furniture,2.68,80
+2025-10-11,Electronics,1.46,104
+2025-07-13,Electronics,1.23,109
+2025-01-06,Electronics,2.4,100
+2025-12-21,Toys,1.42,79
+2025-04-06,Furniture,3.79,177
+2025-03-27,Furniture,1.35,143
+2025-02-19,Toys,3.35,83
+2025-03-25,Toys,4.02,58
+2025-02-13,Toys,3.81,108
+2025-06-11,Furniture,2.25,87
+2025-09-17,Toys,1.95,167
+2025-08-02,Toys,0.89,119
+2025-11-04,Home Appliances,2.86,108
+2025-09-09,Toys,3.81,73
+2025-01-19,Toys,3.29,139
+2025-04-26,Furniture,1.17,71
+2025-01-06,Furniture,1.94,83
+2025-06-04,Home Appliances,2.37,156
+2025-08-10,Toys,2.68,123
+2025-06-03,Home Appliances,0.54,139
+2025-09-21,Toys,3.64,200
+2025-10-05,Electronics,4.06,59
+2025-09-15,Furniture,3.09,50
+2025-07-21,Electronics,2.85,172
+2025-02-26,Electronics,1.81,107
+2025-03-08,Toys,1.35,50
+2025-09-14,Furniture,1.32,99
+2025-09-27,Furniture,2.4,146
+2025-05-24,Electronics,2.24,93
+2025-11-24,Furniture,4.16,120
+2025-02-19,Toys,2.1,182
+2025-04-30,Toys,0.65,180
+2025-05-29,Toys,4.08,74
+2025-10-01,Electronics,2.99,128
+2025-10-12,Toys,4.63,191
+2025-10-06,Toys,1.19,196
+2025-11-03,Furniture,1.59,123
+2025-07-22,Home Appliances,1.95,188
+2025-03-08,Toys,2.94,82
+2025-04-02,Toys,3.3,168
+2025-10-22,Electronics,0.8,122
+2025-08-11,Toys,2.97,97
+2025-09-06,Electronics,3.64,104
+2025-02-12,Furniture,4.31,94
+2025-12-20,Toys,2.83,75
+2025-05-20,Home Appliances,3.31,194
+2025-04-09,Furniture,0.64,131
+2025-05-19,Furniture,0.72,161
+2025-01-18,Furniture,4.07,157
+2025-10-18,Toys,4.38,132
+2025-11-06,Electronics,3.85,182
+2025-04-10,Electronics,1.18,89
+2025-04-02,Electronics,3.16,189
+2025-06-10,Home Appliances,4.43,75
+2025-01-19,Electronics,1.43,199
+2025-06-01,Toys,2.22,123
+2025-10-03,Furniture,4.8,72
+2025-10-17,Toys,4.96,145
+2025-03-24,Electronics,0.82,64
+2025-02-23,Furniture,1.86,82
+2025-12-09,Electronics,0.82,51
+2025-10-23,Furniture,1.24,76
+2025-04-10,Furniture,3.96,101
+2025-11-06,Toys,0.62,71
+2025-10-16,Home Appliances,4.07,184
+2025-11-11,Home Appliances,4.54,177
+2025-02-05,Home Appliances,3.15,198
+2025-07-04,Toys,3.89,140
+2025-03-25,Toys,1.36,193
+2025-07-13,Home Appliances,1.39,134
+2025-12-12,Toys,3.51,89
+2025-09-12,Electronics,2.83,112
+2025-07-27,Toys,4.15,183
+2025-02-07,Toys,4.24,65
+2025-02-03,Furniture,2.23,59
+2025-10-09,Home Appliances,1.09,100
+2025-05-26,Toys,1.34,114
+2025-07-01,Toys,4.22,154
+2025-03-23,Home Appliances,3.4,157
+2025-06-21,Furniture,4.0,92
+2025-05-09,Toys,4.76,168
+2025-07-07,Toys,3.52,194
+2025-07-16,Electronics,4.07,95
+2025-06-28,Toys,2.13,142
+2025-01-21,Toys,2.62,68
+2025-06-03,Furniture,2.75,91
+2025-07-04,Electronics,2.0,146
+2025-08-02,Furniture,2.38,125
+2025-11-18,Furniture,2.25,187
+2025-12-21,Furniture,2.61,166
+2025-05-31,Furniture,0.98,115
+2025-08-24,Toys,3.44,118
+2025-07-18,Electronics,0.82,156
+2025-07-24,Home Appliances,1.42,134
+2025-03-09,Home Appliances,0.58,176
+2025-05-26,Furniture,2.08,120
+2025-03-25,Electronics,4.96,77
+2025-10-13,Home Appliances,3.25,151
+2025-09-15,Home Appliances,2.97,104
+2025-12-31,Electronics,2.37,112
+2025-07-10,Furniture,3.1,152
+2025-05-24,Toys,1.04,82
+2025-11-26,Home Appliances,1.22,174
+2025-09-30,Home Appliances,3.34,157
+2025-06-17,Furniture,2.48,111
+2025-12-20,Toys,2.35,56
+2025-11-11,Home Appliances,0.89,131
+2025-05-10,Toys,1.91,70
+2025-01-24,Furniture,1.55,191
+2025-05-15,Electronics,3.47,143
+2025-06-16,Home Appliances,0.55,157
+2025-04-01,Home Appliances,1.74,137
+2025-07-06,Furniture,1.77,127
+2025-06-30,Furniture,0.88,125
+2025-12-26,Toys,2.7,193
+2025-09-22,Home Appliances,2.1,158
+2025-08-08,Electronics,3.46,137
+2025-04-28,Toys,1.45,115
+2025-10-02,Home Appliances,3.98,57
+2025-04-01,Electronics,4.02,102
+2025-06-26,Home Appliances,4.32,78
+2025-06-28,Toys,0.56,69
+2025-02-12,Toys,1.22,54
+2025-03-24,Electronics,2.28,122
+2025-05-29,Home Appliances,1.44,199
+2025-07-07,Toys,1.1,83
+2025-08-16,Furniture,2.63,86
+2025-06-05,Furniture,3.41,117
+2025-11-28,Home Appliances,4.13,115
+2025-12-28,Toys,2.58,71
+2025-01-18,Toys,3.47,175
+2025-02-19,Furniture,4.84,127
+2025-11-04,Furniture,2.22,93
+2025-01-18,Home Appliances,1.23,165
+2025-09-28,Furniture,0.68,77
+2025-10-04,Electronics,4.03,70
+2025-07-13,Electronics,2.72,95
+2025-03-07,Toys,0.99,200
+2025-11-13,Toys,2.64,59
+2025-05-29,Furniture,1.83,163
+2025-04-25,Home Appliances,4.45,91
+2025-07-21,Electronics,3.28,136
+2025-03-05,Toys,4.04,164
+2025-11-16,Furniture,1.23,139
+2025-05-08,Toys,2.03,164
+2025-03-13,Furniture,3.86,80
+2025-08-05,Electronics,1.87,144
+2025-10-10,Furniture,1.18,66
+2025-10-24,Toys,1.96,108
+2025-06-18,Home Appliances,0.91,64
+2025-08-17,Home Appliances,3.47,155
+2025-01-19,Furniture,2.0,96
+2025-08-05,Toys,4.12,149
+2025-10-10,Furniture,0.92,52
+2025-11-13,Home Appliances,1.2,156
+2025-11-14,Electronics,2.55,120
+2025-12-01,Toys,4.79,97
+2025-01-25,Electronics,4.31,129
+2025-03-05,Toys,3.37,150
+2025-01-04,Furniture,0.92,168
+2025-09-01,Toys,1.38,75
+2025-03-05,Furniture,4.32,104
+2025-07-09,Toys,2.46,181
+2025-08-28,Toys,2.18,153
+2025-12-22,Electronics,0.54,165
+2025-02-05,Electronics,1.56,120
+2025-02-05,Home Appliances,1.61,186
+2025-11-02,Home Appliances,3.18,184
+2025-05-10,Toys,3.45,133
+2025-04-19,Toys,4.53,75
+2025-08-02,Furniture,1.34,157
+2025-06-13,Toys,1.1,90
+2025-11-06,Electronics,3.2,123
+2025-04-17,Toys,0.82,53
+2025-04-13,Furniture,2.49,164
+2025-03-17,Electronics,3.41,70
+2025-06-28,Home Appliances,2.31,65
+2025-10-28,Toys,1.45,143
+2025-04-10,Toys,2.11,128
+2025-12-22,Home Appliances,1.91,94
+2025-01-23,Home Appliances,4.35,132
+2025-05-28,Toys,1.51,197
+2025-01-30,Furniture,1.81,98
+2025-10-29,Electronics,2.68,143
+2025-08-21,Toys,3.59,185
+2025-04-11,Furniture,2.95,57
+2025-08-02,Furniture,1.96,128
+2025-09-21,Toys,4.59,142
+2025-12-08,Furniture,4.43,55
+2025-02-17,Electronics,3.23,167
+2025-12-13,Electronics,2.21,127
+2025-01-23,Electronics,0.92,57
+2025-11-05,Furniture,1.5,192
+2025-07-10,Electronics,1.6,152
+2025-05-06,Furniture,4.61,148
+2025-05-24,Home Appliances,0.58,146
+2025-08-02,Furniture,2.97,180
+2025-07-03,Electronics,1.28,71
+2025-06-20,Electronics,4.87,87
+2025-12-07,Toys,3.57,92
+2025-02-05,Home Appliances,3.18,64
+2025-05-28,Electronics,2.68,120
+2025-07-03,Furniture,2.78,67
+2025-06-09,Home Appliances,2.08,175
+2025-04-03,Furniture,2.94,143
+2025-11-25,Furniture,3.68,68
+2025-09-27,Toys,3.01,169
+2025-12-22,Toys,1.98,189
+2025-02-15,Furniture,0.63,93
+2025-03-28,Furniture,2.1,160
+2025-02-21,Toys,2.58,116
+2025-11-21,Electronics,4.62,86
+2025-04-14,Furniture,0.88,170
+2025-11-20,Toys,3.06,127
+2025-08-22,Furniture,4.77,193
+2025-03-04,Toys,2.91,81
+2025-09-21,Toys,2.94,180
+2025-03-15,Electronics,0.68,75
+2025-11-28,Home Appliances,4.91,186
+2025-01-18,Home Appliances,3.26,176
+2025-12-19,Toys,3.14,132
+2025-10-10,Home Appliances,0.55,147
+2025-03-24,Home Appliances,4.75,60
+2025-05-15,Furniture,2.36,69
+2025-12-15,Toys,3.25,138
+2025-09-21,Home Appliances,1.08,87
+2025-10-08,Home Appliances,4.77,168
+2025-12-06,Furniture,2.31,99
+2025-06-23,Home Appliances,2.25,84
+2025-10-15,Electronics,3.97,130
+2025-12-04,Furniture,4.11,143
+2025-10-29,Toys,3.5,111
+2025-11-12,Toys,3.62,107
+2025-12-31,Electronics,2.63,97
+2025-12-25,Electronics,4.97,111
+2025-06-13,Toys,2.62,72
+2025-02-28,Furniture,3.74,59
+2025-03-29,Furniture,4.94,91
+2025-08-18,Home Appliances,2.14,129
+2025-02-01,Home Appliances,3.77,121
+2025-06-28,Furniture,2.72,142
+2025-11-07,Furniture,4.19,80
+2025-01-27,Furniture,2.24,91
+2025-07-13,Toys,0.87,92
+2025-07-17,Toys,1.8,79
+2025-04-29,Toys,2.75,141
+2025-03-09,Electronics,0.89,105
+2025-04-05,Furniture,4.18,80
+2025-04-20,Furniture,2.14,118
+2025-08-25,Furniture,4.32,177
+2025-09-20,Home Appliances,2.92,154
+2025-09-30,Furniture,1.87,62
+2025-02-15,Home Appliances,1.56,196
+2025-12-29,Electronics,1.24,100
+2025-12-14,Furniture,2.26,108
+2025-08-05,Home Appliances,2.5,68
+2025-06-16,Furniture,1.61,61
+2025-11-22,Toys,3.82,114
+2025-06-18,Electronics,1.54,71
+2025-08-31,Furniture,4.33,155
+2025-09-06,Electronics,2.71,159
+2025-05-18,Electronics,3.46,164
+2025-07-02,Home Appliances,1.07,89
+2025-11-14,Electronics,3.41,181
+2025-10-27,Furniture,3.99,99
+2025-04-27,Home Appliances,3.08,123
+2025-06-18,Furniture,3.83,102
+2025-12-25,Furniture,4.85,125
+2025-04-16,Toys,2.86,109
+2025-02-14,Toys,4.92,67
+2025-09-17,Toys,2.12,166
+2025-11-27,Home Appliances,0.77,195
+2025-06-05,Toys,1.28,56
+2025-11-25,Furniture,2.6,127
+2025-01-05,Electronics,2.34,142
+2025-12-13,Electronics,0.99,167
+2025-08-27,Furniture,2.94,56
+2025-01-05,Furniture,3.58,110
+2025-11-22,Electronics,2.95,115
+2025-01-18,Furniture,3.51,172
+2025-02-02,Home Appliances,3.77,61
+2025-11-21,Furniture,3.11,116
+2025-03-19,Furniture,2.87,63
+2025-02-06,Electronics,1.15,111
+2025-10-28,Furniture,1.98,101
+2025-06-13,Furniture,4.93,104
+2025-06-07,Home Appliances,2.22,99
+2025-08-24,Furniture,4.3,163
+2025-10-16,Electronics,2.03,193
+2025-01-24,Furniture,1.56,154
+2025-11-08,Electronics,1.16,100
+2025-01-24,Furniture,3.36,96
+2025-04-23,Electronics,2.26,68
+2025-12-18,Toys,2.83,152
+2025-05-28,Furniture,1.49,195
+2025-08-02,Home Appliances,3.62,115
+2025-10-13,Toys,4.93,105
+2025-08-19,Electronics,4.04,163
+2025-12-19,Furniture,3.31,146
+2025-04-04,Electronics,3.58,129
+2025-04-28,Electronics,0.53,194
+2025-08-30,Furniture,1.11,167
+2025-08-19,Home Appliances,4.34,179
+2025-03-09,Electronics,2.2,111
+2025-09-22,Home Appliances,3.14,73
+2025-02-21,Electronics,4.03,184
+2025-07-04,Toys,2.52,156
+2025-09-12,Toys,1.4,185
+2025-08-01,Toys,2.77,59
+2025-11-07,Home Appliances,2.46,167
+2025-07-23,Furniture,1.99,161
+2025-09-17,Home Appliances,1.23,50
+2025-08-13,Toys,1.62,65
+2025-03-30,Furniture,3.99,160
+2025-03-31,Furniture,3.72,98
+2025-01-28,Home Appliances,3.16,68
+2025-02-21,Home Appliances,2.2,136
+2025-01-22,Home Appliances,0.56,171
+2025-03-11,Furniture,3.57,143
+2025-04-10,Home Appliances,3.4,105
+2025-02-22,Toys,4.89,106
+2025-12-17,Home Appliances,4.23,91
+2025-09-04,Home Appliances,3.8,121
+2025-09-14,Home Appliances,4.5,196
+2025-08-05,Home Appliances,4.82,161
+2025-12-06,Furniture,4.8,126
+2025-03-16,Electronics,2.32,102
+2025-03-29,Home Appliances,4.39,167
+2025-11-01,Toys,0.58,82
+2025-09-26,Furniture,1.36,170
+2025-03-06,Home Appliances,0.53,88
+2025-11-25,Furniture,3.99,144
+2025-03-09,Home Appliances,2.99,171
+2025-12-10,Electronics,1.34,109
+2025-04-26,Electronics,3.56,181
+2025-10-11,Toys,0.56,151
+2025-08-05,Electronics,3.2,115
+2025-05-10,Furniture,3.15,149
+2025-07-23,Electronics,2.33,164
+2025-09-21,Electronics,1.19,56
+2025-10-06,Furniture,3.56,161
+2025-01-15,Toys,3.41,186
+2025-07-23,Furniture,2.31,115
+2025-10-18,Toys,4.08,154
+2025-11-23,Toys,1.19,75
+2025-09-27,Furniture,2.77,169
+2025-12-20,Home Appliances,1.32,156
+2025-11-17,Toys,3.91,53
+2025-04-12,Home Appliances,1.09,80
+2025-04-17,Furniture,2.7,160
+2025-05-05,Furniture,3.2,133
+2025-06-10,Home Appliances,2.31,110
+2025-04-02,Home Appliances,4.42,100
+2025-04-19,Electronics,1.62,194
+2025-11-22,Home Appliances,1.07,174
+2025-12-30,Furniture,0.66,168
+2025-10-21,Furniture,4.31,76
+2025-11-19,Furniture,4.25,164
+2025-12-24,Toys,2.69,71
+2025-11-03,Toys,2.44,53
+2025-12-23,Toys,3.3,92
+2025-06-19,Furniture,2.13,106
+2025-10-31,Home Appliances,4.07,176
+2025-12-21,Toys,0.5,135
+2025-10-17,Furniture,3.64,127
+2025-05-06,Home Appliances,1.18,107
+2025-10-17,Furniture,2.93,133
+2025-08-02,Home Appliances,3.34,75
+2025-09-08,Furniture,2.35,132
+2025-04-03,Toys,1.3,167
+2025-10-16,Electronics,0.95,155
+2025-04-29,Toys,2.73,58
+2025-11-06,Furniture,4.78,97
+2025-01-20,Toys,1.93,166
+2025-01-28,Electronics,2.8,172
+2025-12-16,Furniture,3.2,87
+2025-08-13,Home Appliances,2.8,108
+2025-10-11,Electronics,3.44,155
+2025-09-10,Home Appliances,3.24,80
+2025-08-14,Home Appliances,0.51,92
+2025-09-02,Electronics,2.04,129
+2025-12-10,Electronics,3.59,155
+2025-02-17,Toys,4.75,145
+2025-10-13,Furniture,1.01,63
+2025-03-03,Electronics,2.09,149
+2025-05-13,Furniture,4.77,70
+2025-03-19,Electronics,2.63,168
+2025-06-12,Electronics,1.54,77
+2025-11-29,Home Appliances,2.72,120
+2025-07-12,Toys,4.71,78
+2025-09-23,Home Appliances,4.22,65
+2025-07-04,Furniture,2.06,168
+2025-02-28,Home Appliances,4.0,105
+2025-02-06,Electronics,1.98,176
+2025-05-22,Electronics,0.59,118
+2025-07-23,Furniture,2.8,178
+2025-09-30,Toys,1.45,50
+2025-02-04,Home Appliances,3.1,110
+2025-11-20,Toys,2.87,169
+2025-11-09,Electronics,1.16,194
+2025-04-12,Toys,4.21,171
+2025-05-14,Furniture,4.62,71
+2025-01-21,Electronics,2.15,132
+2025-12-04,Toys,4.89,76
+2025-11-24,Toys,2.64,99
+2025-02-11,Furniture,4.07,77
+2025-02-01,Electronics,3.28,128
+2025-07-21,Home Appliances,2.7,190
+2025-07-09,Toys,3.34,177
+2025-10-16,Furniture,1.11,145
+2025-08-30,Furniture,2.79,191
+2025-03-19,Electronics,3.81,87
+2025-01-14,Home Appliances,1.88,83
+2025-10-11,Toys,1.48,190
+2025-09-25,Toys,4.66,114
+2025-04-02,Furniture,3.18,197
+2025-08-03,Toys,2.62,149
+2025-01-23,Toys,4.05,175
+2025-10-10,Electronics,2.97,108
+2025-02-20,Home Appliances,3.22,114
+2025-06-29,Toys,1.07,51
+2025-07-15,Furniture,1.61,181
+2025-01-07,Electronics,2.92,168
+2025-09-06,Home Appliances,4.58,198
+2025-01-26,Home Appliances,3.07,53
+2025-05-15,Electronics,4.01,82
+2025-02-19,Furniture,1.02,173
+2025-06-01,Electronics,1.84,145
+2025-08-12,Toys,2.08,155
+2025-05-05,Electronics,3.67,116
+2025-08-28,Electronics,4.3,154
+2025-05-12,Home Appliances,3.78,66
+2025-11-27,Furniture,1.17,120
+2025-08-07,Toys,3.27,54
+2025-11-24,Electronics,0.51,114
+2025-12-06,Toys,1.68,66
+2025-09-22,Home Appliances,4.67,114
+2025-09-23,Furniture,1.54,131
+2025-06-10,Furniture,2.48,110
+2025-11-29,Toys,1.92,164
+2025-01-15,Furniture,4.29,149
+2025-12-05,Electronics,2.54,85
+2025-07-27,Home Appliances,4.24,176
+2025-05-18,Electronics,1.21,108
+2025-12-10,Home Appliances,1.46,116
+2025-10-16,Home Appliances,3.17,111
+2025-04-24,Furniture,4.89,127
+2025-11-20,Furniture,2.03,82
+2025-09-18,Home Appliances,1.59,89
+2025-01-07,Toys,2.82,135
+2025-07-26,Toys,2.83,63
+2025-11-02,Electronics,0.72,108
+2025-07-22,Home Appliances,3.73,194
+2025-05-03,Electronics,1.13,182
+2025-02-02,Home Appliances,3.9,96
+2025-05-07,Electronics,0.56,161
+2025-06-10,Furniture,2.28,193
+2025-02-25,Home Appliances,3.67,168
+2025-06-01,Furniture,3.38,161
+2025-01-24,Furniture,1.82,86
+2025-06-07,Home Appliances,2.9,162
+2025-01-19,Electronics,1.28,88
+2025-08-07,Toys,3.67,132
+2025-01-03,Toys,2.13,117
+2025-07-03,Furniture,2.71,61
+2025-07-03,Home Appliances,2.81,153
+2025-04-17,Toys,4.74,91
+2025-03-11,Home Appliances,1.98,84
+2025-05-23,Electronics,1.41,197
+2025-02-24,Toys,4.68,82
+2025-08-03,Toys,3.05,157
+2025-01-19,Toys,3.8,162
+2025-03-26,Furniture,4.52,145
+2025-12-13,Electronics,1.95,64
+2025-10-21,Toys,4.7,64
+2025-06-03,Furniture,1.25,67
+2025-02-05,Home Appliances,3.94,84
+2025-03-24,Toys,3.84,188
+2025-06-12,Toys,2.58,189
+2025-12-11,Home Appliances,4.49,183
+2025-01-15,Electronics,4.62,87
+2025-10-01,Home Appliances,3.13,183
+2025-04-23,Toys,2.47,136
+2025-04-11,Home Appliances,1.36,173
+2025-11-29,Home Appliances,1.32,131
+2025-07-17,Home Appliances,3.37,133
+2025-03-04,Furniture,4.93,85
+2025-11-21,Toys,3.99,114
+2025-08-21,Furniture,2.02,87
+2025-12-11,Toys,2.77,121
+2025-07-29,Home Appliances,1.88,178
+2025-11-17,Electronics,2.02,148
+2025-05-07,Home Appliances,2.39,89
+2025-10-02,Home Appliances,3.03,191
+2025-12-03,Furniture,4.89,93
+2025-08-25,Furniture,3.23,126
+2025-10-17,Toys,1.02,66
+2025-05-25,Home Appliances,2.78,104
+2025-09-14,Home Appliances,3.63,65
+2025-10-29,Home Appliances,3.42,164
+2025-04-10,Furniture,4.53,177
+2025-01-24,Furniture,1.26,166
+2025-03-05,Toys,1.86,188
+2025-02-11,Toys,4.3,119
+2025-03-14,Home Appliances,3.23,176
+2025-05-21,Furniture,2.6,111
+2025-09-26,Home Appliances,0.66,74
+2025-05-06,Toys,4.63,148
+2025-09-05,Furniture,2.99,178
+2025-12-23,Furniture,3.49,140
+2025-01-25,Home Appliances,4.06,134
+2025-10-11,Electronics,0.77,157
+2025-06-15,Electronics,1.1,56
+2025-10-29,Toys,4.31,118
+2025-11-11,Home Appliances,2.15,150
+2025-09-26,Furniture,2.25,62
+2025-03-04,Home Appliances,3.18,170
+2025-05-11,Electronics,3.19,189
+2025-08-24,Furniture,2.63,172
+2025-07-09,Electronics,1.29,141
+2025-06-20,Furniture,0.63,188
+2025-08-09,Electronics,4.13,85
+2025-05-30,Electronics,1.7,169
+2025-11-20,Electronics,1.72,117
+2025-03-11,Electronics,1.55,135
+2025-07-28,Electronics,2.27,189
+2025-01-07,Home Appliances,2.51,133
+2025-04-20,Toys,3.93,82
+2025-07-26,Home Appliances,3.13,56
+2025-08-26,Toys,0.95,160
+2025-06-13,Electronics,1.56,139
+2025-05-31,Toys,4.45,152
+2025-08-17,Electronics,0.83,82
+2025-03-25,Furniture,1.98,142
+2025-01-21,Electronics,1.29,73
+2025-03-28,Home Appliances,4.93,149
+2025-09-18,Furniture,0.72,89
+2025-03-30,Furniture,0.98,92
+2025-03-01,Toys,2.27,196
+2025-02-17,Home Appliances,3.05,176
+2025-05-04,Furniture,4.69,73
+2025-05-16,Toys,0.65,144
+2025-02-05,Home Appliances,3.96,129
+2025-09-04,Home Appliances,0.7,107
+2025-10-12,Toys,1.04,107
+2025-10-08,Furniture,1.63,91
+2025-08-08,Home Appliances,0.93,89
+2025-09-28,Home Appliances,4.41,56
+2025-03-22,Furniture,2.32,98
+2025-12-19,Electronics,0.81,68
+2025-04-08,Furniture,2.19,104
+2025-11-04,Home Appliances,2.24,104
+2025-07-23,Electronics,2.31,82
+2025-11-18,Home Appliances,1.49,189
+2025-10-08,Home Appliances,4.04,171
+2025-12-30,Toys,1.04,67
+2025-07-11,Furniture,4.29,65
+2025-12-08,Electronics,1.17,53
+2025-03-01,Toys,4.11,74
+2025-02-01,Toys,0.62,63
+2025-08-28,Furniture,4.27,151
+2025-08-01,Furniture,1.4,198
+2025-11-30,Electronics,4.71,112
+2025-05-08,Electronics,3.69,105
+2025-09-21,Furniture,1.96,178
+2025-07-04,Toys,1.65,146
+2025-08-09,Furniture,4.13,154
+2025-01-20,Toys,3.54,59
+2025-11-02,Toys,2.93,124
+2025-01-30,Toys,3.75,168
+2025-04-26,Toys,3.99,103
+2025-08-05,Furniture,2.66,78
+2025-11-20,Toys,4.47,77
+2025-08-18,Electronics,1.27,197
+2025-11-15,Home Appliances,4.81,70
+2025-09-22,Home Appliances,3.61,71
+2025-05-05,Furniture,3.29,184
+2025-09-29,Home Appliances,4.04,126
+2025-09-28,Toys,0.91,113
+2025-11-20,Furniture,2.13,177
+2025-04-05,Toys,3.27,74
+2025-10-13,Toys,4.17,132
+2025-10-27,Furniture,3.41,153
+2025-11-15,Furniture,2.56,54
+2025-03-26,Toys,4.01,150
+2025-11-14,Furniture,3.02,168
+2025-03-23,Toys,3.0,97
+2025-10-22,Toys,1.03,71
+2025-12-18,Toys,2.77,148
+2025-10-31,Home Appliances,0.7,83
+2025-06-10,Home Appliances,0.63,77
+2025-04-01,Electronics,0.98,93
+2025-03-08,Furniture,1.67,200
+2025-11-30,Furniture,0.71,131
+2025-01-15,Home Appliances,1.08,50
+2025-03-18,Electronics,1.59,67
+2025-04-23,Furniture,1.04,102
+2025-11-01,Electronics,1.01,147
+2025-12-25,Furniture,4.38,155
+2025-04-01,Toys,4.0,108
+2025-05-07,Electronics,2.16,130
+2025-07-14,Home Appliances,2.05,160
+2025-02-02,Home Appliances,2.22,118
+2025-05-06,Toys,2.64,100
+2025-02-09,Toys,1.77,154
+2025-06-01,Home Appliances,2.6,116
+2025-12-17,Electronics,2.08,91
+2025-08-01,Home Appliances,0.99,176
+2025-12-06,Furniture,0.88,121
+2025-11-12,Electronics,1.16,172
+2025-01-18,Furniture,1.25,62
+2025-03-25,Furniture,2.86,52
+2025-03-17,Electronics,1.41,184
+2025-06-23,Home Appliances,4.82,138
+2025-12-06,Furniture,2.62,163
+2025-05-23,Home Appliances,4.4,86
+2025-01-15,Furniture,3.32,194
+2025-04-21,Home Appliances,3.94,74
+2025-11-16,Furniture,2.44,59
+2025-04-28,Toys,2.12,139
+2025-05-07,Furniture,1.32,83
+2025-10-03,Toys,3.2,87
+2025-06-29,Toys,4.48,160
+2025-06-05,Furniture,1.41,182
+2025-06-25,Home Appliances,1.05,106
+2025-04-12,Furniture,2.67,64
+2025-03-15,Toys,3.27,153
+2025-09-21,Toys,2.88,151
+2025-11-19,Toys,3.12,146
+2025-04-26,Toys,0.96,79
+2025-12-02,Furniture,2.34,181
+2025-05-25,Home Appliances,3.88,184
+2025-05-24,Furniture,1.96,56
+2025-02-15,Furniture,1.8,125
+2025-07-26,Toys,2.95,59
+2025-11-11,Electronics,4.79,116
+2025-10-21,Home Appliances,2.26,173
+2025-08-18,Toys,3.08,68
+2025-04-28,Furniture,4.01,163
+2025-11-27,Furniture,3.87,166
+2025-12-02,Toys,1.66,94
+2025-03-03,Home Appliances,3.75,120
+2025-11-23,Toys,0.83,195
+2025-02-24,Toys,2.75,59
+2025-08-02,Electronics,1.99,93
+2025-06-12,Electronics,4.34,120
+2025-03-25,Electronics,4.23,168
+2025-06-15,Toys,4.44,116
+2025-07-25,Toys,3.04,188
+2025-05-28,Electronics,3.8,82
+2025-11-15,Home Appliances,0.89,157
+2025-01-19,Electronics,1.52,175
+2025-06-30,Electronics,2.49,174
+2025-03-21,Toys,1.2,160
+2025-11-08,Furniture,1.38,129
+2025-11-28,Toys,1.19,163
+2025-03-18,Home Appliances,3.93,137
+2025-07-11,Toys,2.57,152
+2025-05-26,Furniture,2.63,197
+2025-08-30,Furniture,3.48,163
+2025-05-14,Electronics,3.17,173
+2025-10-15,Toys,2.61,128
+2025-06-04,Home Appliances,2.32,97
+2025-08-05,Furniture,0.89,124
+2025-08-09,Furniture,3.11,61
+2025-02-25,Furniture,2.8,89
+2025-10-25,Electronics,4.75,179
+2025-11-22,Furniture,4.65,167
+2025-03-21,Furniture,3.0,113
+2025-03-03,Toys,0.6,117
+2025-10-03,Electronics,0.53,189
+2025-04-11,Toys,3.38,189
+2025-02-21,Electronics,1.58,175
+2025-07-29,Electronics,3.29,192
+2025-02-09,Home Appliances,2.67,71
+2025-02-24,Furniture,3.14,62
+2025-05-07,Toys,2.73,78
+2025-12-30,Furniture,4.06,87
+2025-06-12,Furniture,2.39,170
+2025-11-27,Furniture,1.38,118
+2025-10-10,Home Appliances,4.07,90
+2025-10-03,Electronics,1.72,142
+2025-04-16,Furniture,2.6,100
+2025-07-14,Electronics,4.83,52
+2025-04-24,Furniture,4.94,96
+2025-06-14,Furniture,4.3,130
+2025-06-08,Electronics,2.32,60
+2025-04-16,Home Appliances,1.72,141
+2025-02-24,Furniture,1.92,105
+2025-09-23,Electronics,4.68,126
+2025-10-08,Toys,1.75,99
+2025-06-27,Toys,1.55,174
+2025-02-28,Electronics,1.72,55
+2025-03-24,Toys,1.04,169
+2025-05-05,Electronics,2.01,137
+2025-02-28,Toys,0.55,172
+2025-04-01,Toys,4.3,107
+2025-11-15,Electronics,2.87,174
+2025-02-11,Furniture,4.08,115
+2025-12-03,Furniture,2.42,163
+2025-05-11,Electronics,1.28,180
+2025-06-16,Home Appliances,1.81,126
+2025-06-14,Furniture,3.0,127
+2025-12-01,Furniture,0.54,84
+2025-10-27,Toys,0.74,160
+2025-11-17,Furniture,3.01,79
+2025-11-24,Toys,1.48,94
+2025-07-17,Electronics,1.65,174
+2025-10-31,Furniture,1.36,55
+2025-06-11,Home Appliances,3.77,62
+2025-09-17,Furniture,2.51,58
+2025-02-19,Furniture,2.67,55
+2025-08-18,Electronics,1.57,69
+2025-01-23,Toys,4.58,82
+2025-10-05,Home Appliances,4.91,85
+2025-05-02,Electronics,3.3,191
+2025-02-02,Furniture,3.86,144
+2025-03-17,Electronics,2.32,199
+2025-08-12,Toys,4.59,184
+2025-07-16,Toys,2.99,91
+2025-01-25,Furniture,2.1,183
+2025-05-27,Electronics,3.22,155
+2025-01-18,Toys,2.88,92
+2025-03-01,Toys,1.62,131
+2025-01-29,Electronics,3.74,150
+2025-06-20,Toys,3.43,149
+2025-04-17,Toys,3.55,163
+2025-11-02,Home Appliances,3.56,190
+2025-07-17,Home Appliances,3.99,150
+2025-12-09,Electronics,3.39,106
+2025-12-28,Toys,4.18,158
+2025-01-23,Electronics,4.34,135
+2025-06-15,Home Appliances,2.23,92
+2025-12-27,Furniture,4.98,94
+2025-06-04,Toys,3.52,113
+2025-08-13,Home Appliances,2.17,143
+2025-11-04,Home Appliances,1.81,81
+2025-06-03,Toys,4.47,183
+2025-10-09,Home Appliances,1.42,94
+2025-11-04,Toys,3.46,170
+2025-02-02,Home Appliances,4.74,125
+2025-05-10,Electronics,3.45,86
+2025-07-11,Toys,2.74,185
+2025-02-28,Home Appliances,0.89,72
+2025-12-19,Furniture,0.84,132
+2025-08-29,Home Appliances,4.21,195
+2025-10-14,Toys,4.23,137
+2025-02-27,Electronics,0.76,127
+2025-11-29,Electronics,1.34,97
+2025-07-15,Toys,1.74,134
+2025-04-26,Electronics,0.52,191
+2025-04-27,Home Appliances,2.67,69
+2025-11-21,Toys,4.25,145
+2025-03-25,Toys,2.17,89
+2025-02-16,Electronics,4.43,196
+2025-11-29,Toys,1.01,169
+2025-07-14,Home Appliances,1.03,155
+2025-12-09,Furniture,2.17,114
+2025-03-25,Home Appliances,0.7,92
+2025-11-30,Toys,1.71,113
+2025-05-20,Furniture,3.08,147
+2025-10-17,Home Appliances,1.67,67
+2025-11-29,Toys,4.24,78
+2025-07-06,Toys,1.85,99
+2025-01-05,Toys,1.62,116
+2025-05-22,Toys,4.96,51
+2025-10-09,Furniture,1.22,163
+2025-11-07,Electronics,0.92,181
+2025-07-22,Furniture,0.61,160
+2025-10-15,Home Appliances,2.09,199
+2025-02-01,Home Appliances,4.87,81
+2025-07-15,Toys,2.26,76
+2025-02-02,Electronics,4.94,197
+2025-08-02,Home Appliances,3.94,188
+2025-02-04,Furniture,2.9,150
+2025-07-11,Electronics,2.54,82
+2025-08-08,Furniture,2.33,179
+2025-11-25,Electronics,4.01,113
+2025-07-01,Home Appliances,3.69,187
+2025-10-29,Home Appliances,4.03,122
+2025-02-08,Home Appliances,2.89,138
+2025-09-21,Furniture,2.91,108
+2025-07-08,Electronics,1.02,60
+2025-11-08,Toys,1.82,120
+2025-02-26,Toys,4.8,69
+2025-12-13,Toys,3.96,112
+2025-09-06,Electronics,4.99,177
+2025-02-03,Toys,0.99,131
+2025-03-08,Furniture,3.81,172
+2025-09-05,Home Appliances,0.78,196
+2025-03-14,Toys,1.33,177
+2025-04-21,Electronics,1.84,149
+2025-05-03,Electronics,1.27,174
+2025-05-18,Furniture,4.59,95
+2025-01-17,Electronics,3.44,122
+2025-09-13,Electronics,1.55,151
+2025-06-17,Electronics,4.27,185
+2025-06-12,Home Appliances,4.33,110
+2025-04-03,Home Appliances,2.44,53
+2025-04-11,Home Appliances,3.92,182
+2025-04-10,Electronics,3.67,64
+2025-12-11,Home Appliances,4.86,76
+2025-06-26,Home Appliances,1.51,173
+2025-03-22,Home Appliances,0.89,54
+2025-12-29,Home Appliances,0.87,108
+2025-03-06,Furniture,2.84,81
+2025-01-05,Home Appliances,1.81,100
+2025-06-10,Electronics,1.14,113
+2025-08-12,Home Appliances,3.89,97
+2025-01-20,Furniture,1.35,69
+2025-07-26,Electronics,2.62,75
+2025-06-23,Electronics,3.48,177
+2025-06-04,Electronics,3.14,89
+2025-01-22,Electronics,4.93,57
+2025-08-30,Electronics,3.53,76
+2025-02-20,Toys,2.8,80
+2025-10-24,Toys,3.16,149
+2025-03-16,Home Appliances,2.76,183
+2025-10-13,Furniture,4.59,194
+2025-05-09,Electronics,3.9,86
+2025-04-30,Electronics,2.98,58
+2025-06-06,Home Appliances,1.16,74
+2025-08-18,Toys,2.52,53
+2025-11-07,Home Appliances,1.96,74
+2025-05-07,Electronics,4.1,62
+2025-05-05,Home Appliances,1.64,117
+2025-09-27,Electronics,4.82,85
+2025-12-19,Electronics,1.51,137
+2025-11-26,Electronics,4.75,60
+2025-04-18,Electronics,1.14,154
+2025-08-29,Home Appliances,2.16,195
+2025-02-11,Toys,1.53,133
+2025-10-09,Electronics,0.92,179
+2025-11-13,Home Appliances,1.29,67
+2025-01-01,Home Appliances,0.91,121
+2025-04-08,Home Appliances,4.04,139
+2025-11-30,Electronics,1.79,175
+2025-04-03,Home Appliances,4.85,153
+2025-03-11,Toys,3.37,62
+2025-01-18,Toys,2.44,171
+2025-08-07,Electronics,3.79,79
+2025-06-24,Furniture,4.67,58
+2025-05-20,Electronics,0.73,55
+2025-01-09,Furniture,4.86,75
+2025-01-05,Furniture,4.09,126
+2025-11-18,Furniture,3.0,156
+2025-05-17,Furniture,3.69,85
+2025-11-03,Home Appliances,0.82,66
+2025-09-01,Electronics,2.49,57
+2025-12-25,Furniture,2.73,160
+2025-10-22,Furniture,4.75,184
+2025-08-12,Home Appliances,1.62,76
+2025-08-21,Furniture,3.77,191
+2025-10-28,Toys,1.7,150
+2025-03-07,Toys,4.93,178
+2025-01-18,Toys,3.73,127
+2025-07-21,Electronics,4.81,154
+2025-09-27,Furniture,0.65,110
+2025-08-04,Home Appliances,4.3,67
+2025-11-10,Home Appliances,2.44,147
+2025-10-09,Toys,3.75,85
+2025-12-10,Electronics,2.79,127
+2025-02-04,Toys,3.19,189
+2025-09-08,Home Appliances,1.85,196
+2025-04-10,Electronics,1.69,72
+2025-06-25,Home Appliances,4.21,141
+2025-05-09,Toys,3.97,153
+2025-07-21,Home Appliances,0.71,149
+2025-06-18,Home Appliances,3.21,198
+2025-10-17,Furniture,1.59,130
+2025-12-17,Home Appliances,4.84,152
+2025-02-08,Home Appliances,4.55,191
+2025-09-29,Home Appliances,1.13,96
+2025-10-29,Toys,3.9,143
+2025-08-25,Toys,4.62,199
+2025-11-09,Home Appliances,4.25,75
+2025-07-15,Furniture,4.94,113
+2025-09-06,Home Appliances,1.31,93
+2025-10-08,Electronics,2.11,172
+2025-03-27,Electronics,4.94,196
+2025-04-22,Furniture,0.57,173
+2025-02-11,Home Appliances,1.65,158
+2025-09-04,Furniture,0.65,92
+2025-03-22,Toys,4.64,128
+2025-01-19,Home Appliances,0.65,154
+2025-02-04,Toys,0.77,156
+2025-09-01,Toys,4.89,175
+2025-01-06,Home Appliances,2.32,140
+2025-09-12,Toys,3.97,168
+2025-10-09,Home Appliances,3.98,107
